@@ -1,0 +1,55 @@
+table dAeroporto
+	lineageTag: c0ce50e0-e44a-46e6-9d03-8b352c7d847f
+
+	column Aeroporto
+		dataType: string
+		lineageTag: e5c87c02-a791-4341-90f4-507eac2df1af
+		summarizeBy: none
+		sourceColumn: Aeroporto
+
+		annotation SummarizationSetBy = Automatic
+
+	column Nome
+		dataType: string
+		lineageTag: 945e8a89-75c0-44f8-9410-473913b111a2
+		summarizeBy: none
+		sourceColumn: Nome
+
+		annotation SummarizationSetBy = Automatic
+
+	column UF
+		dataType: string
+		lineageTag: 8632ddcc-4137-44db-aa44-b5a360b4d312
+		summarizeBy: none
+		sourceColumn: UF
+
+		annotation SummarizationSetBy = Automatic
+
+	column Regiao
+		dataType: string
+		lineageTag: 65dad5b2-8471-438d-bf38-d8ba552b892c
+		summarizeBy: none
+		sourceColumn: Regiao
+
+		annotation SummarizationSetBy = Automatic
+
+	column Cidade
+		dataType: string
+		lineageTag: 5b64ebfc-a2d1-41d6-854c-593a8cf63f3e
+		summarizeBy: none
+		sourceColumn: Cidade
+
+		annotation SummarizationSetBy = Automatic
+
+	partition dAeroporto = m
+		mode: import
+		source =
+				let
+				    Fonte = Csv.Document(File.Contents(PastaDados & "dAeroporto.csv"), [Delimiter = ",", Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+				    Cabecalho = Table.PromoteHeaders(Fonte, [PromoteAllScalars = true]),
+				    Tipos = Table.TransformColumnTypes(Cabecalho, {{"Aeroporto", type text}, {"Nome", type text}, {"UF", type text}, {"Regiao", type text}, {"Cidade", type text}}, "en-US")
+				in
+				    Tipos
+
+	annotation PBI_ResultType = Table
+

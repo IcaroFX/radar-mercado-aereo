@@ -1,0 +1,61 @@
+table fForecast
+	lineageTag: c9eb5f99-7188-42e1-9dae-aa7b90e47753
+
+	column Data
+		dataType: dateTime
+		isHidden
+		formatString: mmm/yy
+		lineageTag: 097f71d2-bdb8-4ee4-8d8b-7a1d2cd078d4
+		summarizeBy: none
+		sourceColumn: Data
+
+		annotation SummarizationSetBy = Automatic
+
+	column Realizado
+		dataType: double
+		formatString: #,0
+		lineageTag: 0e1023aa-a2d9-4fee-831c-9a9390fcf0ff
+		summarizeBy: sum
+		sourceColumn: Realizado
+
+		annotation SummarizationSetBy = Automatic
+
+	column Previsao
+		dataType: double
+		formatString: #,0
+		lineageTag: c84dd9eb-967d-4d40-9735-eb22726306b2
+		summarizeBy: sum
+		sourceColumn: Previsao
+
+		annotation SummarizationSetBy = Automatic
+
+	column P10
+		dataType: double
+		formatString: #,0
+		lineageTag: eb5990cb-bbdd-4da0-b8bc-94deafba7084
+		summarizeBy: sum
+		sourceColumn: P10
+
+		annotation SummarizationSetBy = Automatic
+
+	column P90
+		dataType: double
+		formatString: #,0
+		lineageTag: 5cdc54ef-fe3e-49d0-8f32-45da2b823a7e
+		summarizeBy: sum
+		sourceColumn: P90
+
+		annotation SummarizationSetBy = Automatic
+
+	partition fForecast = m
+		mode: import
+		source =
+				let
+				    Fonte = Csv.Document(File.Contents(PastaDados & "fForecast.csv"), [Delimiter = ",", Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+				    Cabecalho = Table.PromoteHeaders(Fonte, [PromoteAllScalars = true]),
+				    Tipos = Table.TransformColumnTypes(Cabecalho, {{"Data", type date}, {"Realizado", type number}, {"Previsao", type number}, {"P10", type number}, {"P90", type number}}, "en-US")
+				in
+				    Tipos
+
+	annotation PBI_ResultType = Table
+

@@ -1,0 +1,122 @@
+table fVoos
+	lineageTag: 07eeb3c5-e767-4fa8-b5f4-bf69e388177a
+
+	column Data
+		dataType: dateTime
+		isHidden
+		formatString: dd/mm/yyyy
+		lineageTag: ec4bb1f6-d3a7-43b6-af0b-17e531dff6bc
+		summarizeBy: none
+		sourceColumn: Data
+
+		annotation SummarizationSetBy = Automatic
+
+	column Cia
+		dataType: string
+		isHidden
+		lineageTag: f4afd76f-89c8-4c0e-9d47-4c1ad9ae60ec
+		summarizeBy: none
+		sourceColumn: Cia
+
+		annotation SummarizationSetBy = Automatic
+
+	column Empresa
+		dataType: string
+		lineageTag: 049f5485-6321-4d0f-9564-d1dfd3b915fe
+		summarizeBy: none
+		sourceColumn: Empresa
+
+		annotation SummarizationSetBy = Automatic
+
+	column Origem
+		dataType: string
+		isHidden
+		lineageTag: af0b3464-47f9-4b2a-a696-aa18cc34836d
+		summarizeBy: none
+		sourceColumn: Origem
+
+		annotation SummarizationSetBy = Automatic
+
+	column Destino
+		dataType: string
+		lineageTag: 14c737e4-f401-4bd4-8b1a-9d0107849c2f
+		summarizeBy: none
+		sourceColumn: Destino
+
+		annotation SummarizationSetBy = Automatic
+
+	column Mercado
+		dataType: string
+		isHidden
+		lineageTag: 205ce8ab-662d-400d-92cb-b5b5602b5399
+		summarizeBy: none
+		sourceColumn: Mercado
+
+		annotation SummarizationSetBy = Automatic
+
+	column Passageiros
+		dataType: int64
+		formatString: #,0
+		lineageTag: 0aa3d6d6-2198-4fd4-840b-9aaa296d8367
+		summarizeBy: sum
+		sourceColumn: Passageiros
+
+		annotation SummarizationSetBy = Automatic
+
+	column ASK
+		dataType: int64
+		formatString: #,0
+		lineageTag: 03677ee5-86e6-4c63-afd3-a5919f495365
+		summarizeBy: sum
+		sourceColumn: ASK
+
+		annotation SummarizationSetBy = Automatic
+
+	column RPK
+		dataType: int64
+		formatString: #,0
+		lineageTag: 8d7d84cf-f663-4a98-9345-712d40d29f08
+		summarizeBy: sum
+		sourceColumn: RPK
+
+		annotation SummarizationSetBy = Automatic
+
+	column Assentos
+		dataType: int64
+		formatString: #,0
+		lineageTag: 0abc6c06-5d78-4d6a-aa07-91000bcddc74
+		summarizeBy: sum
+		sourceColumn: Assentos
+
+		annotation SummarizationSetBy = Automatic
+
+	column Decolagens
+		dataType: int64
+		formatString: #,0
+		lineageTag: 3a23665d-82df-443d-b764-d995c7f8f30c
+		summarizeBy: sum
+		sourceColumn: Decolagens
+
+		annotation SummarizationSetBy = Automatic
+
+	column DistanciaKm
+		dataType: int64
+		formatString: #,0
+		lineageTag: aeac7bfb-a2ce-4ae7-8218-5ad08cd9990c
+		summarizeBy: sum
+		sourceColumn: DistanciaKm
+
+		annotation SummarizationSetBy = Automatic
+
+	partition fVoos = m
+		mode: import
+		source =
+				let
+				    Fonte = Csv.Document(File.Contents(PastaDados & "fVoos.csv"), [Delimiter = ",", Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+				    Cabecalho = Table.PromoteHeaders(Fonte, [PromoteAllScalars = true]),
+				    Tipos = Table.TransformColumnTypes(Cabecalho, {{"Data", type date}, {"Cia", type text}, {"Empresa", type text}, {"Origem", type text}, {"Destino", type text}, {"Mercado", type text}, {"Passageiros", Int64.Type}, {"ASK", Int64.Type}, {"RPK", Int64.Type}, {"Assentos", Int64.Type}, {"Decolagens", Int64.Type}, {"DistanciaKm", Int64.Type}}, "en-US")
+				in
+				    Tipos
+
+	annotation PBI_ResultType = Table
+

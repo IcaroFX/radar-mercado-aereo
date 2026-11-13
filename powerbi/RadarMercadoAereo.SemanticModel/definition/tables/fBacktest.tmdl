@@ -1,0 +1,49 @@
+table fBacktest
+	lineageTag: b05eff6b-a668-420c-85ed-c143a219549f
+
+	column Modelo
+		dataType: string
+		lineageTag: 5a75cab5-1517-494d-bd84-989003be0e7d
+		summarizeBy: none
+		sourceColumn: Modelo
+
+		annotation SummarizationSetBy = Automatic
+
+	column MAPE
+		dataType: double
+		formatString: 0.0%
+		lineageTag: ecd0a4c5-c07c-4d98-b00c-ab5d658a9e65
+		summarizeBy: none
+		sourceColumn: MAPE
+
+		annotation SummarizationSetBy = Automatic
+
+	column Vies
+		dataType: double
+		formatString: +0.0%;-0.0%;0.0%
+		lineageTag: 76a0bdd6-778f-4bc6-90c1-0c893b35f982
+		summarizeBy: none
+		sourceColumn: Vies
+
+		annotation SummarizationSetBy = Automatic
+
+	column Escolhido
+		dataType: string
+		lineageTag: b395e1ce-ba03-4c7c-adf4-ba58968e0aa0
+		summarizeBy: none
+		sourceColumn: Escolhido
+
+		annotation SummarizationSetBy = Automatic
+
+	partition fBacktest = m
+		mode: import
+		source =
+				let
+				    Fonte = Csv.Document(File.Contents(PastaDados & "fBacktest.csv"), [Delimiter = ",", Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+				    Cabecalho = Table.PromoteHeaders(Fonte, [PromoteAllScalars = true]),
+				    Tipos = Table.TransformColumnTypes(Cabecalho, {{"Modelo", type text}, {"MAPE", type number}, {"Vies", type number}, {"Escolhido", type text}}, "en-US")
+				in
+				    Tipos
+
+	annotation PBI_ResultType = Table
+

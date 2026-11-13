@@ -1,0 +1,16 @@
+relationship 98cbbb02-da6c-4506-83b1-378921e26b28
+	fromColumn: fVoos.Data
+	toColumn: dCalendario.Data
+
+relationship 19578b33-3fd3-48b9-b4b6-8c6063395e43
+	fromColumn: fVoos.Cia
+	toColumn: dCia.Cia
+
+relationship ce107a7d-8179-4ee9-b2cc-1e8dd6999835
+	fromColumn: fVoos.Mercado
+	toColumn: dMercado.Mercado
+
+relationship 6dae8b28-9f16-4be0-a44f-3b7478a1cdfb
+	fromColumn: fVoos.Origem
+	toColumn: dAeroporto.Aeroporto
+

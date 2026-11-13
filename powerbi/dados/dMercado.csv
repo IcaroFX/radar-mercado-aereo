@@ -1,0 +1,1436 @@
+Mercado,Cidade A,Cidade B,UF A,Região A,UF B,Região B,Tipo,Conecta SAO,Distância média (km),Faixa de distância,Top 25 GOL,Quadrante GOL (jan a set 26)
+AJU-BEL,AJU,BEL,SE,Nordeste,PA,Norte,Inter-regional,Não,1651.0,Longa (acima de 1.600 km),Não,Fora do top 25
+AJU-BHZ,AJU,BHZ,SE,Nordeste,MG,Sudeste,Inter-regional,Não,1212.0,Média (800 a 1.600 km),Não,Fora do top 25
+AJU-BPS,AJU,BPS,SE,Nordeste,BA,Nordeste,Intrarregional,Não,644.0,Curta (até 800 km),Não,Fora do top 25
+AJU-BSB,AJU,BSB,SE,Nordeste,DF,Centro-Oeste,Inter-regional,Não,1292.0,Média (800 a 1.600 km),Não,Fora do top 25
+AJU-CPV,AJU,CPV,SE,Nordeste,PB,Nordeste,Intrarregional,Não,433.0,Curta (até 800 km),Não,Fora do top 25
+AJU-FOR,AJU,FOR,SE,Nordeste,CE,Nordeste,Intrarregional,Não,818.0,Média (800 a 1.600 km),Não,Fora do top 25
+AJU-GYN,AJU,GYN,SE,Nordeste,GO,Centro-Oeste,Inter-regional,Não,1454.0,Média (800 a 1.600 km),Não,Fora do top 25
+AJU-IOS,AJU,IOS,SE,Nordeste,BA,Nordeste,Intrarregional,Não,476.0,Curta (até 800 km),Não,Fora do top 25
+AJU-JPA,AJU,JPA,SE,Nordeste,PB,Nordeste,Intrarregional,Não,486.0,Curta (até 800 km),Não,Fora do top 25
+AJU-MCZ,AJU,MCZ,SE,Nordeste,AL,Nordeste,Intrarregional,Não,216.0,Curta (até 800 km),Não,Fora do top 25
+AJU-MOC,AJU,MOC,SE,Nordeste,MG,Sudeste,Inter-regional,Não,967.0,Média (800 a 1.600 km),Não,Fora do top 25
+AJU-NAT,AJU,NAT,SE,Nordeste,RN,Nordeste,Intrarregional,Não,610.0,Curta (até 800 km),Não,Fora do top 25
+AJU-POA,AJU,POA,SE,Nordeste,RS,Sul,Inter-regional,Não,,,Não,Fora do top 25
+AJU-RAO,AJU,RAO,SE,Nordeste,SP,Sudeste,Inter-regional,Não,1605.0,Longa (acima de 1.600 km),Não,Fora do top 25
+AJU-REC,AJU,REC,SE,Nordeste,PE,Nordeste,Intrarregional,Não,396.0,Curta (até 800 km),Não,Fora do top 25
+AJU-RIO,AJU,RIO,SE,Nordeste,RJ,Sudeste,Inter-regional,Não,1469.0,Média (800 a 1.600 km),Não,Fora do top 25
+AJU-SAO,AJU,SAO,SE,Nordeste,SP,Sudeste,Inter-regional,Sim,1708.0,Longa (acima de 1.600 km),Não,Fora do top 25
+AJU-SLZ,AJU,SLZ,SE,Nordeste,MA,Nordeste,Intrarregional,Não,1223.0,Média (800 a 1.600 km),Não,Fora do top 25
+AJU-SSA,AJU,SSA,SE,Nordeste,BA,Nordeste,Intrarregional,Não,253.0,Curta (até 800 km),Não,Fora do top 25
+AJU-VDC,AJU,VDC,SE,Nordeste,BA,Nordeste,Intrarregional,Não,603.0,Curta (até 800 km),Não,Fora do top 25
+AJU-VIX,AJU,VIX,SE,Nordeste,ES,Sudeste,Inter-regional,Não,1087.0,Média (800 a 1.600 km),Não,Fora do top 25
+BEL-BHZ,BEL,BHZ,PA,Norte,MG,Sudeste,Inter-regional,Não,2087.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BEL-BPS,BEL,BPS,PA,Norte,BA,Nordeste,Inter-regional,Não,1965.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BEL-BSB,BEL,BSB,PA,Norte,DF,Centro-Oeste,Inter-regional,Não,1612.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BEL-BVB,BEL,BVB,PA,Norte,RR,Norte,Intrarregional,Não,1437.0,Média (800 a 1.600 km),Não,Fora do top 25
+BEL-CGB,BEL,CGB,PA,Norte,MT,Centro-Oeste,Inter-regional,Não,1794.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BEL-CWB,BEL,CWB,PA,Norte,PR,Sul,Inter-regional,Não,2686.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BEL-FOR,BEL,FOR,PA,Norte,CE,Nordeste,Inter-regional,Não,1136.0,Média (800 a 1.600 km),Não,Fora do top 25
+BEL-GYN,BEL,GYN,PA,Norte,GO,Centro-Oeste,Inter-regional,Não,1697.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BEL-IMP,BEL,IMP,PA,Norte,MA,Nordeste,Inter-regional,Não,475.0,Curta (até 800 km),Não,Fora do top 25
+BEL-JPA,BEL,JPA,PA,Norte,PB,Nordeste,Inter-regional,Não,1631.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BEL-MAB,BEL,MAB,PA,Norte,PA,Norte,Intrarregional,Não,449.0,Curta (até 800 km),Não,Fora do top 25
+BEL-MAO,BEL,MAO,PA,Norte,AM,Norte,Intrarregional,Não,1299.0,Média (800 a 1.600 km),Não,Fora do top 25
+BEL-MCP,BEL,MCP,PA,Norte,AP,Norte,Intrarregional,Não,329.0,Curta (até 800 km),Não,Fora do top 25
+BEL-MCZ,BEL,MCZ,PA,Norte,AL,Nordeste,Inter-regional,Não,1670.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BEL-NAT,BEL,NAT,PA,Norte,RN,Nordeste,Inter-regional,Não,1534.0,Média (800 a 1.600 km),Não,Fora do top 25
+BEL-PMW,BEL,PMW,PA,Norte,TO,Norte,Intrarregional,Não,990.0,Média (800 a 1.600 km),Não,Fora do top 25
+BEL-POA,BEL,POA,PA,Norte,RS,Sul,Inter-regional,Não,,,Não,Fora do top 25
+BEL-PVH,BEL,PVH,PA,Norte,RO,Norte,Intrarregional,Não,1892.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BEL-QDV,BEL,QDV,PA,Norte,SP,Sudeste,Inter-regional,Não,,,Não,Fora do top 25
+BEL-RAO,BEL,RAO,PA,Norte,SP,Sudeste,Inter-regional,Não,2198.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BEL-REC,BEL,REC,PA,Norte,PE,Nordeste,Inter-regional,Não,1678.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BEL-RIO,BEL,RIO,PA,Norte,RJ,Sudeste,Inter-regional,Não,2448.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BEL-SAO,BEL,SAO,PA,Norte,SP,Sudeste,Inter-regional,Sim,2445.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BEL-SBCJ,BEL,SBCJ,PA,Norte,PA,Norte,Intrarregional,Não,552.0,Curta (até 800 km),Não,Fora do top 25
+BEL-SBHT,BEL,SBHT,PA,Norte,PA,Norte,Intrarregional,Não,468.0,Curta (até 800 km),Não,Fora do top 25
+BEL-SBIH,BEL,SBIH,PA,Norte,PA,Norte,Intrarregional,Não,,,Não,Fora do top 25
+BEL-SBJC,BEL,SBJC,PA,Norte,PA,Norte,Intrarregional,Não,4.0,Curta (até 800 km),Não,Fora do top 25
+BEL-SBMD,BEL,SBMD,PA,Norte,PA,Norte,Intrarregional,Não,462.0,Curta (até 800 km),Não,Fora do top 25
+BEL-SBOI,BEL,SBOI,PA,Norte,AP,Norte,Intrarregional,Não,690.0,Curta (até 800 km),Não,Fora do top 25
+BEL-SBPB,BEL,SBPB,PA,Norte,PI,Nordeste,Inter-regional,Não,768.0,Curta (até 800 km),Não,Fora do top 25
+BEL-SBSJ,BEL,SBSJ,PA,Norte,SP,Sudeste,Inter-regional,Não,2445.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BEL-SBTB,BEL,SBTB,PA,Norte,PA,Norte,Intrarregional,Não,,,Não,Fora do top 25
+BEL-SBTU,BEL,SBTU,PA,Norte,PA,Norte,Intrarregional,Não,300.0,Curta (até 800 km),Não,Fora do top 25
+BEL-SDOW,BEL,SDOW,PA,Norte,PA,Norte,Intrarregional,Não,662.0,Curta (até 800 km),Não,Fora do top 25
+BEL-SLZ,BEL,SLZ,PA,Norte,MA,Nordeste,Inter-regional,Não,490.0,Curta (até 800 km),Não,Fora do top 25
+BEL-SNEB,BEL,SNEB,PA,Norte,PA,Norte,Intrarregional,Não,223.0,Curta (até 800 km),Não,Fora do top 25
+BEL-SNMZ,BEL,SNMZ,PA,Norte,PA,Norte,Intrarregional,Não,419.0,Curta (até 800 km),Não,Fora do top 25
+BEL-SNSM,BEL,SNSM,PA,Norte,PA,Norte,Intrarregional,Não,148.0,Curta (até 800 km),Não,Fora do top 25
+BEL-SNVS,BEL,SNVS,PA,Norte,PA,Norte,Intrarregional,Não,220.0,Curta (até 800 km),Não,Fora do top 25
+BEL-SNYA,BEL,SNYA,PA,Norte,PA,Norte,Intrarregional,Não,456.0,Curta (até 800 km),Não,Fora do top 25
+BEL-SSA,BEL,SSA,PA,Norte,BA,Nordeste,Inter-regional,Não,1701.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BEL-STM,BEL,STM,PA,Norte,PA,Norte,Intrarregional,Não,710.0,Curta (até 800 km),Não,Fora do top 25
+BEL-SWNS,BEL,SWNS,PA,Norte,GO,Centro-Oeste,Inter-regional,Não,1666.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BEL-SWPI,BEL,SWPI,PA,Norte,AM,Norte,Intrarregional,Não,,,Não,Fora do top 25
+BEL-THE,BEL,THE,PA,Norte,PI,Nordeste,Inter-regional,Não,749.0,Curta (até 800 km),Não,Fora do top 25
+BEL-UDI,BEL,UDI,PA,Norte,MG,Sudeste,Inter-regional,Não,1946.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BEL-VIX,BEL,VIX,PA,Norte,ES,Sudeste,Inter-regional,Não,2280.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BHZ-BPS,BHZ,BPS,MG,Sudeste,BA,Nordeste,Inter-regional,Não,627.0,Curta (até 800 km),Não,Fora do top 25
+BHZ-BSB,BHZ,BSB,MG,Sudeste,DF,Centro-Oeste,Inter-regional,Não,591.0,Curta (até 800 km),Não,Fora do top 25
+BHZ-CAC,BHZ,CAC,MG,Sudeste,PR,Sul,Inter-regional,Não,1148.0,Média (800 a 1.600 km),Não,Fora do top 25
+BHZ-CGB,BHZ,CGB,MG,Sudeste,MT,Centro-Oeste,Inter-regional,Não,1360.0,Média (800 a 1.600 km),Não,Fora do top 25
+BHZ-CGR,BHZ,CGR,MG,Sudeste,MS,Centro-Oeste,Inter-regional,Não,1121.0,Média (800 a 1.600 km),Não,Fora do top 25
+BHZ-CPV,BHZ,CPV,MG,Sudeste,PB,Nordeste,Inter-regional,Não,1627.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BHZ-CWB,BHZ,CWB,MG,Sudeste,PR,Sul,Inter-regional,Não,846.0,Média (800 a 1.600 km),Não,Fora do top 25
+BHZ-FEN,BHZ,FEN,MG,Sudeste,PE,Nordeste,Inter-regional,Não,2155.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BHZ-FLN,BHZ,FLN,MG,Sudeste,SC,Sul,Inter-regional,Não,1009.0,Média (800 a 1.600 km),Não,Fora do top 25
+BHZ-FOR,BHZ,FOR,MG,Sudeste,CE,Nordeste,Inter-regional,Não,1858.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BHZ-GVR,BHZ,GVR,MG,Sudeste,MG,Sudeste,Intrarregional,Não,224.0,Curta (até 800 km),Não,Fora do top 25
+BHZ-GYN,BHZ,GYN,MG,Sudeste,GO,Centro-Oeste,Inter-regional,Não,647.0,Curta (até 800 km),Não,Fora do top 25
+BHZ-IGU,BHZ,IGU,MG,Sudeste,PR,Sul,Inter-regional,Não,1266.0,Média (800 a 1.600 km),Não,Fora do top 25
+BHZ-IMP,BHZ,IMP,MG,Sudeste,MA,Nordeste,Inter-regional,Não,1612.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BHZ-IOS,BHZ,IOS,MG,Sudeste,BA,Nordeste,Inter-regional,Não,749.0,Curta (até 800 km),Não,Fora do top 25
+BHZ-JDO,BHZ,JDO,MG,Sudeste,CE,Nordeste,Inter-regional,Não,1470.0,Média (800 a 1.600 km),Não,Fora do top 25
+BHZ-JOI,BHZ,JOI,MG,Sudeste,SC,Sul,Inter-regional,Não,884.0,Média (800 a 1.600 km),Não,Fora do top 25
+BHZ-JPA,BHZ,JPA,MG,Sudeste,PB,Nordeste,Inter-regional,Não,1695.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BHZ-LDB,BHZ,LDB,MG,Sudeste,PR,Sul,Inter-regional,Não,848.0,Média (800 a 1.600 km),Não,Fora do top 25
+BHZ-MAB,BHZ,MAB,MG,Sudeste,PA,Norte,Inter-regional,Não,1681.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BHZ-MAO,BHZ,MAO,MG,Sudeste,AM,Norte,Inter-regional,Não,2539.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BHZ-MCP,BHZ,MCP,MG,Sudeste,AP,Norte,Inter-regional,Não,2321.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BHZ-MCZ,BHZ,MCZ,MG,Sudeste,AL,Nordeste,Inter-regional,Não,1427.0,Média (800 a 1.600 km),Não,Fora do top 25
+BHZ-MGF,BHZ,MGF,MG,Sudeste,PR,Sul,Inter-regional,Não,935.0,Média (800 a 1.600 km),Não,Fora do top 25
+BHZ-MOC,BHZ,MOC,MG,Sudeste,MG,Sudeste,Intrarregional,Não,325.0,Curta (até 800 km),Não,Fora do top 25
+BHZ-NAT,BHZ,NAT,MG,Sudeste,RN,Nordeste,Inter-regional,Não,1800.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BHZ-NVT,BHZ,NVT,MG,Sudeste,SC,Sul,Inter-regional,Não,937.0,Média (800 a 1.600 km),Não,Fora do top 25
+BHZ-OPS,BHZ,OPS,MG,Sudeste,MT,Centro-Oeste,Inter-regional,Não,1511.0,Média (800 a 1.600 km),Não,Fora do top 25
+BHZ-PFB,BHZ,PFB,MG,Sudeste,RS,Sul,Inter-regional,Não,1280.0,Média (800 a 1.600 km),Não,Fora do top 25
+BHZ-PMW,BHZ,PMW,MG,Sudeste,TO,Norte,Inter-regional,Não,1140.0,Média (800 a 1.600 km),Não,Fora do top 25
+BHZ-PNZ,BHZ,PNZ,MG,Sudeste,PE,Nordeste,Inter-regional,Não,1198.0,Média (800 a 1.600 km),Não,Fora do top 25
+BHZ-POA,BHZ,POA,MG,Sudeste,RS,Sul,Inter-regional,Não,1362.0,Média (800 a 1.600 km),Não,Fora do top 25
+BHZ-PVH,BHZ,PVH,MG,Sudeste,RO,Norte,Inter-regional,Não,2464.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BHZ-QDV,BHZ,QDV,MG,Sudeste,SP,Sudeste,Intrarregional,Não,498.0,Curta (até 800 km),Não,Fora do top 25
+BHZ-RAO,BHZ,RAO,MG,Sudeste,SP,Sudeste,Intrarregional,Não,431.0,Curta (até 800 km),Não,Fora do top 25
+BHZ-RBR,BHZ,RBR,MG,Sudeste,AC,Norte,Inter-regional,Não,2788.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BHZ-REC,BHZ,REC,MG,Sudeste,PE,Nordeste,Inter-regional,Não,1608.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BHZ-RIO,BHZ,RIO,MG,Sudeste,RJ,Sudeste,Intrarregional,Não,371.0,Curta (até 800 km),Não,Fora do top 25
+BHZ-SAO,BHZ,SAO,MG,Sudeste,SP,Sudeste,Intrarregional,Sim,510.0,Curta (até 800 km),Sim,Consolidar
+BHZ-SBAE,BHZ,SBAE,MG,Sudeste,SP,Sudeste,Intrarregional,Não,,,Não,Fora do top 25
+BHZ-SBAU,BHZ,SBAU,MG,Sudeste,SP,Sudeste,Intrarregional,Não,,,Não,Fora do top 25
+BHZ-SBAX,BHZ,SBAX,MG,Sudeste,MG,Sudeste,Intrarregional,Não,314.0,Curta (até 800 km),Não,Fora do top 25
+BHZ-SBBP,BHZ,SBBP,MG,Sudeste,SP,Sudeste,Intrarregional,Não,458.0,Curta (até 800 km),Não,Fora do top 25
+BHZ-SBCB,BHZ,SBCB,MG,Sudeste,RJ,Sudeste,Intrarregional,Não,416.0,Curta (até 800 km),Não,Fora do top 25
+BHZ-SBCJ,BHZ,SBCJ,MG,Sudeste,PA,Norte,Inter-regional,Não,1637.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BHZ-SBCN,BHZ,SBCN,MG,Sudeste,GO,Centro-Oeste,Inter-regional,Não,532.0,Curta (até 800 km),Não,Fora do top 25
+BHZ-SBCZ,BHZ,SBCZ,MG,Sudeste,AC,Norte,Inter-regional,Não,,,Não,Fora do top 25
+BHZ-SBDB,BHZ,SBDB,MG,Sudeste,MS,Centro-Oeste,Inter-regional,Não,1313.0,Média (800 a 1.600 km),Não,Fora do top 25
+BHZ-SBDN,BHZ,SBDN,MG,Sudeste,SP,Sudeste,Intrarregional,Não,820.0,Média (800 a 1.600 km),Não,Fora do top 25
+BHZ-SBIP,BHZ,SBIP,MG,Sudeste,MG,Sudeste,Intrarregional,Não,156.0,Curta (até 800 km),Não,Fora do top 25
+BHZ-SBJE,BHZ,SBJE,MG,Sudeste,CE,Nordeste,Inter-regional,Não,1900.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BHZ-SBJR,BHZ,SBJR,MG,Sudeste,RJ,Sudeste,Intrarregional,Não,379.0,Curta (até 800 km),Não,Fora do top 25
+BHZ-SBLE,BHZ,SBLE,MG,Sudeste,BA,Nordeste,Inter-regional,Não,845.0,Média (800 a 1.600 km),Não,Fora do top 25
+BHZ-SBMI,BHZ,SBMI,MG,Sudeste,RJ,Sudeste,Intrarregional,Não,385.0,Curta (até 800 km),Não,Fora do top 25
+BHZ-SBPB,BHZ,SBPB,MG,Sudeste,PI,Nordeste,Inter-regional,Não,1876.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BHZ-SBPC,BHZ,SBPC,MG,Sudeste,MG,Sudeste,Intrarregional,Não,350.0,Curta (até 800 km),Não,Fora do top 25
+BHZ-SBPP,BHZ,SBPP,MG,Sudeste,MS,Centro-Oeste,Inter-regional,Não,1259.0,Média (800 a 1.600 km),Não,Fora do top 25
+BHZ-SBQV,BHZ,SBQV,MG,Sudeste,BA,Nordeste,Inter-regional,Não,624.0,Curta (até 800 km),Não,Fora do top 25
+BHZ-SBRD,BHZ,SBRD,MG,Sudeste,MT,Centro-Oeste,Inter-regional,Não,1185.0,Média (800 a 1.600 km),Não,Fora do top 25
+BHZ-SBSJ,BHZ,SBSJ,MG,Sudeste,SP,Sudeste,Intrarregional,Não,446.0,Curta (até 800 km),Não,Fora do top 25
+BHZ-SBSO,BHZ,SBSO,MG,Sudeste,MT,Centro-Oeste,Inter-regional,Não,1480.0,Média (800 a 1.600 km),Não,Fora do top 25
+BHZ-SBTC,BHZ,SBTC,MG,Sudeste,BA,Nordeste,Inter-regional,Não,710.0,Curta (até 800 km),Não,Fora do top 25
+BHZ-SBVG,BHZ,SBVG,MG,Sudeste,MG,Sudeste,Intrarregional,Não,268.0,Curta (até 800 km),Não,Fora do top 25
+BHZ-SBVH,BHZ,SBVH,MG,Sudeste,RO,Norte,Inter-regional,Não,,,Não,Fora do top 25
+BHZ-SBZM,BHZ,SBZM,MG,Sudeste,MG,Sudeste,Intrarregional,Não,226.0,Curta (até 800 km),Não,Fora do top 25
+BHZ-SDAG,BHZ,SDAG,MG,Sudeste,RJ,Sudeste,Intrarregional,Não,349.0,Curta (até 800 km),Não,Fora do top 25
+BHZ-SDCO,BHZ,SDCO,MG,Sudeste,SP,Sudeste,Intrarregional,Não,562.0,Curta (até 800 km),Não,Fora do top 25
+BHZ-SDIY,BHZ,SDIY,MG,Sudeste,BA,Nordeste,Inter-regional,Não,987.0,Média (800 a 1.600 km),Não,Fora do top 25
+BHZ-SJP,BHZ,SJP,MG,Sudeste,SP,Sudeste,Intrarregional,Não,582.0,Curta (até 800 km),Não,Fora do top 25
+BHZ-SLZ,BHZ,SLZ,MG,Sudeste,MA,Nordeste,Inter-regional,Não,1895.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BHZ-SNAR,BHZ,SNAR,MG,Sudeste,MG,Sudeste,Intrarregional,Não,536.0,Curta (até 800 km),Não,Fora do top 25
+BHZ-SNBR,BHZ,SNBR,MG,Sudeste,BA,Nordeste,Inter-regional,Não,846.0,Média (800 a 1.600 km),Não,Fora do top 25
+BHZ-SNCT,BHZ,SNCT,MG,Sudeste,MG,Sudeste,Intrarregional,Não,193.0,Curta (até 800 km),Não,Fora do top 25
+BHZ-SNDT,BHZ,SNDT,MG,Sudeste,MG,Sudeste,Intrarregional,Não,174.0,Curta (até 800 km),Não,Fora do top 25
+BHZ-SNDV,BHZ,SNDV,MG,Sudeste,MG,Sudeste,Intrarregional,Não,113.0,Curta (até 800 km),Não,Fora do top 25
+BHZ-SNGA,BHZ,SNGA,MG,Sudeste,ES,Sudeste,Intrarregional,Não,381.0,Curta (até 800 km),Não,Fora do top 25
+BHZ-SNGI,BHZ,SNGI,MG,Sudeste,BA,Nordeste,Inter-regional,Não,616.0,Curta (até 800 km),Não,Fora do top 25
+BHZ-SNGX,BHZ,SNGX,MG,Sudeste,MG,Sudeste,Intrarregional,Não,333.0,Curta (até 800 km),Não,Fora do top 25
+BHZ-SNJM,BHZ,SNJM,MG,Sudeste,MG,Sudeste,Intrarregional,Não,199.0,Curta (até 800 km),Não,Fora do top 25
+BHZ-SNJR,BHZ,SNJR,MG,Sudeste,MG,Sudeste,Intrarregional,Não,165.0,Curta (até 800 km),Não,Fora do top 25
+BHZ-SNLN,BHZ,SNLN,MG,Sudeste,ES,Sudeste,Intrarregional,Não,410.0,Curta (até 800 km),Não,Fora do top 25
+BHZ-SNOS,BHZ,SNOS,MG,Sudeste,MG,Sudeste,Intrarregional,Não,299.0,Curta (até 800 km),Não,Fora do top 25
+BHZ-SNPD,BHZ,SNPD,MG,Sudeste,MG,Sudeste,Intrarregional,Não,286.0,Curta (até 800 km),Não,Fora do top 25
+BHZ-SNPJ,BHZ,SNPJ,MG,Sudeste,MG,Sudeste,Intrarregional,Não,335.0,Curta (até 800 km),Não,Fora do top 25
+BHZ-SNSS,BHZ,SNSS,MG,Sudeste,MG,Sudeste,Intrarregional,Não,418.0,Curta (até 800 km),Não,Fora do top 25
+BHZ-SNTF,BHZ,SNTF,MG,Sudeste,BA,Nordeste,Inter-regional,Não,510.0,Curta (até 800 km),Não,Fora do top 25
+BHZ-SNTO,BHZ,SNTO,MG,Sudeste,MG,Sudeste,Intrarregional,Não,326.0,Curta (até 800 km),Não,Fora do top 25
+BHZ-SNUH,BHZ,SNUH,MG,Sudeste,MG,Sudeste,Intrarregional,Não,223.0,Curta (até 800 km),Não,Fora do top 25
+BHZ-SNUI,BHZ,SNUI,MG,Sudeste,MG,Sudeste,Intrarregional,Não,389.0,Curta (até 800 km),Não,Fora do top 25
+BHZ-SNVB,BHZ,SNVB,MG,Sudeste,BA,Nordeste,Inter-regional,Não,881.0,Média (800 a 1.600 km),Não,Fora do top 25
+BHZ-SNVC,BHZ,SNVC,MG,Sudeste,MG,Sudeste,Intrarregional,Não,152.0,Curta (até 800 km),Não,Fora do top 25
+BHZ-SNZA,BHZ,SNZA,MG,Sudeste,MG,Sudeste,Intrarregional,Não,339.0,Curta (até 800 km),Não,Fora do top 25
+BHZ-SNZR,BHZ,SNZR,MG,Sudeste,MG,Sudeste,Intrarregional,Não,405.0,Curta (até 800 km),Não,Fora do top 25
+BHZ-SSA,BHZ,SSA,MG,Sudeste,BA,Nordeste,Inter-regional,Não,960.0,Média (800 a 1.600 km),Não,Fora do top 25
+BHZ-STM,BHZ,STM,MG,Sudeste,PA,Norte,Inter-regional,Não,2245.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BHZ-SWGN,BHZ,SWGN,MG,Sudeste,TO,Norte,Inter-regional,Não,,,Não,Fora do top 25
+BHZ-THE,BHZ,THE,MG,Sudeste,PI,Nordeste,Inter-regional,Não,1624.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BHZ-UBA,BHZ,UBA,MG,Sudeste,MG,Sudeste,Intrarregional,Não,418.0,Curta (até 800 km),Não,Fora do top 25
+BHZ-UDI,BHZ,UDI,MG,Sudeste,MG,Sudeste,Intrarregional,Não,454.0,Curta (até 800 km),Não,Fora do top 25
+BHZ-VDC,BHZ,VDC,MG,Sudeste,BA,Nordeste,Inter-regional,Não,617.0,Curta (até 800 km),Não,Fora do top 25
+BHZ-VIX,BHZ,VIX,MG,Sudeste,ES,Sudeste,Intrarregional,Não,392.0,Curta (até 800 km),Não,Fora do top 25
+BHZ-XAP,BHZ,XAP,MG,Sudeste,SC,Sul,Inter-regional,Não,1217.0,Média (800 a 1.600 km),Não,Fora do top 25
+BPS-BSB,BPS,BSB,BA,Nordeste,DF,Centro-Oeste,Inter-regional,Não,946.0,Média (800 a 1.600 km),Não,Fora do top 25
+BPS-CAC,BPS,CAC,BA,Nordeste,PR,Sul,Inter-regional,Não,1775.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BPS-CGB,BPS,CGB,BA,Nordeste,MT,Centro-Oeste,Inter-regional,Não,1823.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BPS-CGR,BPS,CGR,BA,Nordeste,MS,Centro-Oeste,Inter-regional,Não,1704.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BPS-CWB,BPS,CWB,BA,Nordeste,PR,Sul,Inter-regional,Não,1455.0,Média (800 a 1.600 km),Não,Fora do top 25
+BPS-FLN,BPS,FLN,BA,Nordeste,SC,Sul,Inter-regional,Não,1584.0,Média (800 a 1.600 km),Não,Fora do top 25
+BPS-FOR,BPS,FOR,BA,Nordeste,CE,Nordeste,Intrarregional,Não,1409.0,Média (800 a 1.600 km),Não,Fora do top 25
+BPS-GYN,BPS,GYN,BA,Nordeste,GO,Centro-Oeste,Inter-regional,Não,1081.0,Média (800 a 1.600 km),Não,Fora do top 25
+BPS-IGU,BPS,IGU,BA,Nordeste,PR,Sul,Inter-regional,Não,1894.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BPS-IOS,BPS,IOS,BA,Nordeste,BA,Nordeste,Intrarregional,Não,181.0,Curta (até 800 km),Não,Fora do top 25
+BPS-JOI,BPS,JOI,BA,Nordeste,SC,Sul,Inter-regional,Não,1481.0,Média (800 a 1.600 km),Não,Fora do top 25
+BPS-JPA,BPS,JPA,BA,Nordeste,PB,Nordeste,Intrarregional,Não,1126.0,Média (800 a 1.600 km),Não,Fora do top 25
+BPS-LDB,BPS,LDB,BA,Nordeste,PR,Sul,Inter-regional,Não,1474.0,Média (800 a 1.600 km),Não,Fora do top 25
+BPS-MCZ,BPS,MCZ,BA,Nordeste,AL,Nordeste,Intrarregional,Não,848.0,Média (800 a 1.600 km),Não,Fora do top 25
+BPS-MGF,BPS,MGF,BA,Nordeste,PR,Sul,Inter-regional,Não,1561.0,Média (800 a 1.600 km),Não,Fora do top 25
+BPS-MOC,BPS,MOC,BA,Nordeste,MG,Sudeste,Inter-regional,Não,506.0,Curta (até 800 km),Não,Fora do top 25
+BPS-POA,BPS,POA,BA,Nordeste,RS,Sul,Inter-regional,Não,1946.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BPS-QDV,BPS,QDV,BA,Nordeste,SP,Sudeste,Inter-regional,Não,1113.0,Média (800 a 1.600 km),Não,Fora do top 25
+BPS-RAO,BPS,RAO,BA,Nordeste,SP,Sudeste,Inter-regional,Não,1054.0,Média (800 a 1.600 km),Não,Fora do top 25
+BPS-REC,BPS,REC,BA,Nordeste,PE,Nordeste,Intrarregional,Não,1028.0,Média (800 a 1.600 km),Não,Fora do top 25
+BPS-RIO,BPS,RIO,BA,Nordeste,RJ,Sudeste,Inter-regional,Não,834.0,Média (800 a 1.600 km),Não,Fora do top 25
+BPS-SAO,BPS,SAO,BA,Nordeste,SP,Sudeste,Inter-regional,Sim,1108.0,Média (800 a 1.600 km),Sim,Rever capacidade
+BPS-SBAE,BPS,SBAE,BA,Nordeste,SP,Sudeste,Inter-regional,Não,1226.0,Média (800 a 1.600 km),Não,Fora do top 25
+BPS-SBAU,BPS,SBAU,BA,Nordeste,SP,Sudeste,Inter-regional,Não,1304.0,Média (800 a 1.600 km),Não,Fora do top 25
+BPS-SBDN,BPS,SBDN,BA,Nordeste,SP,Sudeste,Inter-regional,Não,1443.0,Média (800 a 1.600 km),Não,Fora do top 25
+BPS-SBTC,BPS,SBTC,BA,Nordeste,BA,Nordeste,Intrarregional,Não,121.0,Curta (até 800 km),Não,Fora do top 25
+BPS-SIFC,BPS,SIFC,BA,Nordeste,PE,Nordeste,Intrarregional,Não,1058.0,Média (800 a 1.600 km),Não,Fora do top 25
+BPS-SJP,BPS,SJP,BA,Nordeste,SP,Sudeste,Inter-regional,Não,1192.0,Média (800 a 1.600 km),Não,Fora do top 25
+BPS-SSA,BPS,SSA,BA,Nordeste,BA,Nordeste,Intrarregional,Não,401.0,Curta (até 800 km),Não,Fora do top 25
+BPS-THE,BPS,THE,BA,Nordeste,PI,Nordeste,Intrarregional,Não,,,Não,Fora do top 25
+BPS-UBA,BPS,UBA,BA,Nordeste,MG,Sudeste,Inter-regional,Não,1009.0,Média (800 a 1.600 km),Não,Fora do top 25
+BPS-UDI,BPS,UDI,BA,Nordeste,MG,Sudeste,Inter-regional,Não,1006.0,Média (800 a 1.600 km),Não,Fora do top 25
+BPS-VIX,BPS,VIX,BA,Nordeste,ES,Sudeste,Inter-regional,Não,444.0,Curta (até 800 km),Não,Fora do top 25
+BSB-BVB,BSB,BVB,DF,Centro-Oeste,RR,Norte,Inter-regional,Não,2510.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BSB-CGB,BSB,CGB,DF,Centro-Oeste,MT,Centro-Oeste,Intrarregional,Não,878.0,Média (800 a 1.600 km),Não,Fora do top 25
+BSB-CGR,BSB,CGR,DF,Centro-Oeste,MS,Centro-Oeste,Intrarregional,Não,877.0,Média (800 a 1.600 km),Não,Fora do top 25
+BSB-CPV,BSB,CPV,DF,Centro-Oeste,PB,Nordeste,Inter-regional,Não,1621.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BSB-CWB,BSB,CWB,DF,Centro-Oeste,PR,Sul,Inter-regional,Não,1082.0,Média (800 a 1.600 km),Não,Fora do top 25
+BSB-FLN,BSB,FLN,DF,Centro-Oeste,SC,Sul,Inter-regional,Não,1314.0,Média (800 a 1.600 km),Não,Fora do top 25
+BSB-FOR,BSB,FOR,DF,Centro-Oeste,CE,Nordeste,Inter-regional,Não,1692.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BSB-GYN,BSB,GYN,DF,Centro-Oeste,GO,Centro-Oeste,Intrarregional,Não,163.0,Curta (até 800 km),Não,Fora do top 25
+BSB-IGU,BSB,IGU,DF,Centro-Oeste,PR,Sul,Inter-regional,Não,1279.0,Média (800 a 1.600 km),Não,Fora do top 25
+BSB-IMP,BSB,IMP,DF,Centro-Oeste,MA,Nordeste,Inter-regional,Não,1151.0,Média (800 a 1.600 km),Não,Fora do top 25
+BSB-IOS,BSB,IOS,DF,Centro-Oeste,BA,Nordeste,Inter-regional,Não,960.0,Média (800 a 1.600 km),Não,Fora do top 25
+BSB-JDO,BSB,JDO,DF,Centro-Oeste,CE,Nordeste,Inter-regional,Não,1346.0,Média (800 a 1.600 km),Não,Fora do top 25
+BSB-JPA,BSB,JPA,DF,Centro-Oeste,PB,Nordeste,Inter-regional,Não,1713.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BSB-LDB,BSB,LDB,DF,Centro-Oeste,PR,Sul,Inter-regional,Não,895.0,Média (800 a 1.600 km),Não,Fora do top 25
+BSB-MAB,BSB,MAB,DF,Centro-Oeste,PA,Norte,Inter-regional,Não,1175.0,Média (800 a 1.600 km),Não,Fora do top 25
+BSB-MAO,BSB,MAO,DF,Centro-Oeste,AM,Norte,Inter-regional,Não,1949.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BSB-MCP,BSB,MCP,DF,Centro-Oeste,AP,Norte,Inter-regional,Não,1804.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BSB-MCZ,BSB,MCZ,DF,Centro-Oeste,AL,Nordeste,Inter-regional,Não,1493.0,Média (800 a 1.600 km),Não,Fora do top 25
+BSB-MOC,BSB,MOC,DF,Centro-Oeste,MG,Sudeste,Inter-regional,Não,447.0,Curta (até 800 km),Não,Fora do top 25
+BSB-NAT,BSB,NAT,DF,Centro-Oeste,RN,Nordeste,Inter-regional,Não,1771.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BSB-NVT,BSB,NVT,DF,Centro-Oeste,SC,Sul,Inter-regional,Não,1226.0,Média (800 a 1.600 km),Não,Fora do top 25
+BSB-OPS,BSB,OPS,DF,Centro-Oeste,MT,Centro-Oeste,Intrarregional,Não,939.0,Média (800 a 1.600 km),Não,Fora do top 25
+BSB-PMW,BSB,PMW,DF,Centro-Oeste,TO,Norte,Inter-regional,Não,622.0,Curta (até 800 km),Não,Fora do top 25
+BSB-PNZ,BSB,PNZ,DF,Centro-Oeste,PE,Nordeste,Inter-regional,Não,1077.0,Média (800 a 1.600 km),Não,Fora do top 25
+BSB-POA,BSB,POA,DF,Centro-Oeste,RS,Sul,Inter-regional,Não,1605.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BSB-PVH,BSB,PVH,DF,Centro-Oeste,RO,Norte,Inter-regional,Não,1909.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BSB-QDV,BSB,QDV,DF,Centro-Oeste,SP,Sudeste,Inter-regional,Não,819.0,Média (800 a 1.600 km),Não,Fora do top 25
+BSB-RAO,BSB,RAO,DF,Centro-Oeste,SP,Sudeste,Inter-regional,Não,586.0,Curta (até 800 km),Não,Fora do top 25
+BSB-RBR,BSB,RBR,DF,Centro-Oeste,AC,Norte,Inter-regional,Não,2265.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BSB-REC,BSB,REC,DF,Centro-Oeste,PE,Nordeste,Inter-regional,Não,1654.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BSB-RIO,BSB,RIO,DF,Centro-Oeste,RJ,Sudeste,Inter-regional,Não,924.0,Média (800 a 1.600 km),Sim,Crescer junto
+BSB-SAO,BSB,SAO,DF,Centro-Oeste,SP,Sudeste,Inter-regional,Sim,853.0,Média (800 a 1.600 km),Sim,Rever capacidade
+BSB-SBAE,BSB,SBAE,DF,Centro-Oeste,SP,Sudeste,Inter-regional,Não,709.0,Curta (até 800 km),Não,Fora do top 25
+BSB-SBCB,BSB,SBCB,DF,Centro-Oeste,RJ,Sudeste,Inter-regional,Não,995.0,Média (800 a 1.600 km),Não,Fora do top 25
+BSB-SBCJ,BSB,SBCJ,DF,Centro-Oeste,PA,Norte,Inter-regional,Não,1108.0,Média (800 a 1.600 km),Não,Fora do top 25
+BSB-SBCZ,BSB,SBCZ,DF,Centro-Oeste,AC,Norte,Inter-regional,Não,2854.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BSB-SBJE,BSB,SBJE,DF,Centro-Oeste,CE,Nordeste,Inter-regional,Não,1662.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BSB-SBLE,BSB,SBLE,DF,Centro-Oeste,BA,Nordeste,Inter-regional,Não,,,Não,Fora do top 25
+BSB-SBQV,BSB,SBQV,DF,Centro-Oeste,BA,Nordeste,Inter-regional,Não,,,Não,Fora do top 25
+BSB-SBSJ,BSB,SBSJ,DF,Centro-Oeste,SP,Sudeste,Inter-regional,Não,846.0,Média (800 a 1.600 km),Não,Fora do top 25
+BSB-SBTC,BSB,SBTC,DF,Centro-Oeste,BA,Nordeste,Inter-regional,Não,957.0,Média (800 a 1.600 km),Não,Fora do top 25
+BSB-SBUF,BSB,SBUF,DF,Centro-Oeste,BA,Nordeste,Inter-regional,Não,,,Não,Fora do top 25
+BSB-SDSC,BSB,SDSC,DF,Centro-Oeste,SP,Sudeste,Inter-regional,Não,668.0,Curta (até 800 km),Não,Fora do top 25
+BSB-SJP,BSB,SJP,DF,Centro-Oeste,SP,Sudeste,Inter-regional,Não,572.0,Curta (até 800 km),Não,Fora do top 25
+BSB-SLZ,BSB,SLZ,DF,Centro-Oeste,MA,Nordeste,Inter-regional,Não,1531.0,Média (800 a 1.600 km),Não,Fora do top 25
+BSB-SNBR,BSB,SNBR,DF,Centro-Oeste,BA,Nordeste,Inter-regional,Não,526.0,Curta (até 800 km),Não,Fora do top 25
+BSB-SNTF,BSB,SNTF,DF,Centro-Oeste,BA,Nordeste,Inter-regional,Não,,,Não,Fora do top 25
+BSB-SSA,BSB,SSA,DF,Centro-Oeste,BA,Nordeste,Inter-regional,Não,1085.0,Média (800 a 1.600 km),Não,Fora do top 25
+BSB-STM,BSB,STM,DF,Centro-Oeste,PA,Norte,Inter-regional,Não,1674.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BSB-SWGN,BSB,SWGN,DF,Centro-Oeste,TO,Norte,Inter-regional,Não,962.0,Média (800 a 1.600 km),Não,Fora do top 25
+BSB-THE,BSB,THE,DF,Centro-Oeste,PI,Nordeste,Inter-regional,Não,1324.0,Média (800 a 1.600 km),Não,Fora do top 25
+BSB-UBA,BSB,UBA,DF,Centro-Oeste,MG,Sudeste,Inter-regional,Não,433.0,Curta (até 800 km),Não,Fora do top 25
+BSB-UDI,BSB,UDI,DF,Centro-Oeste,MG,Sudeste,Inter-regional,Não,337.0,Curta (até 800 km),Não,Fora do top 25
+BSB-VIX,BSB,VIX,DF,Centro-Oeste,ES,Sudeste,Inter-regional,Não,943.0,Média (800 a 1.600 km),Não,Fora do top 25
+BVB-CGB,BVB,CGB,RR,Norte,MT,Centro-Oeste,Inter-regional,Não,2117.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BVB-CWB,BVB,CWB,RR,Norte,PR,Sul,Inter-regional,Não,3390.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BVB-FOR,BVB,FOR,RR,Norte,CE,Nordeste,Inter-regional,Não,2570.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BVB-GYN,BVB,GYN,RR,Norte,GO,Centro-Oeste,Inter-regional,Não,2505.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BVB-MAO,BVB,MAO,RR,Norte,AM,Norte,Intrarregional,Não,658.0,Curta (até 800 km),Não,Fora do top 25
+BVB-PMW,BVB,PMW,RR,Norte,TO,Norte,Intrarregional,Não,1999.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BVB-PVH,BVB,PVH,RR,Norte,RO,Norte,Intrarregional,Não,1333.0,Média (800 a 1.600 km),Não,Fora do top 25
+BVB-RAO,BVB,RAO,RR,Norte,SP,Sudeste,Inter-regional,Não,3014.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BVB-RBR,BVB,RBR,RR,Norte,AC,Norte,Intrarregional,Não,1623.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BVB-REC,BVB,REC,RR,Norte,PE,Nordeste,Inter-regional,Não,3107.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BVB-RIO,BVB,RIO,RR,Norte,RJ,Sudeste,Inter-regional,Não,3423.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BVB-SAO,BVB,SAO,RR,Norte,SP,Sudeste,Inter-regional,Sim,3254.0,Longa (acima de 1.600 km),Não,Fora do top 25
+BVB-SBTF,BVB,SBTF,RR,Norte,AM,Norte,Intrarregional,Não,824.0,Média (800 a 1.600 km),Não,Fora do top 25
+BVB-SBUA,BVB,SBUA,RR,Norte,AM,Norte,Intrarregional,Não,775.0,Curta (até 800 km),Não,Fora do top 25
+BVB-STM,BVB,STM,RR,Norte,PA,Norte,Intrarregional,Não,880.0,Média (800 a 1.600 km),Não,Fora do top 25
+BVB-THE,BVB,THE,RR,Norte,PI,Nordeste,Inter-regional,Não,,,Não,Fora do top 25
+CAC-CWB,CAC,CWB,PR,Sul,PR,Sul,Intrarregional,Não,439.0,Curta (até 800 km),Não,Fora do top 25
+CAC-FLN,CAC,FLN,PR,Sul,SC,Sul,Intrarregional,Não,575.0,Curta (até 800 km),Não,Fora do top 25
+CAC-IGU,CAC,IGU,PR,Sul,PR,Sul,Intrarregional,Não,119.0,Curta (até 800 km),Não,Fora do top 25
+CAC-JOI,CAC,JOI,PR,Sul,SC,Sul,Intrarregional,Não,491.0,Curta (até 800 km),Não,Fora do top 25
+CAC-JPA,CAC,JPA,PR,Sul,PB,Nordeste,Inter-regional,Não,2798.0,Longa (acima de 1.600 km),Não,Fora do top 25
+CAC-LDB,CAC,LDB,PR,Sul,PR,Sul,Intrarregional,Não,304.0,Curta (até 800 km),Não,Fora do top 25
+CAC-MCZ,CAC,MCZ,PR,Sul,AL,Nordeste,Inter-regional,Não,2544.0,Longa (acima de 1.600 km),Não,Fora do top 25
+CAC-MGF,CAC,MGF,PR,Sul,PR,Sul,Intrarregional,Não,227.0,Curta (até 800 km),Não,Fora do top 25
+CAC-NVT,CAC,NVT,PR,Sul,SC,Sul,Intrarregional,Não,528.0,Curta (até 800 km),Não,Fora do top 25
+CAC-POA,CAC,POA,PR,Sul,RS,Sul,Intrarregional,Não,601.0,Curta (até 800 km),Não,Fora do top 25
+CAC-QDV,CAC,QDV,PR,Sul,SP,Sudeste,Inter-regional,Não,696.0,Curta (até 800 km),Não,Fora do top 25
+CAC-RAO,CAC,RAO,PR,Sul,SP,Sudeste,Inter-regional,Não,726.0,Curta (até 800 km),Não,Fora do top 25
+CAC-RIO,CAC,RIO,PR,Sul,RJ,Sudeste,Inter-regional,Não,1070.0,Média (800 a 1.600 km),Não,Fora do top 25
+CAC-SAO,CAC,SAO,PR,Sul,SP,Sudeste,Inter-regional,Sim,709.0,Curta (até 800 km),Não,Fora do top 25
+CAC-SBAE,CAC,SBAE,PR,Sul,SP,Sudeste,Inter-regional,Não,551.0,Curta (até 800 km),Não,Fora do top 25
+CAC-SSGY,CAC,SSGY,PR,Sul,PR,Sul,Intrarregional,Não,124.0,Curta (até 800 km),Não,Fora do top 25
+CGB-CGR,CGB,CGR,MT,Centro-Oeste,MS,Centro-Oeste,Intrarregional,Não,557.0,Curta (até 800 km),Não,Fora do top 25
+CGB-CWB,CGB,CWB,MT,Centro-Oeste,PR,Sul,Inter-regional,Não,1314.0,Média (800 a 1.600 km),Não,Fora do top 25
+CGB-FOR,CGB,FOR,MT,Centro-Oeste,CE,Nordeste,Inter-regional,Não,2333.0,Longa (acima de 1.600 km),Não,Fora do top 25
+CGB-GYN,CGB,GYN,MT,Centro-Oeste,GO,Centro-Oeste,Intrarregional,Não,745.0,Curta (até 800 km),Não,Fora do top 25
+CGB-JOI,CGB,JOI,MT,Centro-Oeste,SC,Sul,Inter-regional,Não,,,Não,Fora do top 25
+CGB-LDB,CGB,LDB,MT,Centro-Oeste,PR,Sul,Inter-regional,Não,1001.0,Média (800 a 1.600 km),Não,Fora do top 25
+CGB-MAO,CGB,MAO,MT,Centro-Oeste,AM,Norte,Inter-regional,Não,1467.0,Média (800 a 1.600 km),Não,Fora do top 25
+CGB-MCZ,CGB,MCZ,MT,Centro-Oeste,AL,Nordeste,Inter-regional,Não,2307.0,Longa (acima de 1.600 km),Não,Fora do top 25
+CGB-MGF,CGB,MGF,MT,Centro-Oeste,PR,Sul,Inter-regional,Não,971.0,Média (800 a 1.600 km),Não,Fora do top 25
+CGB-NAT,CGB,NAT,MT,Centro-Oeste,RN,Nordeste,Inter-regional,Não,2516.0,Longa (acima de 1.600 km),Não,Fora do top 25
+CGB-NVT,CGB,NVT,MT,Centro-Oeste,SC,Sul,Inter-regional,Não,1468.0,Média (800 a 1.600 km),Não,Fora do top 25
+CGB-OPS,CGB,OPS,MT,Centro-Oeste,MT,Centro-Oeste,Intrarregional,Não,423.0,Curta (até 800 km),Não,Fora do top 25
+CGB-PMW,CGB,PMW,MT,Centro-Oeste,TO,Norte,Inter-regional,Não,1030.0,Média (800 a 1.600 km),Não,Fora do top 25
+CGB-PNZ,CGB,PNZ,MT,Centro-Oeste,PE,Nordeste,Inter-regional,Não,1826.0,Longa (acima de 1.600 km),Não,Fora do top 25
+CGB-POA,CGB,POA,MT,Centro-Oeste,RS,Sul,Inter-regional,Não,1673.0,Longa (acima de 1.600 km),Não,Fora do top 25
+CGB-PVH,CGB,PVH,MT,Centro-Oeste,RO,Norte,Inter-regional,Não,1145.0,Média (800 a 1.600 km),Não,Fora do top 25
+CGB-QDV,CGB,QDV,MT,Centro-Oeste,SP,Sudeste,Inter-regional,Não,1275.0,Média (800 a 1.600 km),Não,Fora do top 25
+CGB-RAO,CGB,RAO,MT,Centro-Oeste,SP,Sudeste,Inter-regional,Não,1070.0,Média (800 a 1.600 km),Não,Fora do top 25
+CGB-RBR,CGB,RBR,MT,Centro-Oeste,AC,Norte,Inter-regional,Não,1430.0,Média (800 a 1.600 km),Não,Fora do top 25
+CGB-REC,CGB,REC,MT,Centro-Oeste,PE,Nordeste,Inter-regional,Não,2451.0,Longa (acima de 1.600 km),Não,Fora do top 25
+CGB-RIO,CGB,RIO,MT,Centro-Oeste,RJ,Sudeste,Inter-regional,Não,1576.0,Média (800 a 1.600 km),Não,Fora do top 25
+CGB-SAO,CGB,SAO,MT,Centro-Oeste,SP,Sudeste,Inter-regional,Sim,1306.0,Média (800 a 1.600 km),Não,Fora do top 25
+CGB-SBAE,CGB,SBAE,MT,Centro-Oeste,SP,Sudeste,Inter-regional,Não,1036.0,Média (800 a 1.600 km),Não,Fora do top 25
+CGB-SBAT,CGB,SBAT,MT,Centro-Oeste,MT,Centro-Oeste,Intrarregional,Não,643.0,Curta (até 800 km),Não,Fora do top 25
+CGB-SBBW,CGB,SBBW,MT,Centro-Oeste,MT,Centro-Oeste,Intrarregional,Não,400.0,Curta (até 800 km),Não,Fora do top 25
+CGB-SBCR,CGB,SBCR,MT,Centro-Oeste,MS,Centro-Oeste,Intrarregional,Não,409.0,Curta (até 800 km),Não,Fora do top 25
+CGB-SBCZ,CGB,SBCZ,MT,Centro-Oeste,AC,Norte,Inter-regional,Não,2021.0,Longa (acima de 1.600 km),Não,Fora do top 25
+CGB-SBDN,CGB,SBDN,MT,Centro-Oeste,SP,Sudeste,Inter-regional,Não,878.0,Média (800 a 1.600 km),Não,Fora do top 25
+CGB-SBJI,CGB,SBJI,MT,Centro-Oeste,RO,Norte,Inter-regional,Não,816.0,Média (800 a 1.600 km),Não,Fora do top 25
+CGB-SBPP,CGB,SBPP,MT,Centro-Oeste,MS,Centro-Oeste,Intrarregional,Não,768.0,Curta (até 800 km),Não,Fora do top 25
+CGB-SBRD,CGB,SBRD,MT,Centro-Oeste,MT,Centro-Oeste,Intrarregional,Não,182.0,Curta (até 800 km),Não,Fora do top 25
+CGB-SBSO,CGB,SBSO,MT,Centro-Oeste,MT,Centro-Oeste,Intrarregional,Não,357.0,Curta (até 800 km),Não,Fora do top 25
+CGB-SBVH,CGB,SBVH,MT,Centro-Oeste,RO,Norte,Inter-regional,Não,540.0,Curta (até 800 km),Não,Fora do top 25
+CGB-SDH2,CGB,SDH2,MT,Centro-Oeste,MT,Centro-Oeste,Intrarregional,Não,717.0,Curta (até 800 km),Não,Fora do top 25
+CGB-SDNM,CGB,SDNM,MT,Centro-Oeste,MT,Centro-Oeste,Intrarregional,Não,204.0,Curta (até 800 km),Não,Fora do top 25
+CGB-SILC,CGB,SILC,MT,Centro-Oeste,MT,Centro-Oeste,Intrarregional,Não,291.0,Curta (até 800 km),Não,Fora do top 25
+CGB-SIZX,CGB,SIZX,MT,Centro-Oeste,MT,Centro-Oeste,Intrarregional,Não,509.0,Curta (até 800 km),Não,Fora do top 25
+CGB-SJHG,CGB,SJHG,MT,Centro-Oeste,MT,Centro-Oeste,Intrarregional,Não,,,Não,Fora do top 25
+CGB-SJP,CGB,SJP,MT,Centro-Oeste,SP,Sudeste,Inter-regional,Não,912.0,Média (800 a 1.600 km),Não,Fora do top 25
+CGB-SSA,CGB,SSA,MT,Centro-Oeste,BA,Nordeste,Inter-regional,Não,1941.0,Longa (acima de 1.600 km),Não,Fora do top 25
+CGB-SSKW,CGB,SSKW,MT,Centro-Oeste,RO,Norte,Inter-regional,Não,739.0,Curta (até 800 km),Não,Fora do top 25
+CGB-SSOU,CGB,SSOU,MT,Centro-Oeste,MT,Centro-Oeste,Intrarregional,Não,707.0,Curta (até 800 km),Não,Fora do top 25
+CGB-SWBG,CGB,SWBG,MT,Centro-Oeste,MT,Centro-Oeste,Intrarregional,Não,354.0,Curta (até 800 km),Não,Fora do top 25
+CGB-SWEK,CGB,SWEK,MT,Centro-Oeste,MT,Centro-Oeste,Intrarregional,Não,474.0,Curta (até 800 km),Não,Fora do top 25
+CGB-SWFX,CGB,SWFX,MT,Centro-Oeste,MT,Centro-Oeste,Intrarregional,Não,737.0,Curta (até 800 km),Não,Fora do top 25
+CGB-SWGI,CGB,SWGI,MT,Centro-Oeste,TO,Norte,Inter-regional,Não,871.0,Média (800 a 1.600 km),Não,Fora do top 25
+CGB-SWHP,CGB,SWHP,MT,Centro-Oeste,MT,Centro-Oeste,Intrarregional,Não,463.0,Curta (até 800 km),Não,Fora do top 25
+CGB-SWJN,CGB,SWJN,MT,Centro-Oeste,MT,Centro-Oeste,Intrarregional,Não,548.0,Curta (até 800 km),Não,Fora do top 25
+CGB-SWLV,CGB,SWLV,MT,Centro-Oeste,MT,Centro-Oeste,Intrarregional,Não,23.0,Curta (até 800 km),Não,Fora do top 25
+CGB-SWPH,CGB,SWPH,MT,Centro-Oeste,MT,Centro-Oeste,Intrarregional,Não,430.0,Curta (até 800 km),Não,Fora do top 25
+CGB-SWPY,CGB,SWPY,MT,Centro-Oeste,MT,Centro-Oeste,Intrarregional,Não,191.0,Curta (até 800 km),Não,Fora do top 25
+CGB-SWTS,CGB,SWTS,MT,Centro-Oeste,MT,Centro-Oeste,Intrarregional,Não,180.0,Curta (até 800 km),Não,Fora do top 25
+CGB-THE,CGB,THE,MT,Centro-Oeste,PI,Nordeste,Inter-regional,Não,1869.0,Longa (acima de 1.600 km),Não,Fora do top 25
+CGB-UDI,CGB,UDI,MT,Centro-Oeste,MG,Sudeste,Inter-regional,Não,912.0,Média (800 a 1.600 km),Não,Fora do top 25
+CGB-VIX,CGB,VIX,MT,Centro-Oeste,ES,Sudeste,Inter-regional,Não,1750.0,Longa (acima de 1.600 km),Não,Fora do top 25
+CGR-CWB,CGR,CWB,MS,Centro-Oeste,PR,Sul,Inter-regional,Não,795.0,Curta (até 800 km),Não,Fora do top 25
+CGR-FLN,CGR,FLN,MS,Centro-Oeste,SC,Sul,Inter-regional,Não,1013.0,Média (800 a 1.600 km),Não,Fora do top 25
+CGR-GYN,CGR,GYN,MS,Centro-Oeste,GO,Centro-Oeste,Intrarregional,Não,715.0,Curta (até 800 km),Não,Fora do top 25
+CGR-IGU,CGR,IGU,MS,Centro-Oeste,PR,Sul,Inter-regional,Não,571.0,Curta (até 800 km),Não,Fora do top 25
+CGR-JOI,CGR,JOI,MS,Centro-Oeste,SC,Sul,Inter-regional,Não,876.0,Média (800 a 1.600 km),Não,Fora do top 25
+CGR-LDB,CGR,LDB,MS,Centro-Oeste,PR,Sul,Inter-regional,Não,484.0,Curta (até 800 km),Não,Fora do top 25
+CGR-MGF,CGR,MGF,MS,Centro-Oeste,PR,Sul,Inter-regional,Não,433.0,Curta (até 800 km),Não,Fora do top 25
+CGR-NVT,CGR,NVT,MS,Centro-Oeste,SC,Sul,Inter-regional,Não,940.0,Média (800 a 1.600 km),Não,Fora do top 25
+CGR-OPS,CGR,OPS,MS,Centro-Oeste,MT,Centro-Oeste,Intrarregional,Não,960.0,Média (800 a 1.600 km),Não,Fora do top 25
+CGR-POA,CGR,POA,MS,Centro-Oeste,RS,Sul,Inter-regional,Não,1116.0,Média (800 a 1.600 km),Não,Fora do top 25
+CGR-PVH,CGR,PVH,MS,Centro-Oeste,RO,Norte,Inter-regional,Não,1641.0,Longa (acima de 1.600 km),Não,Fora do top 25
+CGR-RAO,CGR,RAO,MS,Centro-Oeste,SP,Sudeste,Inter-regional,Não,720.0,Curta (até 800 km),Não,Fora do top 25
+CGR-REC,CGR,REC,MS,Centro-Oeste,PE,Nordeste,Inter-regional,Não,,,Não,Fora do top 25
+CGR-RIO,CGR,RIO,MS,Centro-Oeste,RJ,Sudeste,Inter-regional,Não,1208.0,Média (800 a 1.600 km),Não,Fora do top 25
+CGR-SAO,CGR,SAO,MS,Centro-Oeste,SP,Sudeste,Inter-regional,Sim,881.0,Média (800 a 1.600 km),Não,Fora do top 25
+CGR-SBAE,CGR,SBAE,MS,Centro-Oeste,SP,Sudeste,Inter-regional,Não,610.0,Curta (até 800 km),Não,Fora do top 25
+CGR-SBAT,CGR,SBAT,MS,Centro-Oeste,MT,Centro-Oeste,Intrarregional,Não,1189.0,Média (800 a 1.600 km),Não,Fora do top 25
+CGR-SBBW,CGR,SBBW,MS,Centro-Oeste,MT,Centro-Oeste,Intrarregional,Não,566.0,Curta (até 800 km),Não,Fora do top 25
+CGR-SBCR,CGR,SBCR,MS,Centro-Oeste,MS,Centro-Oeste,Intrarregional,Não,353.0,Curta (até 800 km),Não,Fora do top 25
+CGR-SBDB,CGR,SBDB,MS,Centro-Oeste,MS,Centro-Oeste,Intrarregional,Não,204.0,Curta (até 800 km),Não,Fora do top 25
+CGR-SBDN,CGR,SBDN,MS,Centro-Oeste,SP,Sudeste,Inter-regional,Não,387.0,Curta (até 800 km),Não,Fora do top 25
+CGR-SBDO,CGR,SBDO,MS,Centro-Oeste,MS,Centro-Oeste,Intrarregional,Não,194.0,Curta (até 800 km),Não,Fora do top 25
+CGR-SBJI,CGR,SBJI,MS,Centro-Oeste,RO,Norte,Inter-regional,Não,1314.0,Média (800 a 1.600 km),Não,Fora do top 25
+CGR-SBPP,CGR,SBPP,MS,Centro-Oeste,MS,Centro-Oeste,Intrarregional,Não,255.0,Curta (até 800 km),Não,Fora do top 25
+CGR-SBSO,CGR,SBSO,MS,Centro-Oeste,MT,Centro-Oeste,Intrarregional,Não,896.0,Média (800 a 1.600 km),Não,Fora do top 25
+CGR-SBVH,CGR,SBVH,MS,Centro-Oeste,RO,Norte,Inter-regional,Não,1040.0,Média (800 a 1.600 km),Não,Fora do top 25
+CGR-SJP,CGR,SJP,MS,Centro-Oeste,SP,Sudeste,Inter-regional,Não,549.0,Curta (até 800 km),Não,Fora do top 25
+CGR-SSKW,CGR,SSKW,MS,Centro-Oeste,RO,Norte,Inter-regional,Não,1233.0,Média (800 a 1.600 km),Não,Fora do top 25
+CPV-FEN,CPV,FEN,PB,Nordeste,PE,Nordeste,Intrarregional,Não,540.0,Curta (até 800 km),Não,Fora do top 25
+CPV-FOR,CPV,FOR,PB,Nordeste,CE,Nordeste,Intrarregional,Não,486.0,Curta (até 800 km),Não,Fora do top 25
+CPV-JPA,CPV,JPA,PB,Nordeste,PB,Nordeste,Intrarregional,Não,105.0,Curta (até 800 km),Não,Fora do top 25
+CPV-MCZ,CPV,MCZ,PB,Nordeste,AL,Nordeste,Intrarregional,Não,250.0,Curta (até 800 km),Não,Fora do top 25
+CPV-NAT,CPV,NAT,PB,Nordeste,RN,Nordeste,Intrarregional,Não,177.0,Curta (até 800 km),Não,Fora do top 25
+CPV-PNZ,CPV,PNZ,PB,Nordeste,PE,Nordeste,Intrarregional,Não,564.0,Curta (até 800 km),Não,Fora do top 25
+CPV-REC,CPV,REC,PB,Nordeste,PE,Nordeste,Intrarregional,Não,143.0,Curta (até 800 km),Não,Fora do top 25
+CPV-RIO,CPV,RIO,PB,Nordeste,RJ,Sudeste,Inter-regional,Não,1901.0,Longa (acima de 1.600 km),Não,Fora do top 25
+CPV-SAO,CPV,SAO,PB,Nordeste,SP,Sudeste,Inter-regional,Sim,2123.0,Longa (acima de 1.600 km),Não,Fora do top 25
+CPV-SNAB,CPV,SNAB,PB,Nordeste,PE,Nordeste,Intrarregional,Não,513.0,Curta (até 800 km),Não,Fora do top 25
+CPV-SNTS,CPV,SNTS,PB,Nordeste,PB,Nordeste,Intrarregional,Não,153.0,Curta (até 800 km),Não,Fora do top 25
+CPV-SSA,CPV,SSA,PB,Nordeste,BA,Nordeste,Intrarregional,Não,681.0,Curta (até 800 km),Não,Fora do top 25
+CWB-CXJ,CWB,CXJ,PR,Sul,RS,Sul,Intrarregional,Não,453.0,Curta (até 800 km),Não,Fora do top 25
+CWB-FLN,CWB,FLN,PR,Sul,SC,Sul,Intrarregional,Não,246.0,Curta (até 800 km),Não,Fora do top 25
+CWB-FOR,CWB,FOR,PR,Sul,CE,Nordeste,Inter-regional,Não,2673.0,Longa (acima de 1.600 km),Não,Fora do top 25
+CWB-GYN,CWB,GYN,PR,Sul,GO,Centro-Oeste,Inter-regional,Não,990.0,Média (800 a 1.600 km),Não,Fora do top 25
+CWB-IGU,CWB,IGU,PR,Sul,PR,Sul,Intrarregional,Não,533.0,Curta (até 800 km),Não,Fora do top 25
+CWB-JJG,CWB,JJG,PR,Sul,SC,Sul,Intrarregional,Não,350.0,Curta (até 800 km),Não,Fora do top 25
+CWB-JOI,CWB,JOI,PR,Sul,SC,Sul,Intrarregional,Não,86.0,Curta (até 800 km),Não,Fora do top 25
+CWB-JPA,CWB,JPA,PR,Sul,PB,Nordeste,Inter-regional,Não,2541.0,Longa (acima de 1.600 km),Não,Fora do top 25
+CWB-LDB,CWB,LDB,PR,Sul,PR,Sul,Intrarregional,Não,315.0,Curta (até 800 km),Não,Fora do top 25
+CWB-MAO,CWB,MAO,PR,Sul,AM,Norte,Inter-regional,Não,2758.0,Longa (acima de 1.600 km),Não,Fora do top 25
+CWB-MCZ,CWB,MCZ,PR,Sul,AL,Nordeste,Inter-regional,Não,2274.0,Longa (acima de 1.600 km),Não,Fora do top 25
+CWB-MGF,CWB,MGF,PR,Sul,PR,Sul,Intrarregional,Não,367.0,Curta (até 800 km),Não,Fora do top 25
+CWB-NAT,CWB,NAT,PR,Sul,RN,Nordeste,Inter-regional,Não,2643.0,Longa (acima de 1.600 km),Não,Fora do top 25
+CWB-NVT,CWB,NVT,PR,Sul,SC,Sul,Intrarregional,Não,159.0,Curta (até 800 km),Não,Fora do top 25
+CWB-OPS,CWB,OPS,PR,Sul,MT,Centro-Oeste,Inter-regional,Não,1660.0,Longa (acima de 1.600 km),Não,Fora do top 25
+CWB-PFB,CWB,PFB,PR,Sul,RS,Sul,Intrarregional,Não,434.0,Curta (até 800 km),Não,Fora do top 25
+CWB-POA,CWB,POA,PR,Sul,RS,Sul,Intrarregional,Não,534.0,Curta (até 800 km),Não,Fora do top 25
+CWB-QDV,CWB,QDV,PR,Sul,SP,Sudeste,Inter-regional,Não,346.0,Curta (até 800 km),Não,Fora do top 25
+CWB-RAO,CWB,RAO,PR,Sul,SP,Sudeste,Inter-regional,Não,509.0,Curta (até 800 km),Não,Fora do top 25
+CWB-REC,CWB,REC,PR,Sul,PE,Nordeste,Inter-regional,Não,2454.0,Longa (acima de 1.600 km),Não,Fora do top 25
+CWB-RIO,CWB,RIO,PR,Sul,RJ,Sudeste,Inter-regional,Não,674.0,Curta (até 800 km),Sim,Defender
+CWB-SAO,CWB,SAO,PR,Sul,SP,Sudeste,Inter-regional,Sim,345.0,Curta (até 800 km),Sim,Rever capacidade
+CWB-SBAE,CWB,SBAE,PR,Sul,SP,Sudeste,Inter-regional,Não,375.0,Curta (até 800 km),Não,Fora do top 25
+CWB-SBCB,CWB,SBCB,PR,Sul,RJ,Sudeste,Inter-regional,Não,777.0,Curta (até 800 km),Não,Fora do top 25
+CWB-SBCD,CWB,SBCD,PR,Sul,SC,Sul,Intrarregional,Não,225.0,Curta (até 800 km),Não,Fora do top 25
+CWB-SBDN,CWB,SBDN,PR,Sul,SP,Sudeste,Inter-regional,Não,437.0,Curta (até 800 km),Não,Fora do top 25
+CWB-SBLJ,CWB,SBLJ,PR,Sul,SC,Sul,Intrarregional,Não,273.0,Curta (até 800 km),Não,Fora do top 25
+CWB-SBNM,CWB,SBNM,PR,Sul,RS,Sul,Intrarregional,Não,582.0,Curta (até 800 km),Não,Fora do top 25
+CWB-SBPG,CWB,SBPG,PR,Sul,PR,Sul,Intrarregional,Não,105.0,Curta (até 800 km),Não,Fora do top 25
+CWB-SBPK,CWB,SBPK,PR,Sul,RS,Sul,Intrarregional,Não,753.0,Curta (até 800 km),Não,Fora do top 25
+CWB-SBPO,CWB,SBPO,PR,Sul,PR,Sul,Intrarregional,Não,360.0,Curta (até 800 km),Não,Fora do top 25
+CWB-SBRD,CWB,SBRD,PR,Sul,MT,Centro-Oeste,Inter-regional,Não,1149.0,Média (800 a 1.600 km),Não,Fora do top 25
+CWB-SBSJ,CWB,SBSJ,PR,Sul,SP,Sudeste,Inter-regional,Não,421.0,Curta (até 800 km),Não,Fora do top 25
+CWB-SBSM,CWB,SBSM,PR,Sul,RS,Sul,Intrarregional,Não,643.0,Curta (até 800 km),Não,Fora do top 25
+CWB-SBTD,CWB,SBTD,PR,Sul,PR,Sul,Intrarregional,Não,465.0,Curta (até 800 km),Não,Fora do top 25
+CWB-SBUG,CWB,SBUG,PR,Sul,RS,Sul,Intrarregional,Não,907.0,Média (800 a 1.600 km),Não,Fora do top 25
+CWB-SBVH,CWB,SBVH,PR,Sul,RO,Norte,Inter-regional,Não,1829.0,Longa (acima de 1.600 km),Não,Fora do top 25
+CWB-SJP,CWB,SJP,PR,Sul,SP,Sudeste,Inter-regional,Não,525.0,Curta (até 800 km),Não,Fora do top 25
+CWB-SLZ,CWB,SLZ,PR,Sul,MA,Nordeste,Inter-regional,Não,2606.0,Longa (acima de 1.600 km),Não,Fora do top 25
+CWB-SNCP,CWB,SNCP,PR,Sul,SC,Sul,Intrarregional,Não,262.0,Curta (até 800 km),Não,Fora do top 25
+CWB-SNDV,CWB,SNDV,PR,Sul,MG,Sudeste,Inter-regional,Não,740.0,Curta (até 800 km),Não,Fora do top 25
+CWB-SSA,CWB,SSA,PR,Sul,BA,Nordeste,Inter-regional,Não,1806.0,Longa (acima de 1.600 km),Não,Fora do top 25
+CWB-SSAP,CWB,SSAP,PR,Sul,PR,Sul,Intrarregional,Não,309.0,Curta (até 800 km),Não,Fora do top 25
+CWB-SSBN,CWB,SSBN,PR,Sul,RS,Sul,Intrarregional,Não,554.0,Curta (até 800 km),Não,Fora do top 25
+CWB-SSCP,CWB,SSCP,PR,Sul,PR,Sul,Intrarregional,Não,301.0,Curta (até 800 km),Não,Fora do top 25
+CWB-SSCT,CWB,SSCT,PR,Sul,PR,Sul,Intrarregional,Não,406.0,Curta (até 800 km),Não,Fora do top 25
+CWB-SSFB,CWB,SSFB,PR,Sul,PR,Sul,Intrarregional,Não,394.0,Curta (até 800 km),Não,Fora do top 25
+CWB-SSGG,CWB,SSGG,PR,Sul,PR,Sul,Intrarregional,Não,236.0,Curta (até 800 km),Não,Fora do top 25
+CWB-SSGY,CWB,SSGY,PR,Sul,PR,Sul,Intrarregional,Não,531.0,Curta (até 800 km),Não,Fora do top 25
+CWB-SSKM,CWB,SSKM,PR,Sul,PR,Sul,Intrarregional,Não,363.0,Curta (até 800 km),Não,Fora do top 25
+CWB-SSOG,CWB,SSOG,PR,Sul,PR,Sul,Intrarregional,Não,337.0,Curta (até 800 km),Não,Fora do top 25
+CWB-SSPG,CWB,SSPG,PR,Sul,PR,Sul,Intrarregional,Não,65.0,Curta (até 800 km),Não,Fora do top 25
+CWB-SSPI,CWB,SSPI,PR,Sul,PR,Sul,Intrarregional,Não,431.0,Curta (até 800 km),Não,Fora do top 25
+CWB-SSUM,CWB,SSUM,PR,Sul,PR,Sul,Intrarregional,Não,460.0,Curta (até 800 km),Não,Fora do top 25
+CWB-SSUV,CWB,SSUV,PR,Sul,PR,Sul,Intrarregional,Não,205.0,Curta (até 800 km),Não,Fora do top 25
+CWB-SSVL,CWB,SSVL,PR,Sul,PR,Sul,Intrarregional,Não,201.0,Curta (até 800 km),Não,Fora do top 25
+CWB-UDI,CWB,UDI,PR,Sul,MG,Sudeste,Inter-regional,Não,746.0,Curta (até 800 km),Não,Fora do top 25
+CWB-VIX,CWB,VIX,PR,Sul,ES,Sudeste,Inter-regional,Não,1083.0,Média (800 a 1.600 km),Não,Fora do top 25
+CWB-XAP,CWB,XAP,PR,Sul,SC,Sul,Intrarregional,Não,390.0,Curta (até 800 km),Não,Fora do top 25
+CXJ-FLN,CXJ,FLN,RS,Sul,SC,Sul,Intrarregional,Não,309.0,Curta (até 800 km),Não,Fora do top 25
+CXJ-JOI,CXJ,JOI,RS,Sul,SC,Sul,Intrarregional,Não,406.0,Curta (até 800 km),Não,Fora do top 25
+CXJ-POA,CXJ,POA,RS,Sul,RS,Sul,Intrarregional,Não,89.0,Curta (até 800 km),Não,Fora do top 25
+CXJ-RAO,CXJ,RAO,RS,Sul,SP,Sudeste,Inter-regional,Não,960.0,Média (800 a 1.600 km),Não,Fora do top 25
+CXJ-RIO,CXJ,RIO,RS,Sul,RJ,Sudeste,Inter-regional,Não,1064.0,Média (800 a 1.600 km),Não,Fora do top 25
+CXJ-SAO,CXJ,SAO,RS,Sul,SP,Sudeste,Inter-regional,Sim,787.0,Curta (até 800 km),Não,Fora do top 25
+CXJ-SBBG,CXJ,SBBG,RS,Sul,RS,Sul,Intrarregional,Não,372.0,Curta (até 800 km),Não,Fora do top 25
+CXJ-SJP,CXJ,SJP,RS,Sul,SP,Sudeste,Inter-regional,Não,949.0,Média (800 a 1.600 km),Não,Fora do top 25
+CXJ-XAP,CXJ,XAP,RS,Sul,SC,Sul,Intrarregional,Não,271.0,Curta (até 800 km),Não,Fora do top 25
+FEN-FOR,FEN,FOR,PE,Nordeste,CE,Nordeste,Intrarregional,Não,677.0,Curta (até 800 km),Não,Fora do top 25
+FEN-JPA,FEN,JPA,PE,Nordeste,PB,Nordeste,Intrarregional,Não,460.0,Curta (até 800 km),Não,Fora do top 25
+FEN-MCZ,FEN,MCZ,PE,Nordeste,AL,Nordeste,Intrarregional,Não,731.0,Curta (até 800 km),Não,Fora do top 25
+FEN-NAT,FEN,NAT,PE,Nordeste,RN,Nordeste,Intrarregional,Não,389.0,Curta (até 800 km),Não,Fora do top 25
+FEN-RAO,FEN,RAO,PE,Nordeste,SP,Sudeste,Inter-regional,Não,,,Não,Fora do top 25
+FEN-REC,FEN,REC,PE,Nordeste,PE,Nordeste,Intrarregional,Não,549.0,Curta (até 800 km),Não,Fora do top 25
+FEN-RIO,FEN,RIO,PE,Nordeste,RJ,Sudeste,Inter-regional,Não,2408.0,Longa (acima de 1.600 km),Não,Fora do top 25
+FEN-SAO,FEN,SAO,PE,Nordeste,SP,Sudeste,Inter-regional,Sim,2655.0,Longa (acima de 1.600 km),Não,Fora do top 25
+FEN-SSA,FEN,SSA,PE,Nordeste,BA,Nordeste,Intrarregional,Não,1197.0,Média (800 a 1.600 km),Não,Fora do top 25
+FLN-FOR,FLN,FOR,SC,Sul,CE,Nordeste,Inter-regional,Não,2862.0,Longa (acima de 1.600 km),Não,Fora do top 25
+FLN-GYN,FLN,GYN,SC,Sul,GO,Centro-Oeste,Inter-regional,Não,1229.0,Média (800 a 1.600 km),Não,Fora do top 25
+FLN-IGU,FLN,IGU,SC,Sul,PR,Sul,Intrarregional,Não,633.0,Curta (até 800 km),Não,Fora do top 25
+FLN-JJG,FLN,JJG,SC,Sul,SC,Sul,Intrarregional,Não,122.0,Curta (até 800 km),Não,Fora do top 25
+FLN-JOI,FLN,JOI,SC,Sul,SC,Sul,Intrarregional,Não,163.0,Curta (até 800 km),Não,Fora do top 25
+FLN-JPA,FLN,JPA,SC,Sul,PB,Nordeste,Inter-regional,Não,2694.0,Longa (acima de 1.600 km),Não,Fora do top 25
+FLN-LDB,FLN,LDB,SC,Sul,PR,Sul,Intrarregional,Não,548.0,Curta (até 800 km),Não,Fora do top 25
+FLN-MAO,FLN,MAO,SC,Sul,AM,Norte,Inter-regional,Não,2998.0,Longa (acima de 1.600 km),Não,Fora do top 25
+FLN-MCZ,FLN,MCZ,SC,Sul,AL,Nordeste,Inter-regional,Não,,,Não,Fora do top 25
+FLN-MGF,FLN,MGF,SC,Sul,PR,Sul,Intrarregional,Não,581.0,Curta (até 800 km),Não,Fora do top 25
+FLN-MOC,FLN,MOC,SC,Sul,MG,Sudeste,Inter-regional,Não,1312.0,Média (800 a 1.600 km),Não,Fora do top 25
+FLN-NAT,FLN,NAT,SC,Sul,RN,Nordeste,Inter-regional,Não,2806.0,Longa (acima de 1.600 km),Não,Fora do top 25
+FLN-NVT,FLN,NVT,SC,Sul,SC,Sul,Intrarregional,Não,89.0,Curta (até 800 km),Não,Fora do top 25
+FLN-PFB,FLN,PFB,SC,Sul,RS,Sul,Intrarregional,Não,376.0,Curta (até 800 km),Não,Fora do top 25
+FLN-POA,FLN,POA,SC,Sul,RS,Sul,Intrarregional,Não,363.0,Curta (até 800 km),Não,Fora do top 25
+FLN-QDV,FLN,QDV,SC,Sul,SP,Sudeste,Inter-regional,Não,525.0,Curta (até 800 km),Não,Fora do top 25
+FLN-RAO,FLN,RAO,SC,Sul,SP,Sudeste,Inter-regional,Não,731.0,Curta (até 800 km),Não,Fora do top 25
+FLN-REC,FLN,REC,SC,Sul,PE,Nordeste,Inter-regional,Não,2603.0,Longa (acima de 1.600 km),Não,Fora do top 25
+FLN-RIO,FLN,RIO,SC,Sul,RJ,Sudeste,Inter-regional,Não,758.0,Curta (até 800 km),Sim,Defender
+FLN-SAO,FLN,SAO,SC,Sul,SP,Sudeste,Inter-regional,Sim,507.0,Curta (até 800 km),Sim,Consolidar
+FLN-SBAE,FLN,SBAE,SC,Sul,SP,Sudeste,Inter-regional,Não,615.0,Curta (até 800 km),Não,Fora do top 25
+FLN-SBCB,FLN,SBCB,SC,Sul,RJ,Sudeste,Inter-regional,Não,838.0,Média (800 a 1.600 km),Não,Fora do top 25
+FLN-SBCD,FLN,SBCD,SC,Sul,SC,Sul,Intrarregional,Não,256.0,Curta (até 800 km),Não,Fora do top 25
+FLN-SBNM,FLN,SBNM,SC,Sul,RS,Sul,Intrarregional,Não,556.0,Curta (até 800 km),Não,Fora do top 25
+FLN-SBPK,FLN,SBPK,SC,Sul,RS,Sul,Intrarregional,Não,579.0,Curta (até 800 km),Não,Fora do top 25
+FLN-SBRD,FLN,SBRD,SC,Sul,MT,Centro-Oeste,Inter-regional,Não,1386.0,Média (800 a 1.600 km),Não,Fora do top 25
+FLN-SBSJ,FLN,SBSJ,SC,Sul,SP,Sudeste,Inter-regional,Não,562.0,Curta (até 800 km),Não,Fora do top 25
+FLN-SBSM,FLN,SBSM,SC,Sul,RS,Sul,Intrarregional,Não,550.0,Curta (até 800 km),Não,Fora do top 25
+FLN-SBUG,FLN,SBUG,SC,Sul,RS,Sul,Intrarregional,Não,860.0,Média (800 a 1.600 km),Não,Fora do top 25
+FLN-SIUA,FLN,SIUA,SC,Sul,RS,Sul,Intrarregional,Não,353.0,Curta (até 800 km),Não,Fora do top 25
+FLN-SIXE,FLN,SIXE,SC,Sul,RS,Sul,Intrarregional,Não,386.0,Curta (até 800 km),Não,Fora do top 25
+FLN-SJP,FLN,SJP,SC,Sul,SP,Sudeste,Inter-regional,Não,767.0,Curta (até 800 km),Não,Fora do top 25
+FLN-SNCP,FLN,SNCP,SC,Sul,SC,Sul,Intrarregional,Não,178.0,Curta (até 800 km),Não,Fora do top 25
+FLN-SSA,FLN,SSA,SC,Sul,BA,Nordeste,Inter-regional,Não,1955.0,Longa (acima de 1.600 km),Não,Fora do top 25
+FLN-SSBN,FLN,SSBN,SC,Sul,RS,Sul,Intrarregional,Não,379.0,Curta (até 800 km),Não,Fora do top 25
+FLN-SSER,FLN,SSER,SC,Sul,RS,Sul,Intrarregional,Não,367.0,Curta (até 800 km),Não,Fora do top 25
+FLN-SSKW,FLN,SSKW,SC,Sul,RO,Norte,Inter-regional,Não,2246.0,Longa (acima de 1.600 km),Não,Fora do top 25
+FLN-SSOE,FLN,SSOE,SC,Sul,SC,Sul,Intrarregional,Não,499.0,Curta (até 800 km),Não,Fora do top 25
+FLN-SSOG,FLN,SSOG,SC,Sul,PR,Sul,Intrarregional,Não,563.0,Curta (até 800 km),Não,Fora do top 25
+FLN-SSSC,FLN,SSSC,SC,Sul,RS,Sul,Intrarregional,Não,438.0,Curta (até 800 km),Não,Fora do top 25
+FLN-UDI,FLN,UDI,SC,Sul,MG,Sudeste,Inter-regional,Não,978.0,Média (800 a 1.600 km),Não,Fora do top 25
+FLN-VIX,FLN,VIX,SC,Sul,ES,Sudeste,Inter-regional,Não,1176.0,Média (800 a 1.600 km),Não,Fora do top 25
+FLN-XAP,FLN,XAP,SC,Sul,SC,Sul,Intrarregional,Não,410.0,Curta (até 800 km),Não,Fora do top 25
+FOR-GYN,FOR,GYN,CE,Nordeste,GO,Centro-Oeste,Inter-regional,Não,1845.0,Longa (acima de 1.600 km),Não,Fora do top 25
+FOR-IGU,FOR,IGU,CE,Nordeste,PR,Sul,Inter-regional,Não,2965.0,Longa (acima de 1.600 km),Não,Fora do top 25
+FOR-IMP,FOR,IMP,CE,Nordeste,MA,Nordeste,Intrarregional,Não,1008.0,Média (800 a 1.600 km),Não,Fora do top 25
+FOR-JDO,FOR,JDO,CE,Nordeste,CE,Nordeste,Intrarregional,Não,391.0,Curta (até 800 km),Não,Fora do top 25
+FOR-JPA,FOR,JPA,CE,Nordeste,PB,Nordeste,Intrarregional,Não,546.0,Curta (até 800 km),Não,Fora do top 25
+FOR-MAB,FOR,MAB,CE,Nordeste,PA,Norte,Inter-regional,Não,1189.0,Média (800 a 1.600 km),Não,Fora do top 25
+FOR-MAO,FOR,MAO,CE,Nordeste,AM,Norte,Inter-regional,Não,2390.0,Longa (acima de 1.600 km),Não,Fora do top 25
+FOR-MCP,FOR,MCP,CE,Nordeste,AP,Norte,Inter-regional,Não,1457.0,Média (800 a 1.600 km),Não,Fora do top 25
+FOR-MCZ,FOR,MCZ,CE,Nordeste,AL,Nordeste,Intrarregional,Não,707.0,Curta (até 800 km),Não,Fora do top 25
+FOR-MOC,FOR,MOC,CE,Nordeste,MG,Sudeste,Inter-regional,Não,,,Não,Fora do top 25
+FOR-NAT,FOR,NAT,CE,Nordeste,RN,Nordeste,Intrarregional,Não,415.0,Curta (até 800 km),Não,Fora do top 25
+FOR-PNZ,FOR,PNZ,CE,Nordeste,PE,Nordeste,Intrarregional,Não,661.0,Curta (até 800 km),Não,Fora do top 25
+FOR-POA,FOR,POA,CE,Nordeste,RS,Sul,Inter-regional,Não,3204.0,Longa (acima de 1.600 km),Não,Fora do top 25
+FOR-PVH,FOR,PVH,CE,Nordeste,RO,Norte,Inter-regional,Não,2856.0,Longa (acima de 1.600 km),Não,Fora do top 25
+FOR-RAO,FOR,RAO,CE,Nordeste,SP,Sudeste,Inter-regional,Não,2174.0,Longa (acima de 1.600 km),Não,Fora do top 25
+FOR-REC,FOR,REC,CE,Nordeste,PE,Nordeste,Intrarregional,Não,627.0,Curta (até 800 km),Não,Fora do top 25
+FOR-RIO,FOR,RIO,CE,Nordeste,RJ,Sudeste,Inter-regional,Não,2177.0,Longa (acima de 1.600 km),Sim,Defender
+FOR-SAO,FOR,SAO,CE,Nordeste,SP,Sudeste,Inter-regional,Sim,2351.0,Longa (acima de 1.600 km),Sim,Consolidar
+FOR-SBAC,FOR,SBAC,CE,Nordeste,CE,Nordeste,Intrarregional,Não,120.0,Curta (até 800 km),Não,Fora do top 25
+FOR-SBAE,FOR,SBAE,CE,Nordeste,SP,Sudeste,Inter-regional,Não,2338.0,Longa (acima de 1.600 km),Não,Fora do top 25
+FOR-SBCB,FOR,SBCB,CE,Nordeste,RJ,Sudeste,Inter-regional,Não,2163.0,Longa (acima de 1.600 km),Não,Fora do top 25
+FOR-SBJE,FOR,SBJE,CE,Nordeste,CE,Nordeste,Intrarregional,Não,225.0,Curta (até 800 km),Não,Fora do top 25
+FOR-SBMS,FOR,SBMS,CE,Nordeste,RN,Nordeste,Intrarregional,Não,204.0,Curta (até 800 km),Não,Fora do top 25
+FOR-SBNT,FOR,SBNT,CE,Nordeste,RN,Nordeste,Intrarregional,Não,434.0,Curta (até 800 km),Não,Fora do top 25
+FOR-SBPB,FOR,SBPB,CE,Nordeste,PI,Nordeste,Intrarregional,Não,368.0,Curta (até 800 km),Não,Fora do top 25
+FOR-SBSJ,FOR,SBSJ,CE,Nordeste,SP,Sudeste,Inter-regional,Não,2302.0,Longa (acima de 1.600 km),Não,Fora do top 25
+FOR-SDSC,FOR,SDSC,CE,Nordeste,SP,Sudeste,Inter-regional,Não,,,Não,Fora do top 25
+FOR-SDZG,FOR,SDZG,CE,Nordeste,CE,Nordeste,Intrarregional,Não,310.0,Curta (até 800 km),Não,Fora do top 25
+FOR-SJP,FOR,SJP,CE,Nordeste,SP,Sudeste,Inter-regional,Não,2230.0,Longa (acima de 1.600 km),Não,Fora do top 25
+FOR-SLZ,FOR,SLZ,CE,Nordeste,MA,Nordeste,Intrarregional,Não,647.0,Curta (até 800 km),Não,Fora do top 25
+FOR-SN6L,FOR,SN6L,CE,Nordeste,CE,Nordeste,Intrarregional,Não,189.0,Curta (até 800 km),Não,Fora do top 25
+FOR-SNAT,FOR,SNAT,CE,Nordeste,CE,Nordeste,Intrarregional,Não,120.0,Curta (até 800 km),Não,Fora do top 25
+FOR-SNIG,FOR,SNIG,CE,Nordeste,CE,Nordeste,Intrarregional,Não,298.0,Curta (até 800 km),Não,Fora do top 25
+FOR-SNOB,FOR,SNOB,CE,Nordeste,CE,Nordeste,Intrarregional,Não,201.0,Curta (até 800 km),Não,Fora do top 25
+FOR-SNWS,FOR,SNWS,CE,Nordeste,CE,Nordeste,Intrarregional,Não,289.0,Curta (até 800 km),Não,Fora do top 25
+FOR-SSA,FOR,SSA,CE,Nordeste,BA,Nordeste,Intrarregional,Não,1016.0,Média (800 a 1.600 km),Não,Fora do top 25
+FOR-SSRS,FOR,SSRS,CE,Nordeste,MA,Nordeste,Intrarregional,Não,488.0,Curta (até 800 km),Não,Fora do top 25
+FOR-STM,FOR,STM,CE,Nordeste,PA,Norte,Inter-regional,Não,1811.0,Longa (acima de 1.600 km),Não,Fora do top 25
+FOR-SWBE,FOR,SWBE,CE,Nordeste,CE,Nordeste,Intrarregional,Não,263.0,Curta (até 800 km),Não,Fora do top 25
+FOR-THE,FOR,THE,CE,Nordeste,PI,Nordeste,Intrarregional,Não,497.0,Curta (até 800 km),Não,Fora do top 25
+FOR-UDI,FOR,UDI,CE,Nordeste,MG,Sudeste,Inter-regional,Não,1983.0,Longa (acima de 1.600 km),Não,Fora do top 25
+FOR-VIX,FOR,VIX,CE,Nordeste,ES,Sudeste,Inter-regional,Não,1843.0,Longa (acima de 1.600 km),Não,Fora do top 25
+FOR-XAP,FOR,XAP,CE,Nordeste,SC,Sul,Inter-regional,Não,3000.0,Longa (acima de 1.600 km),Não,Fora do top 25
+GVR-SBIP,GVR,SBIP,MG,Sudeste,MG,Sudeste,Intrarregional,Não,83.0,Curta (até 800 km),Não,Fora do top 25
+GVR-SNTO,GVR,SNTO,MG,Sudeste,MG,Sudeste,Intrarregional,Não,122.0,Curta (até 800 km),Não,Fora do top 25
+GVR-SNUI,GVR,SNUI,MG,Sudeste,MG,Sudeste,Intrarregional,Não,227.0,Curta (até 800 km),Não,Fora do top 25
+GYN-JPA,GYN,JPA,GO,Centro-Oeste,PB,Nordeste,Inter-regional,Não,1875.0,Longa (acima de 1.600 km),Não,Fora do top 25
+GYN-MAB,GYN,MAB,GO,Centro-Oeste,PA,Norte,Inter-regional,Não,1253.0,Média (800 a 1.600 km),Não,Fora do top 25
+GYN-MAO,GYN,MAO,GO,Centro-Oeste,AM,Norte,Inter-regional,Não,1919.0,Longa (acima de 1.600 km),Não,Fora do top 25
+GYN-MCP,GYN,MCP,GO,Centro-Oeste,AP,Norte,Inter-regional,Não,1866.0,Longa (acima de 1.600 km),Não,Fora do top 25
+GYN-MCZ,GYN,MCZ,GO,Centro-Oeste,AL,Nordeste,Inter-regional,Não,1655.0,Longa (acima de 1.600 km),Não,Fora do top 25
+GYN-MOC,GYN,MOC,GO,Centro-Oeste,MG,Sudeste,Inter-regional,Não,575.0,Curta (até 800 km),Não,Fora do top 25
+GYN-NAT,GYN,NAT,GO,Centro-Oeste,RN,Nordeste,Inter-regional,Não,1933.0,Longa (acima de 1.600 km),Não,Fora do top 25
+GYN-OPS,GYN,OPS,GO,Centro-Oeste,MT,Centro-Oeste,Intrarregional,Não,865.0,Média (800 a 1.600 km),Não,Fora do top 25
+GYN-PMW,GYN,PMW,GO,Centro-Oeste,TO,Norte,Inter-regional,Não,711.0,Curta (até 800 km),Não,Fora do top 25
+GYN-POA,GYN,POA,GO,Centro-Oeste,RS,Sul,Inter-regional,Não,1499.0,Média (800 a 1.600 km),Não,Fora do top 25
+GYN-PVH,GYN,PVH,GO,Centro-Oeste,RO,Norte,Inter-regional,Não,1818.0,Longa (acima de 1.600 km),Não,Fora do top 25
+GYN-QDV,GYN,QDV,GO,Centro-Oeste,SP,Sudeste,Inter-regional,Não,766.0,Curta (até 800 km),Não,Fora do top 25
+GYN-RAO,GYN,RAO,GO,Centro-Oeste,SP,Sudeste,Inter-regional,Não,523.0,Curta (até 800 km),Não,Fora do top 25
+GYN-RBR,GYN,RBR,GO,Centro-Oeste,AC,Norte,Inter-regional,Não,2155.0,Longa (acima de 1.600 km),Não,Fora do top 25
+GYN-REC,GYN,REC,GO,Centro-Oeste,PE,Nordeste,Inter-regional,Não,1817.0,Longa (acima de 1.600 km),Não,Fora do top 25
+GYN-RIO,GYN,RIO,GO,Centro-Oeste,RJ,Sudeste,Inter-regional,Não,938.0,Média (800 a 1.600 km),Não,Fora do top 25
+GYN-SAO,GYN,SAO,GO,Centro-Oeste,SP,Sudeste,Inter-regional,Sim,800.0,Curta (até 800 km),Sim,Consolidar
+GYN-SBAE,GYN,SBAE,GO,Centro-Oeste,SP,Sudeste,Inter-regional,Não,615.0,Curta (até 800 km),Não,Fora do top 25
+GYN-SBAU,GYN,SBAU,GO,Centro-Oeste,SP,Sudeste,Inter-regional,Não,517.0,Curta (até 800 km),Não,Fora do top 25
+GYN-SBBW,GYN,SBBW,GO,Centro-Oeste,MT,Centro-Oeste,Intrarregional,Não,349.0,Curta (até 800 km),Não,Fora do top 25
+GYN-SBCJ,GYN,SBCJ,GO,Centro-Oeste,PA,Norte,Inter-regional,Não,1173.0,Média (800 a 1.600 km),Não,Fora do top 25
+GYN-SBCN,GYN,SBCN,GO,Centro-Oeste,GO,Centro-Oeste,Intrarregional,Não,138.0,Curta (até 800 km),Não,Fora do top 25
+GYN-SBCZ,GYN,SBCZ,GO,Centro-Oeste,AC,Norte,Inter-regional,Não,,,Não,Fora do top 25
+GYN-SBSJ,GYN,SBSJ,GO,Centro-Oeste,SP,Sudeste,Inter-regional,Não,813.0,Média (800 a 1.600 km),Não,Fora do top 25
+GYN-SBVH,GYN,SBVH,GO,Centro-Oeste,RO,Norte,Inter-regional,Não,1249.0,Média (800 a 1.600 km),Não,Fora do top 25
+GYN-SJP,GYN,SJP,GO,Centro-Oeste,SP,Sudeste,Inter-regional,Não,466.0,Curta (até 800 km),Não,Fora do top 25
+GYN-SLZ,GYN,SLZ,GO,Centro-Oeste,MA,Nordeste,Inter-regional,Não,1654.0,Longa (acima de 1.600 km),Não,Fora do top 25
+GYN-SNBR,GYN,SNBR,GO,Centro-Oeste,BA,Nordeste,Inter-regional,Não,680.0,Curta (até 800 km),Não,Fora do top 25
+GYN-SSA,GYN,SSA,GO,Centro-Oeste,BA,Nordeste,Inter-regional,Não,1242.0,Média (800 a 1.600 km),Não,Fora do top 25
+GYN-STM,GYN,STM,GO,Centro-Oeste,PA,Norte,Inter-regional,Não,1693.0,Longa (acima de 1.600 km),Não,Fora do top 25
+GYN-SWGN,GYN,SWGN,GO,Centro-Oeste,TO,Norte,Inter-regional,Não,1051.0,Média (800 a 1.600 km),Não,Fora do top 25
+GYN-SWLC,GYN,SWLC,GO,Centro-Oeste,GO,Centro-Oeste,Intrarregional,Não,228.0,Curta (até 800 km),Não,Fora do top 25
+GYN-THE,GYN,THE,GO,Centro-Oeste,PI,Nordeste,Inter-regional,Não,1464.0,Média (800 a 1.600 km),Não,Fora do top 25
+GYN-UBA,GYN,UBA,GO,Centro-Oeste,MG,Sudeste,Inter-regional,Não,373.0,Curta (até 800 km),Não,Fora do top 25
+GYN-UDI,GYN,UDI,GO,Centro-Oeste,MG,Sudeste,Inter-regional,Não,272.0,Curta (até 800 km),Não,Fora do top 25
+GYN-VIX,GYN,VIX,GO,Centro-Oeste,ES,Sudeste,Inter-regional,Não,1025.0,Média (800 a 1.600 km),Não,Fora do top 25
+IGU-JOI,IGU,JOI,PR,Sul,SC,Sul,Intrarregional,Não,573.0,Curta (até 800 km),Não,Fora do top 25
+IGU-LDB,IGU,LDB,PR,Sul,PR,Sul,Intrarregional,Não,423.0,Curta (até 800 km),Não,Fora do top 25
+IGU-MCZ,IGU,MCZ,PR,Sul,AL,Nordeste,Inter-regional,Não,2663.0,Longa (acima de 1.600 km),Não,Fora do top 25
+IGU-MGF,IGU,MGF,PR,Sul,PR,Sul,Intrarregional,Não,344.0,Curta (até 800 km),Não,Fora do top 25
+IGU-NVT,IGU,NVT,PR,Sul,SC,Sul,Intrarregional,Não,599.0,Curta (até 800 km),Não,Fora do top 25
+IGU-POA,IGU,POA,PR,Sul,RS,Sul,Intrarregional,Não,587.0,Curta (até 800 km),Não,Fora do top 25
+IGU-RAO,IGU,RAO,PR,Sul,SP,Sudeste,Inter-regional,Não,845.0,Média (800 a 1.600 km),Não,Fora do top 25
+IGU-REC,IGU,REC,PR,Sul,PE,Nordeste,Inter-regional,Não,2839.0,Longa (acima de 1.600 km),Não,Fora do top 25
+IGU-RIO,IGU,RIO,PR,Sul,RJ,Sudeste,Inter-regional,Não,1180.0,Média (800 a 1.600 km),Sim,Crescer junto
+IGU-SAO,IGU,SAO,PR,Sul,SP,Sudeste,Inter-regional,Sim,831.0,Média (800 a 1.600 km),Sim,Crescer junto
+IGU-SBPG,IGU,SBPG,PR,Sul,PR,Sul,Intrarregional,Não,439.0,Curta (até 800 km),Não,Fora do top 25
+IGU-SBPP,IGU,SBPP,PR,Sul,MS,Centro-Oeste,Inter-regional,Não,361.0,Curta (até 800 km),Não,Fora do top 25
+IGU-SBSJ,IGU,SBSJ,PR,Sul,SP,Sudeste,Inter-regional,Não,911.0,Média (800 a 1.600 km),Não,Fora do top 25
+IGU-SSA,IGU,SSA,PR,Sul,BA,Nordeste,Inter-regional,Não,2203.0,Longa (acima de 1.600 km),Não,Fora do top 25
+IGU-VIX,IGU,VIX,PR,Sul,ES,Sudeste,Inter-regional,Não,1569.0,Média (800 a 1.600 km),Não,Fora do top 25
+IGU-XAP,IGU,XAP,PR,Sul,SC,Sul,Intrarregional,Não,249.0,Curta (até 800 km),Não,Fora do top 25
+IMP-MAB,IMP,MAB,MA,Nordeste,PA,Norte,Inter-regional,Não,187.0,Curta (até 800 km),Não,Fora do top 25
+IMP-MCP,IMP,MCP,MA,Nordeste,AP,Norte,Inter-regional,Não,739.0,Curta (até 800 km),Não,Fora do top 25
+IMP-MCZ,IMP,MCZ,MA,Nordeste,AL,Nordeste,Intrarregional,Não,,,Não,Fora do top 25
+IMP-NAT,IMP,NAT,MA,Nordeste,RN,Nordeste,Intrarregional,Não,,,Não,Fora do top 25
+IMP-PMW,IMP,PMW,MA,Nordeste,TO,Norte,Inter-regional,Não,538.0,Curta (até 800 km),Não,Fora do top 25
+IMP-REC,IMP,REC,MA,Nordeste,PE,Nordeste,Intrarregional,Não,1414.0,Média (800 a 1.600 km),Não,Fora do top 25
+IMP-RIO,IMP,RIO,MA,Nordeste,RJ,Sudeste,Inter-regional,Não,1974.0,Longa (acima de 1.600 km),Não,Fora do top 25
+IMP-SAO,IMP,SAO,MA,Nordeste,SP,Sudeste,Inter-regional,Sim,1992.0,Longa (acima de 1.600 km),Não,Fora do top 25
+IMP-SLZ,IMP,SLZ,MA,Nordeste,MA,Nordeste,Intrarregional,Não,485.0,Curta (até 800 km),Não,Fora do top 25
+IMP-SSA,IMP,SSA,MA,Nordeste,BA,Nordeste,Intrarregional,Não,,,Não,Fora do top 25
+IMP-STM,IMP,STM,MA,Nordeste,PA,Norte,Inter-regional,Não,883.0,Média (800 a 1.600 km),Não,Fora do top 25
+IMP-THE,IMP,THE,MA,Nordeste,PI,Nordeste,Intrarregional,Não,516.0,Curta (até 800 km),Não,Fora do top 25
+IMP-UDI,IMP,UDI,MA,Nordeste,MG,Sudeste,Inter-regional,Não,1487.0,Média (800 a 1.600 km),Não,Fora do top 25
+IOS-MCZ,IOS,MCZ,BA,Nordeste,AL,Nordeste,Intrarregional,Não,687.0,Curta (até 800 km),Não,Fora do top 25
+IOS-POA,IOS,POA,BA,Nordeste,RS,Sul,Inter-regional,Não,,,Não,Fora do top 25
+IOS-QDV,IOS,QDV,BA,Nordeste,SP,Sudeste,Inter-regional,Não,1247.0,Média (800 a 1.600 km),Não,Fora do top 25
+IOS-RAO,IOS,RAO,BA,Nordeste,SP,Sudeste,Inter-regional,Não,1161.0,Média (800 a 1.600 km),Não,Fora do top 25
+IOS-REC,IOS,REC,BA,Nordeste,PE,Nordeste,Intrarregional,Não,868.0,Média (800 a 1.600 km),Não,Fora do top 25
+IOS-RIO,IOS,RIO,BA,Nordeste,RJ,Sudeste,Inter-regional,Não,993.0,Média (800 a 1.600 km),Não,Fora do top 25
+IOS-SAO,IOS,SAO,BA,Nordeste,SP,Sudeste,Inter-regional,Sim,1247.0,Média (800 a 1.600 km),Não,Fora do top 25
+IOS-SIFC,IOS,SIFC,BA,Nordeste,PE,Nordeste,Intrarregional,Não,897.0,Média (800 a 1.600 km),Não,Fora do top 25
+IOS-SSA,IOS,SSA,BA,Nordeste,BA,Nordeste,Intrarregional,Não,225.0,Curta (até 800 km),Não,Fora do top 25
+IOS-VDC,IOS,VDC,BA,Nordeste,BA,Nordeste,Intrarregional,Não,202.0,Curta (até 800 km),Não,Fora do top 25
+IOS-VIX,IOS,VIX,BA,Nordeste,ES,Sudeste,Inter-regional,Não,620.0,Curta (até 800 km),Não,Fora do top 25
+JDO-JPA,JDO,JPA,CE,Nordeste,PB,Nordeste,Intrarregional,Não,477.0,Curta (até 800 km),Não,Fora do top 25
+JDO-MCZ,JDO,MCZ,CE,Nordeste,AL,Nordeste,Intrarregional,Não,461.0,Curta (até 800 km),Não,Fora do top 25
+JDO-NAT,JDO,NAT,CE,Nordeste,RN,Nordeste,Intrarregional,Não,460.0,Curta (até 800 km),Não,Fora do top 25
+JDO-PNZ,JDO,PNZ,CE,Nordeste,PE,Nordeste,Intrarregional,Não,278.0,Curta (até 800 km),Não,Fora do top 25
+JDO-REC,JDO,REC,CE,Nordeste,PE,Nordeste,Intrarregional,Não,490.0,Curta (até 800 km),Não,Fora do top 25
+JDO-RIO,JDO,RIO,CE,Nordeste,RJ,Sudeste,Inter-regional,Não,1785.0,Longa (acima de 1.600 km),Não,Fora do top 25
+JDO-SAO,JDO,SAO,CE,Nordeste,SP,Sudeste,Inter-regional,Sim,1957.0,Longa (acima de 1.600 km),Não,Fora do top 25
+JDO-SBJE,JDO,SBJE,CE,Nordeste,CE,Nordeste,Intrarregional,Não,,,Não,Fora do top 25
+JDO-SBPB,JDO,SBPB,CE,Nordeste,PI,Nordeste,Intrarregional,Não,,,Não,Fora do top 25
+JDO-SNAB,JDO,SNAB,CE,Nordeste,PE,Nordeste,Intrarregional,Não,145.0,Curta (até 800 km),Não,Fora do top 25
+JDO-SSA,JDO,SSA,CE,Nordeste,BA,Nordeste,Intrarregional,Não,641.0,Curta (até 800 km),Não,Fora do top 25
+JDO-THE,JDO,THE,CE,Nordeste,PI,Nordeste,Intrarregional,Não,461.0,Curta (até 800 km),Não,Fora do top 25
+JJG-JOI,JJG,JOI,SC,Sul,SC,Sul,Intrarregional,Não,274.0,Curta (até 800 km),Não,Fora do top 25
+JJG-POA,JJG,POA,SC,Sul,RS,Sul,Intrarregional,Não,252.0,Curta (até 800 km),Não,Fora do top 25
+JJG-SAO,JJG,SAO,SC,Sul,SP,Sudeste,Inter-regional,Sim,637.0,Curta (até 800 km),Não,Fora do top 25
+JJG-SIUA,JJG,SIUA,SC,Sul,RS,Sul,Intrarregional,Não,237.0,Curta (até 800 km),Não,Fora do top 25
+JJG-SIXE,JJG,SIXE,SC,Sul,RS,Sul,Intrarregional,Não,277.0,Curta (até 800 km),Não,Fora do top 25
+JJG-SJP,JJG,SJP,SC,Sul,SP,Sudeste,Inter-regional,Não,875.0,Média (800 a 1.600 km),Não,Fora do top 25
+JJG-XAP,JJG,XAP,SC,Sul,SC,Sul,Intrarregional,Não,393.0,Curta (até 800 km),Não,Fora do top 25
+JOI-LDB,JOI,LDB,SC,Sul,PR,Sul,Intrarregional,Não,399.0,Curta (até 800 km),Não,Fora do top 25
+JOI-MGF,JOI,MGF,SC,Sul,PR,Sul,Intrarregional,Não,445.0,Curta (até 800 km),Não,Fora do top 25
+JOI-NVT,JOI,NVT,SC,Sul,SC,Sul,Intrarregional,Não,74.0,Curta (até 800 km),Não,Fora do top 25
+JOI-POA,JOI,POA,SC,Sul,RS,Sul,Intrarregional,Não,480.0,Curta (até 800 km),Não,Fora do top 25
+JOI-RAO,JOI,RAO,SC,Sul,SP,Sudeste,Inter-regional,Não,575.0,Curta (até 800 km),Não,Fora do top 25
+JOI-RIO,JOI,RIO,SC,Sul,RJ,Sudeste,Inter-regional,Não,677.0,Curta (até 800 km),Não,Fora do top 25
+JOI-SAO,JOI,SAO,SC,Sul,SP,Sudeste,Inter-regional,Sim,383.0,Curta (até 800 km),Não,Fora do top 25
+JOI-SBAE,JOI,SBAE,SC,Sul,SP,Sudeste,Inter-regional,Não,453.0,Curta (até 800 km),Não,Fora do top 25
+JOI-SBPK,JOI,SBPK,SC,Sul,RS,Sul,Intrarregional,Não,701.0,Curta (até 800 km),Não,Fora do top 25
+JOI-SBSM,JOI,SBSM,SC,Sul,RS,Sul,Intrarregional,Não,617.0,Curta (até 800 km),Não,Fora do top 25
+JOI-SBUG,JOI,SBUG,SC,Sul,RS,Sul,Intrarregional,Não,900.0,Média (800 a 1.600 km),Não,Fora do top 25
+JOI-SJP,JOI,SJP,SC,Sul,SP,Sudeste,Inter-regional,Não,604.0,Curta (até 800 km),Não,Fora do top 25
+JOI-SSUM,JOI,SSUM,SC,Sul,PR,Sul,Intrarregional,Não,529.0,Curta (até 800 km),Não,Fora do top 25
+JOI-XAP,JOI,XAP,SC,Sul,SC,Sul,Intrarregional,Não,397.0,Curta (até 800 km),Não,Fora do top 25
+JPA-MCZ,JPA,MCZ,PB,Nordeste,AL,Nordeste,Intrarregional,Não,279.0,Curta (até 800 km),Não,Fora do top 25
+JPA-NAT,JPA,NAT,PB,Nordeste,RN,Nordeste,Intrarregional,Não,160.0,Curta (até 800 km),Não,Fora do top 25
+JPA-RAO,JPA,RAO,PB,Nordeste,SP,Sudeste,Inter-regional,Não,2079.0,Longa (acima de 1.600 km),Não,Fora do top 25
+JPA-REC,JPA,REC,PB,Nordeste,PE,Nordeste,Intrarregional,Não,109.0,Curta (até 800 km),Não,Fora do top 25
+JPA-RIO,JPA,RIO,PB,Nordeste,RJ,Sudeste,Inter-regional,Não,1955.0,Longa (acima de 1.600 km),Não,Fora do top 25
+JPA-SAO,JPA,SAO,PB,Nordeste,SP,Sudeste,Inter-regional,Sim,2193.0,Longa (acima de 1.600 km),Não,Fora do top 25
+JPA-SBDN,JPA,SBDN,PB,Nordeste,SP,Sudeste,Inter-regional,Não,2431.0,Longa (acima de 1.600 km),Não,Fora do top 25
+JPA-SBMS,JPA,SBMS,PB,Nordeste,RN,Nordeste,Intrarregional,Não,344.0,Curta (até 800 km),Não,Fora do top 25
+JPA-SBSJ,JPA,SBSJ,PB,Nordeste,SP,Sudeste,Inter-regional,Não,2135.0,Longa (acima de 1.600 km),Não,Fora do top 25
+JPA-SJP,JPA,SJP,PB,Nordeste,SP,Sudeste,Inter-regional,Não,2174.0,Longa (acima de 1.600 km),Não,Fora do top 25
+JPA-SJZA,JPA,SJZA,PB,Nordeste,PB,Nordeste,Intrarregional,Não,406.0,Curta (até 800 km),Não,Fora do top 25
+JPA-SLZ,JPA,SLZ,PB,Nordeste,MA,Nordeste,Intrarregional,Não,1147.0,Média (800 a 1.600 km),Não,Fora do top 25
+JPA-SNAB,JPA,SNAB,PB,Nordeste,PE,Nordeste,Intrarregional,Não,618.0,Curta (até 800 km),Não,Fora do top 25
+JPA-SSA,JPA,SSA,PB,Nordeste,BA,Nordeste,Intrarregional,Não,739.0,Curta (até 800 km),Não,Fora do top 25
+JPA-THE,JPA,THE,PB,Nordeste,PI,Nordeste,Intrarregional,Não,901.0,Média (800 a 1.600 km),Não,Fora do top 25
+JPA-UBA,JPA,UBA,PB,Nordeste,MG,Sudeste,Inter-regional,Não,1985.0,Longa (acima de 1.600 km),Não,Fora do top 25
+JPA-UDI,JPA,UDI,PB,Nordeste,MG,Sudeste,Inter-regional,Não,1940.0,Longa (acima de 1.600 km),Não,Fora do top 25
+JPA-VDC,JPA,VDC,PB,Nordeste,BA,Nordeste,Intrarregional,Não,,,Não,Fora do top 25
+JPA-VIX,JPA,VIX,PB,Nordeste,ES,Sudeste,Inter-regional,Não,1567.0,Média (800 a 1.600 km),Não,Fora do top 25
+LDB-MCZ,LDB,MCZ,PR,Sul,AL,Nordeste,Inter-regional,Não,2241.0,Longa (acima de 1.600 km),Não,Fora do top 25
+LDB-MGF,LDB,MGF,PR,Sul,PR,Sul,Intrarregional,Não,91.0,Curta (até 800 km),Não,Fora do top 25
+LDB-NVT,LDB,NVT,PR,Sul,SC,Sul,Intrarregional,Não,467.0,Curta (até 800 km),Não,Fora do top 25
+LDB-POA,LDB,POA,PR,Sul,RS,Sul,Intrarregional,Não,741.0,Curta (até 800 km),Não,Fora do top 25
+LDB-RAO,LDB,RAO,PR,Sul,SP,Sudeste,Inter-regional,Não,423.0,Curta (até 800 km),Não,Fora do top 25
+LDB-REC,LDB,REC,PR,Sul,PE,Nordeste,Inter-regional,Não,2418.0,Longa (acima de 1.600 km),Não,Fora do top 25
+LDB-RIO,LDB,RIO,PR,Sul,RJ,Sudeste,Inter-regional,Não,810.0,Média (800 a 1.600 km),Não,Fora do top 25
+LDB-SAO,LDB,SAO,PR,Sul,SP,Sudeste,Inter-regional,Sim,448.0,Curta (até 800 km),Não,Fora do top 25
+LDB-SBAE,LDB,SBAE,PR,Sul,SP,Sudeste,Inter-regional,Não,249.0,Curta (até 800 km),Não,Fora do top 25
+LDB-SBDN,LDB,SBDN,PR,Sul,SP,Sudeste,Inter-regional,Não,131.0,Curta (até 800 km),Não,Fora do top 25
+LDB-SBPO,LDB,SBPO,PR,Sul,PR,Sul,Intrarregional,Não,357.0,Curta (até 800 km),Não,Fora do top 25
+LDB-SJP,LDB,SJP,PR,Sul,SP,Sudeste,Inter-regional,Não,332.0,Curta (até 800 km),Não,Fora do top 25
+LDB-SSCT,LDB,SSCT,PR,Sul,PR,Sul,Intrarregional,Não,159.0,Curta (até 800 km),Não,Fora do top 25
+LDB-SSVL,LDB,SSVL,PR,Sul,PR,Sul,Intrarregional,Não,120.0,Curta (até 800 km),Não,Fora do top 25
+LDB-UDI,LDB,UDI,PR,Sul,MG,Sudeste,Inter-regional,Não,579.0,Curta (até 800 km),Não,Fora do top 25
+LDB-XAP,LDB,XAP,PR,Sul,SC,Sul,Intrarregional,Não,450.0,Curta (até 800 km),Não,Fora do top 25
+MAB-MAO,MAB,MAO,PA,Norte,AM,Norte,Intrarregional,Não,1237.0,Média (800 a 1.600 km),Não,Fora do top 25
+MAB-MCP,MAB,MCP,PA,Norte,AP,Norte,Intrarregional,Não,640.0,Curta (até 800 km),Não,Fora do top 25
+MAB-PMW,MAB,PMW,PA,Norte,TO,Norte,Intrarregional,Não,554.0,Curta (até 800 km),Não,Fora do top 25
+MAB-POA,MAB,POA,PA,Norte,RS,Sul,Inter-regional,Não,,,Não,Fora do top 25
+MAB-REC,MAB,REC,PA,Norte,PE,Nordeste,Inter-regional,Não,1599.0,Média (800 a 1.600 km),Não,Fora do top 25
+MAB-RIO,MAB,RIO,PA,Norte,RJ,Sudeste,Inter-regional,Não,2040.0,Longa (acima de 1.600 km),Não,Fora do top 25
+MAB-SAO,MAB,SAO,PA,Norte,SP,Sudeste,Inter-regional,Sim,2001.0,Longa (acima de 1.600 km),Não,Fora do top 25
+MAB-SBCJ,MAB,SBCJ,PA,Norte,PA,Norte,Intrarregional,Não,127.0,Curta (até 800 km),Não,Fora do top 25
+MAB-SBHT,MAB,SBHT,PA,Norte,PA,Norte,Intrarregional,Não,418.0,Curta (até 800 km),Não,Fora do top 25
+MAB-SDOW,MAB,SDOW,PA,Norte,PA,Norte,Intrarregional,Não,262.0,Curta (até 800 km),Não,Fora do top 25
+MAB-SLZ,MAB,SLZ,PA,Norte,MA,Nordeste,Inter-regional,Não,626.0,Curta (até 800 km),Não,Fora do top 25
+MAB-STM,MAB,STM,PA,Norte,PA,Norte,Intrarregional,Não,707.0,Curta (até 800 km),Não,Fora do top 25
+MAB-VIX,MAB,VIX,PA,Norte,ES,Sudeste,Inter-regional,Não,1912.0,Longa (acima de 1.600 km),Não,Fora do top 25
+MAO-MCP,MAO,MCP,AM,Norte,AP,Norte,Intrarregional,Não,1056.0,Média (800 a 1.600 km),Não,Fora do top 25
+MAO-MCZ,MAO,MCZ,AM,Norte,AL,Nordeste,Inter-regional,Não,2775.0,Longa (acima de 1.600 km),Não,Fora do top 25
+MAO-NAT,MAO,NAT,AM,Norte,RN,Nordeste,Inter-regional,Não,2753.0,Longa (acima de 1.600 km),Não,Fora do top 25
+MAO-PMW,MAO,PMW,AM,Norte,TO,Norte,Intrarregional,Não,1522.0,Média (800 a 1.600 km),Não,Fora do top 25
+MAO-POA,MAO,POA,AM,Norte,RS,Sul,Inter-regional,Não,3140.0,Longa (acima de 1.600 km),Não,Fora do top 25
+MAO-PVH,MAO,PVH,AM,Norte,RO,Norte,Intrarregional,Não,761.0,Curta (até 800 km),Não,Fora do top 25
+MAO-RAO,MAO,RAO,AM,Norte,SP,Sudeste,Inter-regional,Não,2411.0,Longa (acima de 1.600 km),Não,Fora do top 25
+MAO-RBR,MAO,RBR,AM,Norte,AC,Norte,Intrarregional,Não,1152.0,Média (800 a 1.600 km),Não,Fora do top 25
+MAO-REC,MAO,REC,AM,Norte,PE,Nordeste,Inter-regional,Não,2837.0,Longa (acima de 1.600 km),Não,Fora do top 25
+MAO-RIO,MAO,RIO,AM,Norte,RJ,Sudeste,Inter-regional,Não,2847.0,Longa (acima de 1.600 km),Não,Fora do top 25
+MAO-SAO,MAO,SAO,AM,Norte,SP,Sudeste,Inter-regional,Sim,2666.0,Longa (acima de 1.600 km),Não,Fora do top 25
+MAO-SBAT,MAO,SBAT,AM,Norte,MT,Centro-Oeste,Inter-regional,Não,875.0,Média (800 a 1.600 km),Não,Fora do top 25
+MAO-SBCB,MAO,SBCB,AM,Norte,RJ,Sudeste,Inter-regional,Não,2939.0,Longa (acima de 1.600 km),Não,Fora do top 25
+MAO-SBCZ,MAO,SBCZ,AM,Norte,AC,Norte,Intrarregional,Não,1496.0,Média (800 a 1.600 km),Não,Fora do top 25
+MAO-SBHT,MAO,SBHT,AM,Norte,PA,Norte,Intrarregional,Não,866.0,Média (800 a 1.600 km),Não,Fora do top 25
+MAO-SBIH,MAO,SBIH,AM,Norte,PA,Norte,Intrarregional,Não,469.0,Curta (até 800 km),Não,Fora do top 25
+MAO-SBJI,MAO,SBJI,AM,Norte,RO,Norte,Intrarregional,Não,893.0,Média (800 a 1.600 km),Não,Fora do top 25
+MAO-SBMY,MAO,SBMY,AM,Norte,AM,Norte,Intrarregional,Não,338.0,Curta (até 800 km),Não,Fora do top 25
+MAO-SBSJ,MAO,SBSJ,AM,Norte,SP,Sudeste,Inter-regional,Não,2714.0,Longa (acima de 1.600 km),Não,Fora do top 25
+MAO-SBTB,MAO,SBTB,AM,Norte,PA,Norte,Intrarregional,Não,441.0,Curta (até 800 km),Não,Fora do top 25
+MAO-SBTF,MAO,SBTF,AM,Norte,AM,Norte,Intrarregional,Não,520.0,Curta (até 800 km),Não,Fora do top 25
+MAO-SBTT,MAO,SBTT,AM,Norte,AM,Norte,Intrarregional,Não,1105.0,Média (800 a 1.600 km),Não,Fora do top 25
+MAO-SBUA,MAO,SBUA,AM,Norte,AM,Norte,Intrarregional,Não,835.0,Média (800 a 1.600 km),Não,Fora do top 25
+MAO-SBUY,MAO,SBUY,AM,Norte,AM,Norte,Intrarregional,Não,623.0,Curta (até 800 km),Não,Fora do top 25
+MAO-SDCG,MAO,SDCG,AM,Norte,AM,Norte,Intrarregional,Não,986.0,Média (800 a 1.600 km),Não,Fora do top 25
+MAO-SJP,MAO,SJP,AM,Norte,SP,Sudeste,Inter-regional,Não,2288.0,Longa (acima de 1.600 km),Não,Fora do top 25
+MAO-SJQV,MAO,SJQV,AM,Norte,AM,Norte,Intrarregional,Não,508.0,Curta (até 800 km),Não,Fora do top 25
+MAO-SLZ,MAO,SLZ,AM,Norte,MA,Nordeste,Inter-regional,Não,1757.0,Longa (acima de 1.600 km),Não,Fora do top 25
+MAO-SSA,MAO,SSA,AM,Norte,BA,Nordeste,Inter-regional,Não,2629.0,Longa (acima de 1.600 km),Não,Fora do top 25
+MAO-STM,MAO,STM,AM,Norte,PA,Norte,Intrarregional,Não,589.0,Curta (até 800 km),Não,Fora do top 25
+MAO-SWBC,MAO,SWBC,AM,Norte,AM,Norte,Intrarregional,Não,393.0,Curta (até 800 km),Não,Fora do top 25
+MAO-SWBR,MAO,SWBR,AM,Norte,AM,Norte,Intrarregional,Não,160.0,Curta (até 800 km),Não,Fora do top 25
+MAO-SWCA,MAO,SWCA,AM,Norte,AM,Norte,Intrarregional,Não,786.0,Curta (até 800 km),Não,Fora do top 25
+MAO-SWEI,MAO,SWEI,AM,Norte,AM,Norte,Intrarregional,Não,1160.0,Média (800 a 1.600 km),Não,Fora do top 25
+MAO-SWKO,MAO,SWKO,AM,Norte,AM,Norte,Intrarregional,Não,363.0,Curta (até 800 km),Não,Fora do top 25
+MAO-SWLB,MAO,SWLB,AM,Norte,AM,Norte,Intrarregional,Não,703.0,Curta (até 800 km),Não,Fora do top 25
+MAO-SWMW,MAO,SWMW,AM,Norte,AM,Norte,Intrarregional,Não,262.0,Curta (até 800 km),Não,Fora do top 25
+MAO-SWPI,MAO,SWPI,AM,Norte,AM,Norte,Intrarregional,Não,367.0,Curta (até 800 km),Não,Fora do top 25
+MAO-SWTP,MAO,SWTP,AM,Norte,AM,Norte,Intrarregional,Não,626.0,Curta (até 800 km),Não,Fora do top 25
+MAO-SWYN,MAO,SWYN,AM,Norte,AM,Norte,Intrarregional,Não,460.0,Curta (até 800 km),Não,Fora do top 25
+MAO-THE,MAO,THE,AM,Norte,PI,Nordeste,Inter-regional,Não,1924.0,Longa (acima de 1.600 km),Não,Fora do top 25
+MAO-UDI,MAO,UDI,AM,Norte,MG,Sudeste,Inter-regional,Não,2181.0,Longa (acima de 1.600 km),Não,Fora do top 25
+MAO-VIX,MAO,VIX,AM,Norte,ES,Sudeste,Inter-regional,Não,2873.0,Longa (acima de 1.600 km),Não,Fora do top 25
+MCP-PMW,MCP,PMW,AP,Norte,TO,Norte,Intrarregional,Não,1188.0,Média (800 a 1.600 km),Não,Fora do top 25
+MCP-REC,MCP,REC,AP,Norte,PE,Nordeste,Inter-regional,Não,2007.0,Longa (acima de 1.600 km),Não,Fora do top 25
+MCP-RIO,MCP,RIO,AP,Norte,RJ,Sudeste,Inter-regional,Não,,,Não,Fora do top 25
+MCP-SAO,MCP,SAO,AP,Norte,SP,Sudeste,Inter-regional,Sim,2653.0,Longa (acima de 1.600 km),Não,Fora do top 25
+MCP-SBCJ,MCP,SBCJ,AP,Norte,PA,Norte,Intrarregional,Não,696.0,Curta (até 800 km),Não,Fora do top 25
+MCP-SBHT,MCP,SBHT,AP,Norte,PA,Norte,Intrarregional,Não,390.0,Curta (até 800 km),Não,Fora do top 25
+MCP-SBJC,MCP,SBJC,AP,Norte,PA,Norte,Intrarregional,Não,333.0,Curta (até 800 km),Não,Fora do top 25
+MCP-SBMD,MCP,SBMD,AP,Norte,PA,Norte,Intrarregional,Não,200.0,Curta (até 800 km),Não,Fora do top 25
+MCP-SBTB,MCP,SBTB,AP,Norte,PA,Norte,Intrarregional,Não,617.0,Curta (até 800 km),Não,Fora do top 25
+MCP-SLZ,MCP,SLZ,AP,Norte,MA,Nordeste,Inter-regional,Não,814.0,Média (800 a 1.600 km),Não,Fora do top 25
+MCP-SNEB,MCP,SNEB,AP,Norte,PA,Norte,Intrarregional,Não,539.0,Curta (até 800 km),Não,Fora do top 25
+MCP-SNMZ,MCP,SNMZ,AP,Norte,PA,Norte,Intrarregional,Não,,,Não,Fora do top 25
+MCP-SNVS,MCP,SNVS,AP,Norte,PA,Norte,Intrarregional,Não,200.0,Curta (até 800 km),Não,Fora do top 25
+MCP-SNYA,MCP,SNYA,AP,Norte,PA,Norte,Intrarregional,Não,239.0,Curta (até 800 km),Não,Fora do top 25
+MCP-SSA,MCP,SSA,AP,Norte,BA,Nordeste,Inter-regional,Não,2013.0,Longa (acima de 1.600 km),Não,Fora do top 25
+MCP-STM,MCP,STM,AP,Norte,PA,Norte,Intrarregional,Não,496.0,Curta (até 800 km),Não,Fora do top 25
+MCP-SWPI,MCP,SWPI,AP,Norte,AM,Norte,Intrarregional,Não,,,Não,Fora do top 25
+MCP-THE,MCP,THE,AP,Norte,PI,Nordeste,Inter-regional,Não,1078.0,Média (800 a 1.600 km),Não,Fora do top 25
+MCP-UDI,MCP,UDI,AP,Norte,MG,Sudeste,Inter-regional,Não,,,Não,Fora do top 25
+MCZ-NAT,MCZ,NAT,AL,Nordeste,RN,Nordeste,Intrarregional,Não,419.0,Curta (até 800 km),Não,Fora do top 25
+MCZ-POA,MCZ,POA,AL,Nordeste,RS,Sul,Inter-regional,Não,2782.0,Longa (acima de 1.600 km),Não,Fora do top 25
+MCZ-RAO,MCZ,RAO,AL,Nordeste,SP,Sudeste,Inter-regional,Não,1821.0,Longa (acima de 1.600 km),Não,Fora do top 25
+MCZ-REC,MCZ,REC,AL,Nordeste,PE,Nordeste,Intrarregional,Não,181.0,Curta (até 800 km),Não,Fora do top 25
+MCZ-RIO,MCZ,RIO,AL,Nordeste,RJ,Sudeste,Inter-regional,Não,1678.0,Longa (acima de 1.600 km),Não,Fora do top 25
+MCZ-SAO,MCZ,SAO,AL,Nordeste,SP,Sudeste,Inter-regional,Sim,1926.0,Longa (acima de 1.600 km),Sim,Defender
+MCZ-SBAE,MCZ,SBAE,AL,Nordeste,SP,Sudeste,Inter-regional,Não,1996.0,Longa (acima de 1.600 km),Não,Fora do top 25
+MCZ-SBAU,MCZ,SBAU,AL,Nordeste,SP,Sudeste,Inter-regional,Não,2031.0,Longa (acima de 1.600 km),Não,Fora do top 25
+MCZ-SBDN,MCZ,SBDN,AL,Nordeste,SP,Sudeste,Inter-regional,Não,2182.0,Longa (acima de 1.600 km),Não,Fora do top 25
+MCZ-SDIY,MCZ,SDIY,AL,Nordeste,BA,Nordeste,Intrarregional,Não,453.0,Curta (até 800 km),Não,Fora do top 25
+MCZ-SJP,MCZ,SJP,AL,Nordeste,SP,Sudeste,Inter-regional,Não,1925.0,Longa (acima de 1.600 km),Não,Fora do top 25
+MCZ-SLZ,MCZ,SLZ,AL,Nordeste,MA,Nordeste,Intrarregional,Não,1211.0,Média (800 a 1.600 km),Não,Fora do top 25
+MCZ-SNBR,MCZ,SNBR,AL,Nordeste,BA,Nordeste,Intrarregional,Não,1047.0,Média (800 a 1.600 km),Não,Fora do top 25
+MCZ-SNHS,MCZ,SNHS,AL,Nordeste,PE,Nordeste,Intrarregional,Não,323.0,Curta (até 800 km),Não,Fora do top 25
+MCZ-SNTS,MCZ,SNTS,AL,Nordeste,PB,Nordeste,Intrarregional,Não,320.0,Curta (até 800 km),Não,Fora do top 25
+MCZ-SSA,MCZ,SSA,AL,Nordeste,BA,Nordeste,Intrarregional,Não,468.0,Curta (até 800 km),Não,Fora do top 25
+MCZ-THE,MCZ,THE,AL,Nordeste,PI,Nordeste,Intrarregional,Não,921.0,Média (800 a 1.600 km),Não,Fora do top 25
+MCZ-UBA,MCZ,UBA,AL,Nordeste,MG,Sudeste,Inter-regional,Não,1735.0,Longa (acima de 1.600 km),Não,Fora do top 25
+MCZ-UDI,MCZ,UDI,AL,Nordeste,MG,Sudeste,Inter-regional,Não,1697.0,Longa (acima de 1.600 km),Não,Fora do top 25
+MCZ-VDC,MCZ,VDC,AL,Nordeste,BA,Nordeste,Intrarregional,Não,,,Não,Fora do top 25
+MCZ-VIX,MCZ,VIX,AL,Nordeste,ES,Sudeste,Inter-regional,Não,1288.0,Média (800 a 1.600 km),Não,Fora do top 25
+MGF-NVT,MGF,NVT,PR,Sul,SC,Sul,Intrarregional,Não,507.0,Curta (até 800 km),Não,Fora do top 25
+MGF-POA,MGF,POA,PR,Sul,RS,Sul,Intrarregional,Não,729.0,Curta (até 800 km),Não,Fora do top 25
+MGF-RAO,MGF,RAO,PR,Sul,SP,Sudeste,Inter-regional,Não,508.0,Curta (até 800 km),Não,Fora do top 25
+MGF-RIO,MGF,RIO,PR,Sul,RJ,Sudeste,Inter-regional,Não,899.0,Média (800 a 1.600 km),Não,Fora do top 25
+MGF-SAO,MGF,SAO,PR,Sul,SP,Sudeste,Inter-regional,Sim,536.0,Curta (até 800 km),Não,Fora do top 25
+MGF-SBAE,MGF,SBAE,PR,Sul,SP,Sudeste,Inter-regional,Não,336.0,Curta (até 800 km),Não,Fora do top 25
+MGF-SBAU,MGF,SBAU,PR,Sul,SP,Sudeste,Inter-regional,Não,307.0,Curta (até 800 km),Não,Fora do top 25
+MGF-SBDN,MGF,SBDN,PR,Sul,SP,Sudeste,Inter-regional,Não,157.0,Curta (até 800 km),Não,Fora do top 25
+MGF-SBPG,MGF,SBPG,PR,Sul,PR,Sul,Intrarregional,Não,268.0,Curta (até 800 km),Não,Fora do top 25
+MGF-SBSJ,MGF,SBSJ,PR,Sul,SP,Sudeste,Inter-regional,Não,627.0,Curta (até 800 km),Não,Fora do top 25
+MGF-SJP,MGF,SJP,PR,Sul,SP,Sudeste,Inter-regional,Não,400.0,Curta (até 800 km),Não,Fora do top 25
+MOC-NAT,MOC,NAT,MG,Sudeste,RN,Nordeste,Inter-regional,Não,,,Não,Fora do top 25
+MOC-PNZ,MOC,PNZ,MG,Sudeste,PE,Nordeste,Inter-regional,Não,889.0,Média (800 a 1.600 km),Não,Fora do top 25
+MOC-PVH,MOC,PVH,MG,Sudeste,RO,Norte,Inter-regional,Não,2350.0,Longa (acima de 1.600 km),Não,Fora do top 25
+MOC-QDV,MOC,QDV,MG,Sudeste,SP,Sudeste,Intrarregional,Não,790.0,Curta (até 800 km),Não,Fora do top 25
+MOC-RAO,MOC,RAO,MG,Sudeste,SP,Sudeste,Intrarregional,Não,645.0,Curta (até 800 km),Não,Fora do top 25
+MOC-REC,MOC,REC,MG,Sudeste,PE,Nordeste,Inter-regional,Não,1357.0,Média (800 a 1.600 km),Não,Fora do top 25
+MOC-RIO,MOC,RIO,MG,Sudeste,RJ,Sudeste,Intrarregional,Não,691.0,Curta (até 800 km),Não,Fora do top 25
+MOC-SAO,MOC,SAO,MG,Sudeste,SP,Sudeste,Intrarregional,Sim,804.0,Média (800 a 1.600 km),Não,Fora do top 25
+MOC-SBCB,MOC,SBCB,MG,Sudeste,RJ,Sudeste,Intrarregional,Não,715.0,Curta (até 800 km),Não,Fora do top 25
+MOC-SBCJ,MOC,SBCJ,MG,Sudeste,PA,Norte,Inter-regional,Não,1356.0,Média (800 a 1.600 km),Não,Fora do top 25
+MOC-SBIP,MOC,SBIP,MG,Sudeste,MG,Sudeste,Intrarregional,Não,338.0,Curta (até 800 km),Não,Fora do top 25
+MOC-SBJE,MOC,SBJE,MG,Sudeste,CE,Nordeste,Inter-regional,Não,1580.0,Média (800 a 1.600 km),Não,Fora do top 25
+MOC-SBSJ,MOC,SBSJ,MG,Sudeste,SP,Sudeste,Intrarregional,Não,756.0,Curta (até 800 km),Não,Fora do top 25
+MOC-SBUF,MOC,SBUF,MG,Sudeste,BA,Nordeste,Inter-regional,Não,,,Não,Fora do top 25
+MOC-SBZM,MOC,SBZM,MG,Sudeste,MG,Sudeste,Intrarregional,Não,539.0,Curta (até 800 km),Não,Fora do top 25
+MOC-SJP,MOC,SJP,MG,Sudeste,SP,Sudeste,Intrarregional,Não,744.0,Curta (até 800 km),Não,Fora do top 25
+MOC-SNBR,MOC,SNBR,MG,Sudeste,BA,Nordeste,Inter-regional,Não,530.0,Curta (até 800 km),Não,Fora do top 25
+MOC-SNGI,MOC,SNGI,MG,Sudeste,BA,Nordeste,Inter-regional,Não,301.0,Curta (até 800 km),Não,Fora do top 25
+MOC-SNPD,MOC,SNPD,MG,Sudeste,MG,Sudeste,Intrarregional,Não,,,Não,Fora do top 25
+MOC-SNTF,MOC,SNTF,MG,Sudeste,BA,Nordeste,Inter-regional,Não,451.0,Curta (até 800 km),Não,Fora do top 25
+MOC-SNTO,MOC,SNTO,MG,Sudeste,MG,Sudeste,Intrarregional,Não,278.0,Curta (até 800 km),Não,Fora do top 25
+MOC-SSA,MOC,SSA,MG,Sudeste,BA,Nordeste,Inter-regional,Não,726.0,Curta (até 800 km),Não,Fora do top 25
+MOC-UBA,MOC,UBA,MG,Sudeste,MG,Sudeste,Intrarregional,Não,554.0,Curta (até 800 km),Não,Fora do top 25
+MOC-UDI,MOC,UDI,MG,Sudeste,MG,Sudeste,Intrarregional,Não,525.0,Curta (até 800 km),Não,Fora do top 25
+MOC-VDC,MOC,VDC,MG,Sudeste,BA,Nordeste,Inter-regional,Não,370.0,Curta (até 800 km),Não,Fora do top 25
+MOC-VIX,MOC,VIX,MG,Sudeste,ES,Sudeste,Intrarregional,Não,543.0,Curta (até 800 km),Não,Fora do top 25
+NAT-PNZ,NAT,PNZ,RN,Nordeste,PE,Nordeste,Intrarregional,Não,699.0,Curta (até 800 km),Não,Fora do top 25
+NAT-POA,NAT,POA,RN,Nordeste,RS,Sul,Inter-regional,Não,3162.0,Longa (acima de 1.600 km),Não,Fora do top 25
+NAT-RAO,NAT,RAO,RN,Nordeste,SP,Sudeste,Inter-regional,Não,2170.0,Longa (acima de 1.600 km),Não,Fora do top 25
+NAT-REC,NAT,REC,RN,Nordeste,PE,Nordeste,Intrarregional,Não,267.0,Curta (até 800 km),Não,Fora do top 25
+NAT-RIO,NAT,RIO,RN,Nordeste,RJ,Sudeste,Inter-regional,Não,2075.0,Longa (acima de 1.600 km),Não,Fora do top 25
+NAT-SAO,NAT,SAO,RN,Nordeste,SP,Sudeste,Inter-regional,Sim,2300.0,Longa (acima de 1.600 km),Sim,Defender
+NAT-SBAC,NAT,SBAC,RN,Nordeste,CE,Nordeste,Intrarregional,Não,301.0,Curta (até 800 km),Não,Fora do top 25
+NAT-SBDN,NAT,SBDN,RN,Nordeste,SP,Sudeste,Inter-regional,Não,2511.0,Longa (acima de 1.600 km),Não,Fora do top 25
+NAT-SBMS,NAT,SBMS,RN,Nordeste,RN,Nordeste,Intrarregional,Não,230.0,Curta (até 800 km),Não,Fora do top 25
+NAT-SJP,NAT,SJP,RN,Nordeste,SP,Sudeste,Inter-regional,Não,2256.0,Longa (acima de 1.600 km),Não,Fora do top 25
+NAT-SLZ,NAT,SLZ,RN,Nordeste,MA,Nordeste,Intrarregional,Não,1045.0,Média (800 a 1.600 km),Não,Fora do top 25
+NAT-SNTS,NAT,SNTS,RN,Nordeste,PB,Nordeste,Intrarregional,Não,252.0,Curta (até 800 km),Não,Fora do top 25
+NAT-SSA,NAT,SSA,RN,Nordeste,BA,Nordeste,Intrarregional,Não,858.0,Média (800 a 1.600 km),Não,Fora do top 25
+NAT-UDI,NAT,UDI,RN,Nordeste,MG,Sudeste,Inter-regional,Não,2017.0,Longa (acima de 1.600 km),Não,Fora do top 25
+NAT-VIX,NAT,VIX,RN,Nordeste,ES,Sudeste,Inter-regional,Não,1696.0,Longa (acima de 1.600 km),Não,Fora do top 25
+NVT-PFB,NVT,PFB,SC,Sul,RS,Sul,Intrarregional,Não,393.0,Curta (até 800 km),Não,Fora do top 25
+NVT-POA,NVT,POA,SC,Sul,RS,Sul,Intrarregional,Não,425.0,Curta (até 800 km),Não,Fora do top 25
+NVT-RAO,NVT,RAO,SC,Sul,SP,Sudeste,Inter-regional,Não,645.0,Curta (até 800 km),Não,Fora do top 25
+NVT-RIO,NVT,RIO,SC,Sul,RJ,Sudeste,Inter-regional,Não,708.0,Curta (até 800 km),Não,Fora do top 25
+NVT-SAO,NVT,SAO,SC,Sul,SP,Sudeste,Inter-regional,Sim,432.0,Curta (até 800 km),Sim,Rever capacidade
+NVT-SBSJ,NVT,SBSJ,SC,Sul,SP,Sudeste,Inter-regional,Não,493.0,Curta (até 800 km),Não,Fora do top 25
+NVT-SJP,NVT,SJP,SC,Sul,SP,Sudeste,Inter-regional,Não,678.0,Curta (até 800 km),Não,Fora do top 25
+NVT-SNCP,NVT,SNCP,SC,Sul,SC,Sul,Intrarregional,Não,189.0,Curta (até 800 km),Não,Fora do top 25
+NVT-SSA,NVT,SSA,SC,Sul,BA,Nordeste,Inter-regional,Não,1890.0,Longa (acima de 1.600 km),Não,Fora do top 25
+NVT-VIX,NVT,VIX,SC,Sul,ES,Sudeste,Inter-regional,Não,1126.0,Média (800 a 1.600 km),Não,Fora do top 25
+NVT-XAP,NVT,XAP,SC,Sul,SC,Sul,Intrarregional,Não,398.0,Curta (até 800 km),Não,Fora do top 25
+OPS-RAO,OPS,RAO,MT,Centro-Oeste,SP,Sudeste,Inter-regional,Não,1323.0,Média (800 a 1.600 km),Não,Fora do top 25
+OPS-RIO,OPS,RIO,MT,Centro-Oeste,RJ,Sudeste,Inter-regional,Não,1784.0,Longa (acima de 1.600 km),Não,Fora do top 25
+OPS-SAO,OPS,SAO,MT,Centro-Oeste,SP,Sudeste,Inter-regional,Sim,1575.0,Média (800 a 1.600 km),Não,Fora do top 25
+OPS-SBAE,OPS,SBAE,MT,Centro-Oeste,SP,Sudeste,Inter-regional,Não,1335.0,Média (800 a 1.600 km),Não,Fora do top 25
+OPS-SBJI,OPS,SBJI,MT,Centro-Oeste,RO,Norte,Inter-regional,Não,692.0,Curta (até 800 km),Não,Fora do top 25
+OPS-SBSO,OPS,SBSO,MT,Centro-Oeste,MT,Centro-Oeste,Intrarregional,Não,66.0,Curta (até 800 km),Não,Fora do top 25
+OPS-SDH2,OPS,SDH2,MT,Centro-Oeste,MT,Centro-Oeste,Intrarregional,Não,447.0,Curta (até 800 km),Não,Fora do top 25
+OPS-SSKW,OPS,SSKW,MT,Centro-Oeste,RO,Norte,Inter-regional,Não,640.0,Curta (até 800 km),Não,Fora do top 25
+OPS-SWFX,OPS,SWFX,MT,Centro-Oeste,MT,Centro-Oeste,Intrarregional,Não,534.0,Curta (até 800 km),Não,Fora do top 25
+PFB-POA,PFB,POA,RS,Sul,RS,Sul,Intrarregional,Não,225.0,Curta (até 800 km),Não,Fora do top 25
+PFB-RAO,PFB,RAO,RS,Sul,SP,Sudeste,Inter-regional,Não,914.0,Média (800 a 1.600 km),Não,Fora do top 25
+PFB-RIO,PFB,RIO,RS,Sul,RJ,Sudeste,Inter-regional,Não,1093.0,Média (800 a 1.600 km),Não,Fora do top 25
+PFB-SAO,PFB,SAO,RS,Sul,SP,Sudeste,Inter-regional,Sim,787.0,Curta (até 800 km),Não,Fora do top 25
+PFB-SJP,PFB,SJP,RS,Sul,SP,Sudeste,Inter-regional,Não,877.0,Média (800 a 1.600 km),Não,Fora do top 25
+PFB-SSBN,PFB,SSBN,RS,Sul,RS,Sul,Intrarregional,Não,243.0,Curta (até 800 km),Não,Fora do top 25
+PMW-PNZ,PMW,PNZ,TO,Norte,PE,Nordeste,Inter-regional,Não,860.0,Média (800 a 1.600 km),Não,Fora do top 25
+PMW-PVH,PMW,PVH,TO,Norte,RO,Norte,Intrarregional,Não,1714.0,Longa (acima de 1.600 km),Não,Fora do top 25
+PMW-QDV,PMW,QDV,TO,Norte,SP,Sudeste,Inter-regional,Não,,,Não,Fora do top 25
+PMW-RAO,PMW,RAO,TO,Norte,SP,Sudeste,Inter-regional,Não,1208.0,Média (800 a 1.600 km),Não,Fora do top 25
+PMW-REC,PMW,REC,TO,Norte,PE,Nordeste,Inter-regional,Não,1494.0,Média (800 a 1.600 km),Não,Fora do top 25
+PMW-RIO,PMW,RIO,TO,Norte,RJ,Sudeste,Inter-regional,Não,1496.0,Média (800 a 1.600 km),Não,Fora do top 25
+PMW-SAO,PMW,SAO,TO,Norte,SP,Sudeste,Inter-regional,Sim,1460.0,Média (800 a 1.600 km),Não,Fora do top 25
+PMW-SBAE,PMW,SBAE,TO,Norte,SP,Sudeste,Inter-regional,Não,,,Não,Fora do top 25
+PMW-SBAU,PMW,SBAU,TO,Norte,SP,Sudeste,Inter-regional,Não,,,Não,Fora do top 25
+PMW-SBCJ,PMW,SBCJ,TO,Norte,PA,Norte,Intrarregional,Não,498.0,Curta (até 800 km),Não,Fora do top 25
+PMW-SBSJ,PMW,SBSJ,TO,Norte,SP,Sudeste,Inter-regional,Não,,,Não,Fora do top 25
+PMW-SJP,PMW,SJP,TO,Norte,SP,Sudeste,Inter-regional,Não,,,Não,Fora do top 25
+PMW-SLZ,PMW,SLZ,TO,Norte,MA,Nordeste,Inter-regional,Não,970.0,Média (800 a 1.600 km),Não,Fora do top 25
+PMW-SSA,PMW,SSA,TO,Norte,BA,Nordeste,Inter-regional,Não,1131.0,Média (800 a 1.600 km),Não,Fora do top 25
+PMW-STM,PMW,STM,TO,Norte,PA,Norte,Intrarregional,Não,1126.0,Média (800 a 1.600 km),Não,Fora do top 25
+PMW-SWGN,PMW,SWGN,TO,Norte,TO,Norte,Intrarregional,Não,341.0,Curta (até 800 km),Não,Fora do top 25
+PMW-SWHP,PMW,SWHP,TO,Norte,MT,Centro-Oeste,Inter-regional,Não,585.0,Curta (até 800 km),Não,Fora do top 25
+PMW-THE,PMW,THE,TO,Norte,PI,Nordeste,Inter-regional,Não,842.0,Média (800 a 1.600 km),Não,Fora do top 25
+PMW-UDI,PMW,UDI,TO,Norte,MG,Sudeste,Inter-regional,Não,956.0,Média (800 a 1.600 km),Não,Fora do top 25
+PMW-VIX,PMW,VIX,TO,Norte,ES,Sudeste,Inter-regional,Não,1406.0,Média (800 a 1.600 km),Não,Fora do top 25
+PNZ-RAO,PNZ,RAO,PE,Nordeste,SP,Sudeste,Inter-regional,Não,1519.0,Média (800 a 1.600 km),Não,Fora do top 25
+PNZ-REC,PNZ,REC,PE,Nordeste,PE,Nordeste,Intrarregional,Não,635.0,Curta (até 800 km),Não,Fora do top 25
+PNZ-RIO,PNZ,RIO,PE,Nordeste,RJ,Sudeste,Inter-regional,Não,1522.0,Média (800 a 1.600 km),Não,Fora do top 25
+PNZ-SAO,PNZ,SAO,PE,Nordeste,SP,Sudeste,Inter-regional,Sim,1682.0,Longa (acima de 1.600 km),Não,Fora do top 25
+PNZ-SBJE,PNZ,SBJE,PE,Nordeste,CE,Nordeste,Intrarregional,Não,719.0,Curta (até 800 km),Não,Fora do top 25
+PNZ-SBPB,PNZ,SBPB,PE,Nordeste,PI,Nordeste,Intrarregional,Não,,,Não,Fora do top 25
+PNZ-SLZ,PNZ,SLZ,PE,Nordeste,MA,Nordeste,Intrarregional,Não,856.0,Média (800 a 1.600 km),Não,Fora do top 25
+PNZ-SNAB,PNZ,SNAB,PE,Nordeste,PE,Nordeste,Intrarregional,Não,198.0,Curta (até 800 km),Não,Fora do top 25
+PNZ-SSA,PNZ,SSA,PE,Nordeste,BA,Nordeste,Intrarregional,Não,463.0,Curta (até 800 km),Não,Fora do top 25
+PNZ-SWKQ,PNZ,SWKQ,PE,Nordeste,PI,Nordeste,Intrarregional,Não,231.0,Curta (até 800 km),Não,Fora do top 25
+PNZ-THE,PNZ,THE,PE,Nordeste,PI,Nordeste,Intrarregional,Não,540.0,Curta (até 800 km),Não,Fora do top 25
+PNZ-VIX,PNZ,VIX,PE,Nordeste,ES,Sudeste,Inter-regional,Não,1211.0,Média (800 a 1.600 km),Não,Fora do top 25
+POA-QDV,POA,QDV,RS,Sul,SP,Sudeste,Inter-regional,Não,866.0,Média (800 a 1.600 km),Não,Fora do top 25
+POA-RAO,POA,RAO,RS,Sul,SP,Sudeste,Inter-regional,Não,1042.0,Média (800 a 1.600 km),Não,Fora do top 25
+POA-REC,POA,REC,RS,Sul,PE,Nordeste,Inter-regional,Não,2963.0,Longa (acima de 1.600 km),Não,Fora do top 25
+POA-RIO,POA,RIO,RS,Sul,RJ,Sudeste,Inter-regional,Não,1121.0,Média (800 a 1.600 km),Sim,Defender
+POA-SAO,POA,SAO,RS,Sul,SP,Sudeste,Inter-regional,Sim,856.0,Média (800 a 1.600 km),Sim,Defender
+POA-SBAE,POA,SBAE,RS,Sul,SP,Sudeste,Inter-regional,Não,896.0,Média (800 a 1.600 km),Não,Fora do top 25
+POA-SBBG,POA,SBBG,RS,Sul,RS,Sul,Intrarregional,Não,321.0,Curta (até 800 km),Não,Fora do top 25
+POA-SBCB,POA,SBCB,RS,Sul,RJ,Sudeste,Inter-regional,Não,1199.0,Média (800 a 1.600 km),Não,Fora do top 25
+POA-SBDN,POA,SBDN,RS,Sul,SP,Sudeste,Inter-regional,Não,,,Não,Fora do top 25
+POA-SBNM,POA,SBNM,RS,Sul,RS,Sul,Intrarregional,Não,348.0,Curta (até 800 km),Não,Fora do top 25
+POA-SBPK,POA,SBPK,RS,Sul,RS,Sul,Intrarregional,Não,221.0,Curta (até 800 km),Não,Fora do top 25
+POA-SBSJ,POA,SBSJ,RS,Sul,SP,Sudeste,Inter-regional,Não,918.0,Média (800 a 1.600 km),Não,Fora do top 25
+POA-SBSM,POA,SBSM,RS,Sul,RS,Sul,Intrarregional,Não,245.0,Curta (até 800 km),Não,Fora do top 25
+POA-SBUG,POA,SBUG,RS,Sul,RS,Sul,Intrarregional,Não,566.0,Curta (até 800 km),Não,Fora do top 25
+POA-SJP,POA,SJP,RS,Sul,SP,Sudeste,Inter-regional,Não,1036.0,Média (800 a 1.600 km),Não,Fora do top 25
+POA-SJRG,POA,SJRG,RS,Sul,RS,Sul,Intrarregional,Não,251.0,Curta (até 800 km),Não,Fora do top 25
+POA-SNEE,POA,SNEE,RS,Sul,RS,Sul,Intrarregional,Não,174.0,Curta (até 800 km),Não,Fora do top 25
+POA-SSA,POA,SSA,RS,Sul,BA,Nordeste,Inter-regional,Não,2315.0,Longa (acima de 1.600 km),Não,Fora do top 25
+POA-SSCN,POA,SSCN,RS,Sul,RS,Sul,Intrarregional,Não,77.0,Curta (até 800 km),Não,Fora do top 25
+POA-SSER,POA,SSER,RS,Sul,RS,Sul,Intrarregional,Não,281.0,Curta (até 800 km),Não,Fora do top 25
+POA-SSLT,POA,SSLT,RS,Sul,RS,Sul,Intrarregional,Não,456.0,Curta (até 800 km),Não,Fora do top 25
+POA-SSSB,POA,SSSB,RS,Sul,RS,Sul,Intrarregional,Não,494.0,Curta (até 800 km),Não,Fora do top 25
+POA-SSSC,POA,SSSC,RS,Sul,RS,Sul,Intrarregional,Não,125.0,Curta (até 800 km),Não,Fora do top 25
+POA-SSTE,POA,SSTE,RS,Sul,RS,Sul,Intrarregional,Não,146.0,Curta (até 800 km),Não,Fora do top 25
+POA-SSZR,POA,SSZR,RS,Sul,RS,Sul,Intrarregional,Não,400.0,Curta (até 800 km),Não,Fora do top 25
+POA-UDI,POA,UDI,RS,Sul,MG,Sudeste,Inter-regional,Não,1271.0,Média (800 a 1.600 km),Não,Fora do top 25
+POA-VIX,POA,VIX,RS,Sul,ES,Sudeste,Inter-regional,Não,1539.0,Média (800 a 1.600 km),Não,Fora do top 25
+POA-XAP,POA,XAP,RS,Sul,SC,Sul,Intrarregional,Não,350.0,Curta (até 800 km),Não,Fora do top 25
+PVH-RAO,PVH,RAO,RO,Norte,SP,Sudeste,Inter-regional,Não,2212.0,Longa (acima de 1.600 km),Não,Fora do top 25
+PVH-RBR,PVH,RBR,RO,Norte,AC,Norte,Intrarregional,Não,457.0,Curta (até 800 km),Não,Fora do top 25
+PVH-REC,PVH,REC,RO,Norte,PE,Nordeste,Inter-regional,Não,3188.0,Longa (acima de 1.600 km),Não,Fora do top 25
+PVH-RIO,PVH,RIO,RO,Norte,RJ,Sudeste,Inter-regional,Não,2703.0,Longa (acima de 1.600 km),Não,Fora do top 25
+PVH-SAO,PVH,SAO,RO,Norte,SP,Sudeste,Inter-regional,Sim,2457.0,Longa (acima de 1.600 km),Não,Fora do top 25
+PVH-SBCZ,PVH,SBCZ,RO,Norte,AC,Norte,Intrarregional,Não,984.0,Média (800 a 1.600 km),Não,Fora do top 25
+PVH-SBDN,PVH,SBDN,RO,Norte,SP,Sudeste,Inter-regional,Não,2005.0,Longa (acima de 1.600 km),Não,Fora do top 25
+PVH-SBJI,PVH,SBJI,RO,Norte,RO,Norte,Intrarregional,Não,329.0,Curta (até 800 km),Não,Fora do top 25
+PVH-SBTF,PVH,SBTF,RO,Norte,AM,Norte,Intrarregional,Não,600.0,Curta (até 800 km),Não,Fora do top 25
+PVH-SBTT,PVH,SBTT,RO,Norte,AM,Norte,Intrarregional,Não,831.0,Média (800 a 1.600 km),Não,Fora do top 25
+PVH-SBVH,PVH,SBVH,RO,Norte,RO,Norte,Intrarregional,Não,607.0,Curta (até 800 km),Não,Fora do top 25
+PVH-SSOU,PVH,SSOU,RO,Norte,MT,Centro-Oeste,Inter-regional,Não,514.0,Curta (até 800 km),Não,Fora do top 25
+PVH-STM,PVH,STM,RO,Norte,PA,Norte,Intrarregional,Não,1227.0,Média (800 a 1.600 km),Não,Fora do top 25
+PVH-SWKO,PVH,SWKO,RO,Norte,AM,Norte,Intrarregional,Não,516.0,Curta (até 800 km),Não,Fora do top 25
+PVH-SWLB,PVH,SWLB,RO,Norte,AM,Norte,Intrarregional,Não,189.0,Curta (até 800 km),Não,Fora do top 25
+PVH-VIX,PVH,VIX,RO,Norte,ES,Sudeste,Inter-regional,Não,2843.0,Longa (acima de 1.600 km),Não,Fora do top 25
+QDV-RAO,QDV,RAO,SP,Sudeste,SP,Sudeste,Intrarregional,Não,243.0,Curta (até 800 km),Não,Fora do top 25
+QDV-REC,QDV,REC,SP,Sudeste,PE,Nordeste,Inter-regional,Não,,,Não,Fora do top 25
+QDV-RIO,QDV,RIO,SP,Sudeste,RJ,Sudeste,Intrarregional,Não,388.0,Curta (até 800 km),Não,Fora do top 25
+QDV-SAO,QDV,SAO,SP,Sudeste,SP,Sudeste,Intrarregional,Sim,53.0,Curta (até 800 km),Não,Fora do top 25
+QDV-SBAE,QDV,SBAE,SP,Sudeste,SP,Sudeste,Intrarregional,Não,246.0,Curta (até 800 km),Não,Fora do top 25
+QDV-SBAQ,QDV,SBAQ,SP,Sudeste,SP,Sudeste,Intrarregional,Não,196.0,Curta (até 800 km),Não,Fora do top 25
+QDV-SBAX,QDV,SBAX,SP,Sudeste,MG,Sudeste,Intrarregional,Não,403.0,Curta (até 800 km),Não,Fora do top 25
+QDV-SBBP,QDV,SBBP,SP,Sudeste,SP,Sudeste,Intrarregional,Não,47.0,Curta (até 800 km),Não,Fora do top 25
+QDV-SBBU,QDV,SBBU,SP,Sudeste,SP,Sudeste,Intrarregional,Não,236.0,Curta (até 800 km),Não,Fora do top 25
+QDV-SBBW,QDV,SBBW,SP,Sudeste,MT,Centro-Oeste,Inter-regional,Não,,,Não,Fora do top 25
+QDV-SBDN,QDV,SBDN,SP,Sudeste,SP,Sudeste,Intrarregional,Não,472.0,Curta (até 800 km),Não,Fora do top 25
+QDV-SBJR,QDV,SBJR,SP,Sudeste,RJ,Sudeste,Intrarregional,Não,366.0,Curta (até 800 km),Não,Fora do top 25
+QDV-SBML,QDV,SBML,SP,Sudeste,SP,Sudeste,Intrarregional,Não,325.0,Curta (até 800 km),Não,Fora do top 25
+QDV-SBMT,QDV,SBMT,SP,Sudeste,SP,Sudeste,Intrarregional,Não,48.0,Curta (até 800 km),Não,Fora do top 25
+QDV-SBPC,QDV,SBPC,SP,Sudeste,MG,Sudeste,Intrarregional,Não,154.0,Curta (até 800 km),Não,Fora do top 25
+QDV-SBSJ,QDV,SBSJ,SP,Sudeste,SP,Sudeste,Intrarregional,Não,110.0,Curta (até 800 km),Não,Fora do top 25
+QDV-SDAG,QDV,SDAG,SP,Sudeste,RJ,Sudeste,Intrarregional,Não,271.0,Curta (até 800 km),Não,Fora do top 25
+QDV-SDCO,QDV,SDCO,SP,Sudeste,SP,Sudeste,Intrarregional,Não,65.0,Curta (até 800 km),Não,Fora do top 25
+QDV-SDJV,QDV,SDJV,SP,Sudeste,SP,Sudeste,Intrarregional,Não,130.0,Curta (até 800 km),Não,Fora do top 25
+QDV-SDTF,QDV,SDTF,SP,Sudeste,SP,Sudeste,Intrarregional,Não,97.0,Curta (até 800 km),Não,Fora do top 25
+QDV-SIMK,QDV,SIMK,SP,Sudeste,SP,Sudeste,Intrarregional,Não,292.0,Curta (até 800 km),Não,Fora do top 25
+QDV-SJP,QDV,SJP,SP,Sudeste,SP,Sudeste,Intrarregional,Não,365.0,Curta (até 800 km),Não,Fora do top 25
+QDV-SNBA,QDV,SNBA,SP,Sudeste,SP,Sudeste,Intrarregional,Não,335.0,Curta (até 800 km),Não,Fora do top 25
+QDV-SSA,QDV,SSA,SP,Sudeste,BA,Nordeste,Inter-regional,Não,1460.0,Média (800 a 1.600 km),Não,Fora do top 25
+QDV-SSBZ,QDV,SSBZ,SP,Sudeste,RJ,Sudeste,Intrarregional,Não,512.0,Curta (até 800 km),Não,Fora do top 25
+QDV-SSGY,QDV,SSGY,SP,Sudeste,PR,Sul,Inter-regional,Não,745.0,Curta (até 800 km),Não,Fora do top 25
+QDV-SSQO,QDV,SSQO,SP,Sudeste,MG,Sudeste,Intrarregional,Não,784.0,Curta (até 800 km),Não,Fora do top 25
+QDV-SSUV,QDV,SSUV,SP,Sudeste,PR,Sul,Inter-regional,Não,537.0,Curta (até 800 km),Não,Fora do top 25
+QDV-VIX,QDV,VIX,SP,Sudeste,ES,Sudeste,Intrarregional,Não,761.0,Curta (até 800 km),Não,Fora do top 25
+QDV-XAP,QDV,XAP,SP,Sudeste,SC,Sul,Inter-regional,Não,724.0,Curta (até 800 km),Não,Fora do top 25
+RAO-REC,RAO,REC,SP,Sudeste,PE,Nordeste,Inter-regional,Não,1999.0,Longa (acima de 1.600 km),Não,Fora do top 25
+RAO-RIO,RAO,RIO,SP,Sudeste,RJ,Sudeste,Intrarregional,Não,514.0,Curta (até 800 km),Não,Fora do top 25
+RAO-SAO,RAO,SAO,SP,Sudeste,SP,Sudeste,Intrarregional,Sim,260.0,Curta (até 800 km),Não,Fora do top 25
+RAO-SBAE,RAO,SBAE,SP,Sudeste,SP,Sudeste,Intrarregional,Não,175.0,Curta (até 800 km),Não,Fora do top 25
+RAO-SBAU,RAO,SBAU,SP,Sudeste,SP,Sudeste,Intrarregional,Não,275.0,Curta (até 800 km),Não,Fora do top 25
+RAO-SBAX,RAO,SBAX,SP,Sudeste,MG,Sudeste,Intrarregional,Não,195.0,Curta (até 800 km),Não,Fora do top 25
+RAO-SBBW,RAO,SBBW,SP,Sudeste,MT,Centro-Oeste,Inter-regional,Não,,,Não,Fora do top 25
+RAO-SBCN,RAO,SBCN,SP,Sudeste,GO,Centro-Oeste,Inter-regional,Não,389.0,Curta (até 800 km),Não,Fora do top 25
+RAO-SBDB,RAO,SBDB,SP,Sudeste,MS,Centro-Oeste,Inter-regional,Não,899.0,Média (800 a 1.600 km),Não,Fora do top 25
+RAO-SBDN,RAO,SBDN,SP,Sudeste,SP,Sudeste,Intrarregional,Não,394.0,Curta (até 800 km),Não,Fora do top 25
+RAO-SBDO,RAO,SBDO,SP,Sudeste,MS,Centro-Oeste,Inter-regional,Não,748.0,Curta (até 800 km),Não,Fora do top 25
+RAO-SBIP,RAO,SBIP,SP,Sudeste,MG,Sudeste,Intrarregional,Não,582.0,Curta (até 800 km),Não,Fora do top 25
+RAO-SBJR,RAO,SBJR,SP,Sudeste,RJ,Sudeste,Intrarregional,Não,499.0,Curta (até 800 km),Não,Fora do top 25
+RAO-SBME,RAO,SBME,SP,Sudeste,RJ,Sudeste,Intrarregional,Não,635.0,Curta (até 800 km),Não,Fora do top 25
+RAO-SBML,RAO,SBML,SP,Sudeste,SP,Sudeste,Intrarregional,Não,251.0,Curta (até 800 km),Não,Fora do top 25
+RAO-SBPK,RAO,SBPK,SP,Sudeste,RS,Sul,Inter-regional,Não,1260.0,Média (800 a 1.600 km),Não,Fora do top 25
+RAO-SBPO,RAO,SBPO,SP,Sudeste,PR,Sul,Inter-regional,Não,755.0,Curta (até 800 km),Não,Fora do top 25
+RAO-SBPP,RAO,SBPP,SP,Sudeste,MS,Centro-Oeste,Inter-regional,Não,833.0,Média (800 a 1.600 km),Não,Fora do top 25
+RAO-SBQV,RAO,SBQV,SP,Sudeste,BA,Nordeste,Inter-regional,Não,1010.0,Média (800 a 1.600 km),Não,Fora do top 25
+RAO-SBRD,RAO,SBRD,SP,Sudeste,MT,Centro-Oeste,Inter-regional,Não,888.0,Média (800 a 1.600 km),Não,Fora do top 25
+RAO-SBSJ,RAO,SBSJ,SP,Sudeste,SP,Sudeste,Intrarregional,Não,304.0,Curta (até 800 km),Não,Fora do top 25
+RAO-SBVG,RAO,SBVG,SP,Sudeste,MG,Sudeste,Intrarregional,Não,244.0,Curta (até 800 km),Não,Fora do top 25
+RAO-SBZM,RAO,SBZM,SP,Sudeste,MG,Sudeste,Intrarregional,Não,479.0,Curta (até 800 km),Não,Fora do top 25
+RAO-SJP,RAO,SJP,SP,Sudeste,SP,Sudeste,Intrarregional,Não,173.0,Curta (até 800 km),Não,Fora do top 25
+RAO-SLZ,RAO,SLZ,SP,Sudeste,MA,Nordeste,Inter-regional,Não,2098.0,Longa (acima de 1.600 km),Não,Fora do top 25
+RAO-SNBR,RAO,SNBR,SP,Sudeste,BA,Nordeste,Inter-regional,Não,,,Não,Fora do top 25
+RAO-SSA,RAO,SSA,SP,Sudeste,BA,Nordeste,Inter-regional,Não,1358.0,Média (800 a 1.600 km),Não,Fora do top 25
+RAO-SWGN,RAO,SWGN,SP,Sudeste,TO,Norte,Inter-regional,Não,,,Não,Fora do top 25
+RAO-SWLC,RAO,SWLC,SP,Sudeste,GO,Centro-Oeste,Inter-regional,Não,496.0,Curta (até 800 km),Não,Fora do top 25
+RAO-THE,RAO,THE,SP,Sudeste,PI,Nordeste,Inter-regional,Não,1866.0,Longa (acima de 1.600 km),Não,Fora do top 25
+RAO-UBA,RAO,UBA,SP,Sudeste,MG,Sudeste,Intrarregional,Não,154.0,Curta (até 800 km),Não,Fora do top 25
+RAO-UDI,RAO,UDI,SP,Sudeste,MG,Sudeste,Intrarregional,Não,255.0,Curta (até 800 km),Não,Fora do top 25
+RAO-VDC,RAO,VDC,SP,Sudeste,BA,Nordeste,Inter-regional,Não,1003.0,Média (800 a 1.600 km),Não,Fora do top 25
+RAO-VIX,RAO,VIX,SP,Sudeste,ES,Sudeste,Intrarregional,Não,785.0,Curta (até 800 km),Não,Fora do top 25
+RAO-XAP,RAO,XAP,SP,Sudeste,SC,Sul,Inter-regional,Não,831.0,Média (800 a 1.600 km),Não,Fora do top 25
+RBR-RIO,RBR,RIO,AC,Norte,RJ,Sudeste,Inter-regional,Não,2990.0,Longa (acima de 1.600 km),Não,Fora do top 25
+RBR-SAO,RBR,SAO,AC,Norte,SP,Sudeste,Inter-regional,Sim,2727.0,Longa (acima de 1.600 km),Não,Fora do top 25
+RBR-SBCZ,RBR,SBCZ,AC,Norte,AC,Norte,Intrarregional,Não,592.0,Curta (até 800 km),Não,Fora do top 25
+RBR-SBTF,RBR,SBTF,AC,Norte,AM,Norte,Intrarregional,Não,802.0,Média (800 a 1.600 km),Não,Fora do top 25
+RBR-STM,RBR,STM,AC,Norte,PA,Norte,Intrarregional,Não,1668.0,Longa (acima de 1.600 km),Não,Fora do top 25
+REC-RIO,REC,RIO,PE,Nordeste,RJ,Sudeste,Inter-regional,Não,1860.0,Longa (acima de 1.600 km),Sim,Consolidar
+REC-SAO,REC,SAO,PE,Nordeste,SP,Sudeste,Inter-regional,Sim,2111.0,Longa (acima de 1.600 km),Sim,Defender
+REC-SBAC,REC,SBAC,PE,Nordeste,CE,Nordeste,Intrarregional,Não,508.0,Curta (até 800 km),Não,Fora do top 25
+REC-SBAE,REC,SBAE,PE,Nordeste,SP,Sudeste,Inter-regional,Não,2174.0,Longa (acima de 1.600 km),Não,Fora do top 25
+REC-SBCB,REC,SBCB,PE,Nordeste,RJ,Sudeste,Inter-regional,Não,1813.0,Longa (acima de 1.600 km),Não,Fora do top 25
+REC-SBDN,REC,SBDN,PE,Nordeste,SP,Sudeste,Inter-regional,Não,2357.0,Longa (acima de 1.600 km),Não,Fora do top 25
+REC-SBJE,REC,SBJE,PE,Nordeste,CE,Nordeste,Intrarregional,Não,836.0,Média (800 a 1.600 km),Não,Fora do top 25
+REC-SBLE,REC,SBLE,PE,Nordeste,BA,Nordeste,Intrarregional,Não,,,Não,Fora do top 25
+REC-SBMS,REC,SBMS,PE,Nordeste,RN,Nordeste,Intrarregional,Não,423.0,Curta (até 800 km),Não,Fora do top 25
+REC-SBSJ,REC,SBSJ,PE,Nordeste,SP,Sudeste,Inter-regional,Não,2045.0,Longa (acima de 1.600 km),Não,Fora do top 25
+REC-SBUF,REC,SBUF,PE,Nordeste,BA,Nordeste,Intrarregional,Não,392.0,Curta (até 800 km),Não,Fora do top 25
+REC-SDIY,REC,SDIY,PE,Nordeste,BA,Nordeste,Intrarregional,Não,629.0,Curta (até 800 km),Não,Fora do top 25
+REC-SIFC,REC,SIFC,PE,Nordeste,PE,Nordeste,Intrarregional,Não,32.0,Curta (até 800 km),Não,Fora do top 25
+REC-SJP,REC,SJP,PE,Nordeste,SP,Sudeste,Inter-regional,Não,2100.0,Longa (acima de 1.600 km),Não,Fora do top 25
+REC-SJZA,REC,SJZA,PE,Nordeste,PB,Nordeste,Intrarregional,Não,430.0,Curta (até 800 km),Não,Fora do top 25
+REC-SLZ,REC,SLZ,PE,Nordeste,MA,Nordeste,Intrarregional,Não,1201.0,Média (800 a 1.600 km),Não,Fora do top 25
+REC-SNAB,REC,SNAB,PE,Nordeste,PE,Nordeste,Intrarregional,Não,621.0,Curta (até 800 km),Não,Fora do top 25
+REC-SNAT,REC,SNAT,PE,Nordeste,CE,Nordeste,Intrarregional,Não,508.0,Curta (até 800 km),Não,Fora do top 25
+REC-SNGN,REC,SNGN,PE,Nordeste,PE,Nordeste,Intrarregional,Não,188.0,Curta (até 800 km),Não,Fora do top 25
+REC-SNHS,REC,SNHS,PE,Nordeste,PE,Nordeste,Intrarregional,Não,375.0,Curta (até 800 km),Não,Fora do top 25
+REC-SNRU,REC,SNRU,PE,Nordeste,PE,Nordeste,Intrarregional,Não,121.0,Curta (até 800 km),Não,Fora do top 25
+REC-SNTS,REC,SNTS,PE,Nordeste,PB,Nordeste,Intrarregional,Não,284.0,Curta (até 800 km),Não,Fora do top 25
+REC-SSA,REC,SSA,PE,Nordeste,BA,Nordeste,Intrarregional,Não,649.0,Curta (até 800 km),Não,Fora do top 25
+REC-STM,REC,STM,PE,Nordeste,PA,Norte,Inter-regional,Não,2288.0,Longa (acima de 1.600 km),Não,Fora do top 25
+REC-SWKQ,REC,SWKQ,PE,Nordeste,PI,Nordeste,Intrarregional,Não,856.0,Média (800 a 1.600 km),Não,Fora do top 25
+REC-THE,REC,THE,PE,Nordeste,PI,Nordeste,Intrarregional,Não,937.0,Média (800 a 1.600 km),Não,Fora do top 25
+REC-UBA,REC,UBA,PE,Nordeste,MG,Sudeste,Inter-regional,Não,1910.0,Longa (acima de 1.600 km),Não,Fora do top 25
+REC-UDI,REC,UDI,PE,Nordeste,MG,Sudeste,Inter-regional,Não,1869.0,Longa (acima de 1.600 km),Não,Fora do top 25
+REC-VDC,REC,VDC,PE,Nordeste,BA,Nordeste,Intrarregional,Não,997.0,Média (800 a 1.600 km),Não,Fora do top 25
+REC-VIX,REC,VIX,PE,Nordeste,ES,Sudeste,Inter-regional,Não,1467.0,Média (800 a 1.600 km),Não,Fora do top 25
+RIO-SAO,RIO,SAO,RJ,Sudeste,SP,Sudeste,Intrarregional,Sim,366.0,Curta (até 800 km),Sim,Rever capacidade
+RIO-SBAE,RIO,SBAE,RJ,Sudeste,SP,Sudeste,Intrarregional,Não,607.0,Curta (até 800 km),Não,Fora do top 25
+RIO-SBAU,RIO,SBAU,RJ,Sudeste,SP,Sudeste,Intrarregional,Não,763.0,Curta (até 800 km),Não,Fora do top 25
+RIO-SBCB,RIO,SBCB,RJ,Sudeste,RJ,Sudeste,Intrarregional,Não,119.0,Curta (até 800 km),Não,Fora do top 25
+RIO-SBCJ,RIO,SBCJ,RJ,Sudeste,PA,Norte,Inter-regional,Não,1992.0,Longa (acima de 1.600 km),Não,Fora do top 25
+RIO-SBCP,RIO,SBCP,RJ,Sudeste,RJ,Sudeste,Intrarregional,Não,233.0,Curta (até 800 km),Não,Fora do top 25
+RIO-SBDB,RIO,SBDB,RJ,Sudeste,MS,Centro-Oeste,Inter-regional,Não,1371.0,Média (800 a 1.600 km),Não,Fora do top 25
+RIO-SBDN,RIO,SBDN,RJ,Sudeste,SP,Sudeste,Intrarregional,Não,847.0,Média (800 a 1.600 km),Não,Fora do top 25
+RIO-SBJE,RIO,SBJE,RJ,Sudeste,CE,Nordeste,Inter-regional,Não,2235.0,Longa (acima de 1.600 km),Não,Fora do top 25
+RIO-SBJR,RIO,SBJR,RJ,Sudeste,RJ,Sudeste,Intrarregional,Não,23.0,Curta (até 800 km),Não,Fora do top 25
+RIO-SBME,RIO,SBME,RJ,Sudeste,RJ,Sudeste,Intrarregional,Não,157.0,Curta (até 800 km),Não,Fora do top 25
+RIO-SBNM,RIO,SBNM,RJ,Sudeste,RS,Sul,Inter-regional,Não,1252.0,Média (800 a 1.600 km),Não,Fora do top 25
+RIO-SBNT,RIO,SBNT,RJ,Sudeste,RN,Nordeste,Inter-regional,Não,2066.0,Longa (acima de 1.600 km),Não,Fora do top 25
+RIO-SBSJ,RIO,SBSJ,RJ,Sudeste,SP,Sudeste,Intrarregional,Não,275.0,Curta (até 800 km),Não,Fora do top 25
+RIO-SBSO,RIO,SBSO,RJ,Sudeste,MT,Centro-Oeste,Inter-regional,Não,1745.0,Longa (acima de 1.600 km),Não,Fora do top 25
+RIO-SBTC,RIO,SBTC,RJ,Sudeste,BA,Nordeste,Inter-regional,Não,942.0,Média (800 a 1.600 km),Não,Fora do top 25
+RIO-SBZM,RIO,SBZM,RJ,Sudeste,MG,Sudeste,Intrarregional,Não,144.0,Curta (até 800 km),Não,Fora do top 25
+RIO-SDAG,RIO,SDAG,RJ,Sudeste,RJ,Sudeste,Intrarregional,Não,117.0,Curta (até 800 km),Não,Fora do top 25
+RIO-SDTK,RIO,SDTK,RJ,Sudeste,RJ,Sudeste,Intrarregional,Não,163.0,Curta (até 800 km),Não,Fora do top 25
+RIO-SJP,RIO,SJP,RJ,Sudeste,SP,Sudeste,Intrarregional,Não,677.0,Curta (até 800 km),Não,Fora do top 25
+RIO-SLZ,RIO,SLZ,RJ,Sudeste,MA,Nordeste,Inter-regional,Não,2251.0,Longa (acima de 1.600 km),Não,Fora do top 25
+RIO-SNBR,RIO,SNBR,RJ,Sudeste,BA,Nordeste,Inter-regional,Não,1208.0,Média (800 a 1.600 km),Não,Fora do top 25
+RIO-SSA,RIO,SSA,RJ,Sudeste,BA,Nordeste,Inter-regional,Não,1220.0,Média (800 a 1.600 km),Sim,Crescer junto
+RIO-SSBZ,RIO,SSBZ,RJ,Sudeste,RJ,Sudeste,Intrarregional,Não,124.0,Curta (até 800 km),Não,Fora do top 25
+RIO-STM,RIO,STM,RJ,Sudeste,PA,Norte,Inter-regional,Não,2586.0,Longa (acima de 1.600 km),Não,Fora do top 25
+RIO-THE,RIO,THE,RJ,Sudeste,PI,Nordeste,Inter-regional,Não,1974.0,Longa (acima de 1.600 km),Não,Fora do top 25
+RIO-UDI,RIO,UDI,RJ,Sudeste,MG,Sudeste,Intrarregional,Não,677.0,Curta (até 800 km),Não,Fora do top 25
+RIO-VDC,RIO,VDC,RJ,Sudeste,BA,Nordeste,Inter-regional,Não,912.0,Média (800 a 1.600 km),Não,Fora do top 25
+RIO-VIX,RIO,VIX,RJ,Sudeste,ES,Sudeste,Intrarregional,Não,418.0,Curta (até 800 km),Sim,Crescer junto
+RIO-XAP,RIO,XAP,RJ,Sudeste,SC,Sul,Inter-regional,Não,1063.0,Média (800 a 1.600 km),Não,Fora do top 25
+SAO-SBAC,SAO,SBAC,SP,Sudeste,CE,Nordeste,Inter-regional,Sim,2282.0,Longa (acima de 1.600 km),Não,Fora do top 25
+SAO-SBAE,SAO,SBAE,SP,Sudeste,SP,Sudeste,Intrarregional,Sim,231.0,Curta (até 800 km),Não,Fora do top 25
+SAO-SBAQ,SAO,SBAQ,SP,Sudeste,SP,Sudeste,Intrarregional,Sim,169.0,Curta (até 800 km),Não,Fora do top 25
+SAO-SBAT,SAO,SBAT,SP,Sudeste,MT,Centro-Oeste,Inter-regional,Sim,1745.0,Longa (acima de 1.600 km),Não,Fora do top 25
+SAO-SBAU,SAO,SBAU,SP,Sudeste,SP,Sudeste,Intrarregional,Sim,418.0,Curta (até 800 km),Não,Fora do top 25
+SAO-SBAX,SAO,SBAX,SP,Sudeste,MG,Sudeste,Intrarregional,Sim,434.0,Curta (até 800 km),Não,Fora do top 25
+SAO-SBCB,SAO,SBCB,SP,Sudeste,RJ,Sudeste,Intrarregional,Sim,468.0,Curta (até 800 km),Não,Fora do top 25
+SAO-SBCJ,SAO,SBCJ,SP,Sudeste,PA,Norte,Inter-regional,Sim,1903.0,Longa (acima de 1.600 km),Não,Fora do top 25
+SAO-SBCN,SAO,SBCN,SP,Sudeste,GO,Centro-Oeste,Inter-regional,Sim,661.0,Curta (até 800 km),Não,Fora do top 25
+SAO-SBCO,SAO,SBCO,SP,Sudeste,RS,Sul,Inter-regional,Sim,861.0,Média (800 a 1.600 km),Não,Fora do top 25
+SAO-SBCP,SAO,SBCP,SP,Sudeste,RJ,Sudeste,Intrarregional,Sim,616.0,Curta (até 800 km),Não,Fora do top 25
+SAO-SBCR,SAO,SBCR,SP,Sudeste,MS,Centro-Oeste,Inter-regional,Sim,1180.0,Média (800 a 1.600 km),Não,Fora do top 25
+SAO-SBDB,SAO,SBDB,SP,Sudeste,MS,Centro-Oeste,Inter-regional,Sim,1007.0,Média (800 a 1.600 km),Não,Fora do top 25
+SAO-SBDN,SAO,SBDN,SP,Sudeste,SP,Sudeste,Intrarregional,Sim,477.0,Curta (até 800 km),Não,Fora do top 25
+SAO-SBDO,SAO,SBDO,SP,Sudeste,MS,Centro-Oeste,Inter-regional,Sim,833.0,Média (800 a 1.600 km),Não,Fora do top 25
+SAO-SBHT,SAO,SBHT,SP,Sudeste,PA,Norte,Inter-regional,Sim,2265.0,Longa (acima de 1.600 km),Não,Fora do top 25
+SAO-SBIP,SAO,SBIP,SP,Sudeste,MG,Sudeste,Intrarregional,Sim,631.0,Curta (até 800 km),Não,Fora do top 25
+SAO-SBJE,SAO,SBJE,SP,Sudeste,CE,Nordeste,Inter-regional,Sim,2375.0,Longa (acima de 1.600 km),Não,Fora do top 25
+SAO-SBJI,SAO,SBJI,SP,Sudeste,RO,Norte,Inter-regional,Sim,2063.0,Longa (acima de 1.600 km),Não,Fora do top 25
+SAO-SBJR,SAO,SBJR,SP,Sudeste,RJ,Sudeste,Intrarregional,Sim,352.0,Curta (até 800 km),Não,Fora do top 25
+SAO-SBLJ,SAO,SBLJ,SP,Sudeste,SC,Sul,Inter-regional,Sim,618.0,Curta (até 800 km),Não,Fora do top 25
+SAO-SBME,SAO,SBME,SP,Sudeste,RJ,Sudeste,Intrarregional,Sim,548.0,Curta (até 800 km),Não,Fora do top 25
+SAO-SBMI,SAO,SBMI,SP,Sudeste,RJ,Sudeste,Intrarregional,Sim,441.0,Curta (até 800 km),Não,Fora do top 25
+SAO-SBML,SAO,SBML,SP,Sudeste,SP,Sudeste,Intrarregional,Sim,304.0,Curta (até 800 km),Não,Fora do top 25
+SAO-SBNM,SAO,SBNM,SP,Sudeste,RS,Sul,Inter-regional,Sim,931.0,Média (800 a 1.600 km),Não,Fora do top 25
+SAO-SBNT,SAO,SBNT,SP,Sudeste,RN,Nordeste,Inter-regional,Sim,2291.0,Longa (acima de 1.600 km),Não,Fora do top 25
+SAO-SBPB,SAO,SBPB,SP,Sudeste,PI,Nordeste,Inter-regional,Sim,2311.0,Longa (acima de 1.600 km),Não,Fora do top 25
+SAO-SBPG,SAO,SBPG,SP,Sudeste,PR,Sul,Inter-regional,Sim,390.0,Curta (até 800 km),Não,Fora do top 25
+SAO-SBPK,SAO,SBPK,SP,Sudeste,RS,Sul,Inter-regional,Sim,1084.0,Média (800 a 1.600 km),Não,Fora do top 25
+SAO-SBPO,SAO,SBPO,SP,Sudeste,PR,Sul,Inter-regional,Sim,666.0,Curta (até 800 km),Não,Fora do top 25
+SAO-SBPP,SAO,SBPP,SP,Sudeste,MS,Centro-Oeste,Inter-regional,Sim,880.0,Média (800 a 1.600 km),Não,Fora do top 25
+SAO-SBQV,SAO,SBQV,SP,Sudeste,BA,Nordeste,Inter-regional,Sim,1120.0,Média (800 a 1.600 km),Não,Fora do top 25
+SAO-SBRD,SAO,SBRD,SP,Sudeste,MT,Centro-Oeste,Inter-regional,Sim,1067.0,Média (800 a 1.600 km),Não,Fora do top 25
+SAO-SBSJ,SAO,SBSJ,SP,Sudeste,SP,Sudeste,Intrarregional,Sim,110.0,Curta (até 800 km),Não,Fora do top 25
+SAO-SBSM,SAO,SBSM,SP,Sudeste,RS,Sul,Inter-regional,Sim,987.0,Média (800 a 1.600 km),Não,Fora do top 25
+SAO-SBSO,SAO,SBSO,SP,Sudeste,MT,Centro-Oeste,Inter-regional,Sim,1478.0,Média (800 a 1.600 km),Não,Fora do top 25
+SAO-SBTC,SAO,SBTC,SP,Sudeste,BA,Nordeste,Inter-regional,Sim,1218.0,Média (800 a 1.600 km),Não,Fora do top 25
+SAO-SBTD,SAO,SBTD,SP,Sudeste,PR,Sul,Inter-regional,Sim,693.0,Curta (até 800 km),Não,Fora do top 25
+SAO-SBTF,SAO,SBTF,SP,Sudeste,AM,Norte,Inter-regional,Sim,2889.0,Longa (acima de 1.600 km),Não,Fora do top 25
+SAO-SBTG,SAO,SBTG,SP,Sudeste,MS,Centro-Oeste,Inter-regional,Sim,532.0,Curta (até 800 km),Não,Fora do top 25
+SAO-SBUG,SAO,SBUG,SP,Sudeste,RS,Sul,Inter-regional,Sim,1252.0,Média (800 a 1.600 km),Não,Fora do top 25
+SAO-SBVH,SAO,SBVH,SP,Sudeste,RO,Norte,Inter-regional,Sim,1786.0,Longa (acima de 1.600 km),Não,Fora do top 25
+SAO-SBZM,SAO,SBZM,SP,Sudeste,MG,Sudeste,Intrarregional,Sim,429.0,Curta (até 800 km),Não,Fora do top 25
+SAO-SDAG,SAO,SDAG,SP,Sudeste,RJ,Sudeste,Intrarregional,Sim,251.0,Curta (até 800 km),Não,Fora do top 25
+SAO-SDIM,SAO,SDIM,SP,Sudeste,SP,Sudeste,Intrarregional,Sim,61.0,Curta (até 800 km),Não,Fora do top 25
+SAO-SDSC,SAO,SDSC,SP,Sudeste,SP,Sudeste,Intrarregional,Sim,188.0,Curta (até 800 km),Não,Fora do top 25
+SAO-SDTK,SAO,SDTK,SP,Sudeste,RJ,Sudeste,Intrarregional,Sim,203.0,Curta (até 800 km),Não,Fora do top 25
+SAO-SDUB,SAO,SDUB,SP,Sudeste,SP,Sudeste,Intrarregional,Sim,162.0,Curta (até 800 km),Não,Fora do top 25
+SAO-SIMK,SAO,SIMK,SP,Sudeste,SP,Sudeste,Intrarregional,Sim,316.0,Curta (até 800 km),Não,Fora do top 25
+SAO-SJP,SAO,SJP,SP,Sudeste,SP,Sudeste,Intrarregional,Sim,382.0,Curta (até 800 km),Não,Fora do top 25
+SAO-SLZ,SAO,SLZ,SP,Sudeste,MA,Nordeste,Inter-regional,Sim,2326.0,Longa (acima de 1.600 km),Não,Fora do top 25
+SAO-SNBA,SAO,SNBA,SP,Sudeste,SP,Sudeste,Intrarregional,Sim,357.0,Curta (até 800 km),Não,Fora do top 25
+SAO-SNBR,SAO,SNBR,SP,Sudeste,BA,Nordeste,Inter-regional,Sim,,,Não,Fora do top 25
+SAO-SNCP,SAO,SNCP,SP,Sudeste,SC,Sul,Inter-regional,Sim,604.0,Curta (até 800 km),Não,Fora do top 25
+SAO-SNDV,SAO,SNDV,SP,Sudeste,MG,Sudeste,Intrarregional,Sim,392.0,Curta (até 800 km),Não,Fora do top 25
+SAO-SNTF,SAO,SNTF,SP,Sudeste,BA,Nordeste,Inter-regional,Sim,994.0,Média (800 a 1.600 km),Não,Fora do top 25
+SAO-SSA,SAO,SSA,SP,Sudeste,BA,Nordeste,Inter-regional,Sim,1465.0,Média (800 a 1.600 km),Sim,Crescer junto
+SAO-SSBL,SAO,SSBL,SP,Sudeste,SC,Sul,Inter-regional,Sim,433.0,Curta (até 800 km),Não,Fora do top 25
+SAO-SSGG,SAO,SSGG,SP,Sudeste,PR,Sul,Inter-regional,Sim,518.0,Curta (até 800 km),Não,Fora do top 25
+SAO-SSKW,SAO,SSKW,SP,Sudeste,RO,Norte,Inter-regional,Sim,1985.0,Longa (acima de 1.600 km),Não,Fora do top 25
+SAO-STM,SAO,STM,SP,Sudeste,PA,Norte,Inter-regional,Sim,2470.0,Longa (acima de 1.600 km),Não,Fora do top 25
+SAO-SWGN,SAO,SWGN,SP,Sudeste,TO,Norte,Inter-regional,Sim,,,Não,Fora do top 25
+SAO-SWLC,SAO,SWLC,SP,Sudeste,GO,Centro-Oeste,Inter-regional,Sim,709.0,Curta (até 800 km),Não,Fora do top 25
+SAO-THE,SAO,THE,SP,Sudeste,PI,Nordeste,Inter-regional,Sim,2070.0,Longa (acima de 1.600 km),Não,Fora do top 25
+SAO-UBA,SAO,UBA,SP,Sudeste,MG,Sudeste,Intrarregional,Sim,406.0,Curta (até 800 km),Não,Fora do top 25
+SAO-UDI,SAO,UDI,SP,Sudeste,MG,Sudeste,Intrarregional,Sim,517.0,Curta (até 800 km),Não,Fora do top 25
+SAO-VDC,SAO,VDC,SP,Sudeste,BA,Nordeste,Inter-regional,Sim,1113.0,Média (800 a 1.600 km),Não,Fora do top 25
+SAO-VIX,SAO,VIX,SP,Sudeste,ES,Sudeste,Intrarregional,Sim,748.0,Curta (até 800 km),Sim,Crescer junto
+SAO-XAP,SAO,XAP,SP,Sudeste,SC,Sul,Inter-regional,Sim,735.0,Curta (até 800 km),Não,Fora do top 25
+SBAA-SD12,SBAA,SD12,PA,Norte,PA,Norte,Intrarregional,Não,156.0,Curta (até 800 km),Não,Fora do top 25
+SBAC-SBMS,SBAC,SBMS,CE,Nordeste,RN,Nordeste,Intrarregional,Não,85.0,Curta (até 800 km),Não,Fora do top 25
+SBAE-SBAU,SBAE,SBAU,SP,Sudeste,SP,Sudeste,Intrarregional,Não,180.0,Curta (até 800 km),Não,Fora do top 25
+SBAE-SBCR,SBAE,SBCR,SP,Sudeste,MS,Centro-Oeste,Inter-regional,Não,961.0,Média (800 a 1.600 km),Não,Fora do top 25
+SBAE-SBDN,SBAE,SBDN,SP,Sudeste,SP,Sudeste,Intrarregional,Não,242.0,Curta (até 800 km),Não,Fora do top 25
+SBAE-SBDO,SBAE,SBDO,SP,Sudeste,MS,Centro-Oeste,Inter-regional,Não,603.0,Curta (até 800 km),Não,Fora do top 25
+SBAE-SBML,SBAE,SBML,SP,Sudeste,SP,Sudeste,Intrarregional,Não,89.0,Curta (até 800 km),Não,Fora do top 25
+SBAE-SBPG,SBAE,SBPG,SP,Sudeste,PR,Sul,Inter-regional,Não,354.0,Curta (até 800 km),Não,Fora do top 25
+SBAE-SBPK,SBAE,SBPK,SP,Sudeste,RS,Sul,Inter-regional,Não,1111.0,Média (800 a 1.600 km),Não,Fora do top 25
+SBAE-SBRD,SBAE,SBRD,SP,Sudeste,MT,Centro-Oeste,Inter-regional,Não,857.0,Média (800 a 1.600 km),Não,Fora do top 25
+SBAE-SJP,SBAE,SJP,SP,Sudeste,SP,Sudeste,Intrarregional,Não,153.0,Curta (até 800 km),Não,Fora do top 25
+SBAE-VIX,SBAE,VIX,SP,Sudeste,ES,Sudeste,Intrarregional,Não,934.0,Média (800 a 1.600 km),Não,Fora do top 25
+SBAT-SBRD,SBAT,SBRD,MT,Centro-Oeste,MT,Centro-Oeste,Intrarregional,Não,762.0,Curta (até 800 km),Não,Fora do top 25
+SBAT-SBVH,SBAT,SBVH,MT,Centro-Oeste,RO,Norte,Inter-regional,Não,537.0,Curta (até 800 km),Não,Fora do top 25
+SBAT-STM,SBAT,STM,MT,Centro-Oeste,PA,Norte,Inter-regional,Não,840.0,Média (800 a 1.600 km),Não,Fora do top 25
+SBAU-SBDN,SBAU,SBDN,SP,Sudeste,SP,Sudeste,Intrarregional,Não,154.0,Curta (até 800 km),Não,Fora do top 25
+SBAU-SBDO,SBAU,SBDO,SP,Sudeste,MS,Centro-Oeste,Inter-regional,Não,480.0,Curta (até 800 km),Não,Fora do top 25
+SBAU-SBTG,SBAU,SBTG,SP,Sudeste,MS,Centro-Oeste,Inter-regional,Não,137.0,Curta (até 800 km),Não,Fora do top 25
+SBAU-SBVG,SBAU,SBVG,SP,Sudeste,MG,Sudeste,Intrarregional,Não,,,Não,Fora do top 25
+SBAU-SJP,SBAU,SJP,SP,Sudeste,SP,Sudeste,Intrarregional,Não,112.0,Curta (até 800 km),Não,Fora do top 25
+SBAX-SNPD,SBAX,SNPD,MG,Sudeste,MG,Sudeste,Intrarregional,Não,111.0,Curta (até 800 km),Não,Fora do top 25
+SBAX-SNPJ,SBAX,SNPJ,MG,Sudeste,MG,Sudeste,Intrarregional,Não,72.0,Curta (até 800 km),Não,Fora do top 25
+SBAX-UBA,SBAX,UBA,MG,Sudeste,MG,Sudeste,Intrarregional,Não,107.0,Curta (até 800 km),Não,Fora do top 25
+SBAX-UDI,SBAX,UDI,MG,Sudeste,MG,Sudeste,Intrarregional,Não,152.0,Curta (até 800 km),Não,Fora do top 25
+SBBG-SBPK,SBBG,SBPK,RS,Sul,RS,Sul,Intrarregional,Não,172.0,Curta (até 800 km),Não,Fora do top 25
+SBBG-SBSM,SBBG,SBSM,RS,Sul,RS,Sul,Intrarregional,Não,191.0,Curta (até 800 km),Não,Fora do top 25
+SBBG-SSCN,SBBG,SSCN,RS,Sul,RS,Sul,Intrarregional,Não,386.0,Curta (até 800 km),Não,Fora do top 25
+SBBG-SSLT,SBBG,SSLT,RS,Sul,RS,Sul,Intrarregional,Não,245.0,Curta (até 800 km),Não,Fora do top 25
+SBBG-XAP,SBBG,XAP,RS,Sul,SC,Sul,Intrarregional,Não,494.0,Curta (até 800 km),Não,Fora do top 25
+SBBP-SBSJ,SBBP,SBSJ,SP,Sudeste,SP,Sudeste,Intrarregional,Não,74.0,Curta (até 800 km),Não,Fora do top 25
+SBBW-SBRD,SBBW,SBRD,MT,Centro-Oeste,MT,Centro-Oeste,Intrarregional,Não,262.0,Curta (até 800 km),Não,Fora do top 25
+SBBW-SWHP,SBBW,SWHP,MT,Centro-Oeste,MT,Centro-Oeste,Intrarregional,Não,206.0,Curta (até 800 km),Não,Fora do top 25
+SBCB-SBCP,SBCB,SBCP,RJ,Sudeste,RJ,Sudeste,Intrarregional,Não,157.0,Curta (até 800 km),Não,Fora do top 25
+SBCB-SSA,SBCB,SSA,RJ,Sudeste,BA,Nordeste,Inter-regional,Não,1182.0,Média (800 a 1.600 km),Não,Fora do top 25
+SBCB-UDI,SBCB,UDI,RJ,Sudeste,MG,Sudeste,Intrarregional,Não,781.0,Curta (até 800 km),Não,Fora do top 25
+SBCB-VIX,SBCB,VIX,RJ,Sudeste,ES,Sudeste,Intrarregional,Não,348.0,Curta (até 800 km),Não,Fora do top 25
+SBCD-SBPO,SBCD,SBPO,SC,Sul,PR,Sul,Intrarregional,Não,186.0,Curta (até 800 km),Não,Fora do top 25
+SBCD-SNCP,SBCD,SNCP,SC,Sul,SC,Sul,Intrarregional,Não,110.0,Curta (até 800 km),Não,Fora do top 25
+SBCD-SSOE,SBCD,SSOE,SC,Sul,SC,Sul,Intrarregional,Não,254.0,Curta (até 800 km),Não,Fora do top 25
+SBCD-SSOG,SBCD,SSOG,SC,Sul,PR,Sul,Intrarregional,Não,386.0,Curta (até 800 km),Não,Fora do top 25
+SBCJ-SDOW,SBCJ,SDOW,PA,Norte,PA,Norte,Intrarregional,Não,136.0,Curta (até 800 km),Não,Fora do top 25
+SBCJ-SLZ,SBCJ,SLZ,PA,Norte,MA,Nordeste,Inter-regional,Não,750.0,Curta (até 800 km),Não,Fora do top 25
+SBCJ-SWGI,SBCJ,SWGI,PA,Norte,TO,Norte,Intrarregional,Não,633.0,Curta (até 800 km),Não,Fora do top 25
+SBCJ-THE,SBCJ,THE,PA,Norte,PI,Nordeste,Inter-regional,Não,803.0,Média (800 a 1.600 km),Não,Fora do top 25
+SBCJ-VIX,SBCJ,VIX,PA,Norte,ES,Sudeste,Inter-regional,Não,1890.0,Longa (acima de 1.600 km),Não,Fora do top 25
+SBCP-SBJR,SBCP,SBJR,RJ,Sudeste,RJ,Sudeste,Intrarregional,Não,256.0,Curta (até 800 km),Não,Fora do top 25
+SBCP-SBME,SBCP,SBME,RJ,Sudeste,RJ,Sudeste,Intrarregional,Não,85.0,Curta (até 800 km),Não,Fora do top 25
+SBCP-VIX,SBCP,VIX,RJ,Sudeste,ES,Sudeste,Intrarregional,Não,192.0,Curta (até 800 km),Não,Fora do top 25
+SBCR-SBDB,SBCR,SBDB,MS,Centro-Oeste,MS,Centro-Oeste,Intrarregional,Não,279.0,Curta (até 800 km),Não,Fora do top 25
+SBCR-SSKW,SBCR,SSKW,MS,Centro-Oeste,RO,Norte,Inter-regional,Não,929.0,Média (800 a 1.600 km),Não,Fora do top 25
+SBCZ-SBTT,SBCZ,SBTT,AC,Norte,AM,Norte,Intrarregional,Não,487.0,Curta (até 800 km),Não,Fora do top 25
+SBDB-SBDN,SBDB,SBDN,MS,Centro-Oeste,SP,Sudeste,Inter-regional,Não,530.0,Curta (até 800 km),Não,Fora do top 25
+SBDN-SBML,SBDN,SBML,SP,Sudeste,SP,Sudeste,Intrarregional,Não,154.0,Curta (até 800 km),Não,Fora do top 25
+SBDN-SBRD,SBDN,SBRD,SP,Sudeste,MT,Centro-Oeste,Inter-regional,Não,712.0,Curta (até 800 km),Não,Fora do top 25
+SBDN-SBVG,SBDN,SBVG,SP,Sudeste,MG,Sudeste,Intrarregional,Não,,,Não,Fora do top 25
+SBDN-SJP,SBDN,SJP,SP,Sudeste,SP,Sudeste,Intrarregional,Não,258.0,Curta (até 800 km),Não,Fora do top 25
+SBDN-SSA,SBDN,SSA,SP,Sudeste,BA,Nordeste,Inter-regional,Não,1727.0,Longa (acima de 1.600 km),Não,Fora do top 25
+SBDN-UDI,SBDN,UDI,SP,Sudeste,MG,Sudeste,Intrarregional,Não,495.0,Curta (até 800 km),Não,Fora do top 25
+SBHT-SBIH,SBHT,SBIH,PA,Norte,PA,Norte,Intrarregional,Não,430.0,Curta (até 800 km),Não,Fora do top 25
+SBHT-SBJC,SBHT,SBJC,PA,Norte,PA,Norte,Intrarregional,Não,468.0,Curta (até 800 km),Não,Fora do top 25
+SBHT-SBMD,SBHT,SBMD,PA,Norte,PA,Norte,Intrarregional,Não,265.0,Curta (até 800 km),Não,Fora do top 25
+SBHT-SBTB,SBHT,SBTB,PA,Norte,PA,Norte,Intrarregional,Não,,,Não,Fora do top 25
+SBHT-SLZ,SBHT,SLZ,PA,Norte,MA,Nordeste,Inter-regional,Não,893.0,Média (800 a 1.600 km),Não,Fora do top 25
+SBHT-SNMZ,SBHT,SNMZ,PA,Norte,PA,Norte,Intrarregional,Não,168.0,Curta (até 800 km),Não,Fora do top 25
+SBHT-SNVS,SBHT,SNVS,PA,Norte,PA,Norte,Intrarregional,Não,269.0,Curta (até 800 km),Não,Fora do top 25
+SBHT-SNYA,SBHT,SNYA,PA,Norte,PA,Norte,Intrarregional,Não,,,Não,Fora do top 25
+SBHT-STM,SBHT,STM,PA,Norte,PA,Norte,Intrarregional,Não,296.0,Curta (até 800 km),Não,Fora do top 25
+SBHT-SWPI,SBHT,SWPI,PA,Norte,AM,Norte,Intrarregional,Não,,,Não,Fora do top 25
+SBIH-SBTB,SBIH,SBTB,PA,Norte,PA,Norte,Intrarregional,Não,310.0,Curta (até 800 km),Não,Fora do top 25
+SBIH-SDWQ,SBIH,SDWQ,PA,Norte,PA,Norte,Intrarregional,Não,,,Não,Fora do top 25
+SBIH-SNMA,SBIH,SNMA,PA,Norte,PA,Norte,Intrarregional,Não,,,Não,Fora do top 25
+SBIH-SNOX,SBIH,SNOX,PA,Norte,PA,Norte,Intrarregional,Não,282.0,Curta (até 800 km),Não,Fora do top 25
+SBIH-SNRJ,SBIH,SNRJ,PA,Norte,PA,Norte,Intrarregional,Não,229.0,Curta (até 800 km),Não,Fora do top 25
+SBIH-SNTI,SBIH,SNTI,PA,Norte,PA,Norte,Intrarregional,Não,,,Não,Fora do top 25
+SBIH-STM,SBIH,STM,PA,Norte,PA,Norte,Intrarregional,Não,243.0,Curta (até 800 km),Não,Fora do top 25
+SBIH-SWCA,SBIH,SWCA,PA,Norte,AM,Norte,Intrarregional,Não,,,Não,Fora do top 25
+SBIH-SWKO,SBIH,SWKO,PA,Norte,AM,Norte,Intrarregional,Não,791.0,Curta (até 800 km),Não,Fora do top 25
+SBIH-SWPI,SBIH,SWPI,PA,Norte,AM,Norte,Intrarregional,Não,195.0,Curta (até 800 km),Não,Fora do top 25
+SBIP-SBVG,SBIP,SBVG,MG,Sudeste,MG,Sudeste,Intrarregional,Não,390.0,Curta (até 800 km),Não,Fora do top 25
+SBIP-SBZM,SBIP,SBZM,MG,Sudeste,MG,Sudeste,Intrarregional,Não,238.0,Curta (até 800 km),Não,Fora do top 25
+SBIP-SNBR,SBIP,SNBR,MG,Sudeste,BA,Nordeste,Inter-regional,Não,865.0,Média (800 a 1.600 km),Não,Fora do top 25
+SBIP-SNTF,SBIP,SNTF,MG,Sudeste,BA,Nordeste,Inter-regional,Não,368.0,Curta (até 800 km),Não,Fora do top 25
+SBIP-SNTO,SBIP,SNTO,MG,Sudeste,MG,Sudeste,Intrarregional,Não,203.0,Curta (até 800 km),Não,Fora do top 25
+SBIP-SNUI,SBIP,SNUI,MG,Sudeste,MG,Sudeste,Intrarregional,Não,,,Não,Fora do top 25
+SBIP-SSA,SBIP,SSA,MG,Sudeste,BA,Nordeste,Inter-regional,Não,854.0,Média (800 a 1.600 km),Não,Fora do top 25
+SBIP-UBA,SBIP,UBA,MG,Sudeste,MG,Sudeste,Intrarregional,Não,575.0,Curta (até 800 km),Não,Fora do top 25
+SBIP-UDI,SBIP,UDI,MG,Sudeste,MG,Sudeste,Intrarregional,Não,606.0,Curta (até 800 km),Não,Fora do top 25
+SBIP-VDC,SBIP,VDC,MG,Sudeste,BA,Nordeste,Inter-regional,Não,534.0,Curta (até 800 km),Não,Fora do top 25
+SBJC-SBMD,SBJC,SBMD,PA,Norte,PA,Norte,Intrarregional,Não,464.0,Curta (até 800 km),Não,Fora do top 25
+SBJC-SNMZ,SBJC,SNMZ,PA,Norte,PA,Norte,Intrarregional,Não,,,Não,Fora do top 25
+SBJC-SNVS,SBJC,SNVS,PA,Norte,PA,Norte,Intrarregional,Não,222.0,Curta (até 800 km),Não,Fora do top 25
+SBJC-SNYA,SBJC,SNYA,PA,Norte,PA,Norte,Intrarregional,Não,,,Não,Fora do top 25
+SBJE-SBPB,SBJE,SBPB,CE,Nordeste,PI,Nordeste,Intrarregional,Não,152.0,Curta (até 800 km),Não,Fora do top 25
+SBJE-SBSJ,SBJE,SBSJ,CE,Nordeste,SP,Sudeste,Inter-regional,Não,2336.0,Longa (acima de 1.600 km),Não,Fora do top 25
+SBJE-SLZ,SBJE,SLZ,CE,Nordeste,MA,Nordeste,Intrarregional,Não,432.0,Curta (até 800 km),Não,Fora do top 25
+SBJE-SSA,SBJE,SSA,CE,Nordeste,BA,Nordeste,Intrarregional,Não,1134.0,Média (800 a 1.600 km),Não,Fora do top 25
+SBJE-SSRS,SBJE,SSRS,CE,Nordeste,MA,Nordeste,Intrarregional,Não,272.0,Curta (até 800 km),Não,Fora do top 25
+SBJE-THE,SBJE,THE,CE,Nordeste,PI,Nordeste,Intrarregional,Não,364.0,Curta (até 800 km),Não,Fora do top 25
+SBJE-VIX,SBJE,VIX,CE,Nordeste,ES,Sudeste,Inter-regional,Não,1929.0,Longa (acima de 1.600 km),Não,Fora do top 25
+SBJI-SBSO,SBJI,SBSO,RO,Norte,MT,Centro-Oeste,Inter-regional,Não,696.0,Curta (até 800 km),Não,Fora do top 25
+SBJI-SBVH,SBJI,SBVH,RO,Norte,RO,Norte,Intrarregional,Não,278.0,Curta (até 800 km),Não,Fora do top 25
+SBJI-SSKW,SBJI,SSKW,RO,Norte,RO,Norte,Intrarregional,Não,82.0,Curta (até 800 km),Não,Fora do top 25
+SBJI-SSOU,SBJI,SSOU,RO,Norte,MT,Centro-Oeste,Inter-regional,Não,272.0,Curta (até 800 km),Não,Fora do top 25
+SBJI-SWJN,SBJI,SWJN,RO,Norte,MT,Centro-Oeste,Inter-regional,Não,348.0,Curta (até 800 km),Não,Fora do top 25
+SBJR-SBMT,SBJR,SBMT,RJ,Sudeste,SP,Sudeste,Intrarregional,Não,338.0,Curta (até 800 km),Não,Fora do top 25
+SBJR-SBSJ,SBJR,SBSJ,RJ,Sudeste,SP,Sudeste,Intrarregional,Não,257.0,Curta (até 800 km),Não,Fora do top 25
+SBJR-SDAG,SBJR,SDAG,RJ,Sudeste,RJ,Sudeste,Intrarregional,Não,96.0,Curta (até 800 km),Não,Fora do top 25
+SBLE-SNBR,SBLE,SNBR,BA,Nordeste,BA,Nordeste,Intrarregional,Não,408.0,Curta (até 800 km),Não,Fora do top 25
+SBLE-SSA,SBLE,SSA,BA,Nordeste,BA,Nordeste,Intrarregional,Não,324.0,Curta (até 800 km),Não,Fora do top 25
+SBMD-SNMZ,SBMD,SNMZ,PA,Norte,PA,Norte,Intrarregional,Não,103.0,Curta (até 800 km),Não,Fora do top 25
+SBMD-SNVS,SBMD,SNVS,PA,Norte,PA,Norte,Intrarregional,Não,254.0,Curta (até 800 km),Não,Fora do top 25
+SBMD-SNYA,SBMD,SNYA,PA,Norte,PA,Norte,Intrarregional,Não,66.0,Curta (até 800 km),Não,Fora do top 25
+SBMD-STM,SBMD,STM,PA,Norte,PA,Norte,Intrarregional,Não,297.0,Curta (até 800 km),Não,Fora do top 25
+SBML-SJP,SBML,SJP,SP,Sudeste,SP,Sudeste,Intrarregional,Não,163.0,Curta (até 800 km),Não,Fora do top 25
+SBMS-SNAT,SBMS,SNAT,RN,Nordeste,CE,Nordeste,Intrarregional,Não,85.0,Curta (até 800 km),Não,Fora do top 25
+SBMT-SDAG,SBMT,SDAG,SP,Sudeste,RJ,Sudeste,Intrarregional,Não,245.0,Curta (até 800 km),Não,Fora do top 25
+SBMY-SWYN,SBMY,SWYN,AM,Norte,AM,Norte,Intrarregional,Não,220.0,Curta (até 800 km),Não,Fora do top 25
+SBNM-SBUG,SBNM,SBUG,RS,Sul,RS,Sul,Intrarregional,Não,325.0,Curta (até 800 km),Não,Fora do top 25
+SBNM-XAP,SBNM,XAP,RS,Sul,SC,Sul,Intrarregional,Não,196.0,Curta (até 800 km),Não,Fora do top 25
+SBNT-SSA,SBNT,SSA,RN,Nordeste,BA,Nordeste,Intrarregional,Não,848.0,Média (800 a 1.600 km),Não,Fora do top 25
+SBPB-SLZ,SBPB,SLZ,PI,Nordeste,MA,Nordeste,Intrarregional,Não,280.0,Curta (até 800 km),Não,Fora do top 25
+SBPB-SSRS,SBPB,SSRS,PI,Nordeste,MA,Nordeste,Intrarregional,Não,120.0,Curta (até 800 km),Não,Fora do top 25
+SBPB-THE,SBPB,THE,PI,Nordeste,PI,Nordeste,Intrarregional,Não,270.0,Curta (até 800 km),Não,Fora do top 25
+SBPC-SBVG,SBPC,SBVG,MG,Sudeste,MG,Sudeste,Intrarregional,Não,116.0,Curta (até 800 km),Não,Fora do top 25
+SBPC-SNZA,SBPC,SNZA,MG,Sudeste,MG,Sudeste,Intrarregional,Não,83.0,Curta (até 800 km),Não,Fora do top 25
+SBPK-SBSM,SBPK,SBSM,RS,Sul,RS,Sul,Intrarregional,Não,258.0,Curta (até 800 km),Não,Fora do top 25
+SBPK-SBUG,SBPK,SBUG,RS,Sul,RS,Sul,Intrarregional,Não,498.0,Curta (até 800 km),Não,Fora do top 25
+SBPO-SSOE,SBPO,SSOE,PR,Sul,SC,Sul,Intrarregional,Não,102.0,Curta (até 800 km),Não,Fora do top 25
+SBPO-SSOG,SBPO,SSOG,PR,Sul,PR,Sul,Intrarregional,Não,341.0,Curta (até 800 km),Não,Fora do top 25
+SBPO-SSOK,SBPO,SSOK,PR,Sul,PR,Sul,Intrarregional,Não,367.0,Curta (até 800 km),Não,Fora do top 25
+SBPO-XAP,SBPO,XAP,PR,Sul,SC,Sul,Intrarregional,Não,102.0,Curta (até 800 km),Não,Fora do top 25
+SBQV-SBSJ,SBQV,SBSJ,BA,Nordeste,SP,Sudeste,Inter-regional,Não,1068.0,Média (800 a 1.600 km),Não,Fora do top 25
+SBQV-SNBR,SBQV,SNBR,BA,Nordeste,BA,Nordeste,Intrarregional,Não,,,Não,Fora do top 25
+SBQV-SSA,SBQV,SSA,BA,Nordeste,BA,Nordeste,Intrarregional,Não,350.0,Curta (até 800 km),Não,Fora do top 25
+SBRD-SBSO,SBRD,SBSO,MT,Centro-Oeste,MT,Centro-Oeste,Intrarregional,Não,469.0,Curta (até 800 km),Não,Fora do top 25
+SBRD-SJP,SBRD,SJP,MT,Centro-Oeste,SP,Sudeste,Inter-regional,Não,731.0,Curta (até 800 km),Não,Fora do top 25
+SBRD-SSKW,SBRD,SSKW,MT,Centro-Oeste,RO,Norte,Inter-regional,Não,920.0,Média (800 a 1.600 km),Não,Fora do top 25
+SBSJ-SJP,SBSJ,SJP,SP,Sudeste,SP,Sudeste,Intrarregional,Não,452.0,Curta (até 800 km),Não,Fora do top 25
+SBSJ-SNBR,SBSJ,SNBR,SP,Sudeste,BA,Nordeste,Inter-regional,Não,,,Não,Fora do top 25
+SBSJ-SSA,SBSJ,SSA,SP,Sudeste,BA,Nordeste,Inter-regional,Não,,,Não,Fora do top 25
+SBSJ-VIX,SBSJ,VIX,SP,Sudeste,ES,Sudeste,Intrarregional,Não,665.0,Curta (até 800 km),Não,Fora do top 25
+SBSM-SBUG,SBSM,SBUG,RS,Sul,RS,Sul,Intrarregional,Não,323.0,Curta (até 800 km),Não,Fora do top 25
+SBSO-UDI,SBSO,UDI,MT,Centro-Oeste,MG,Sudeste,Inter-regional,Não,1069.0,Média (800 a 1.600 km),Não,Fora do top 25
+SBTB-SDWQ,SBTB,SDWQ,PA,Norte,PA,Norte,Intrarregional,Não,,,Não,Fora do top 25
+SBTB-SNMA,SBTB,SNMA,PA,Norte,PA,Norte,Intrarregional,Não,265.0,Curta (até 800 km),Não,Fora do top 25
+SBTB-SNOX,SBTB,SNOX,PA,Norte,PA,Norte,Intrarregional,Não,68.0,Curta (até 800 km),Não,Fora do top 25
+SBTB-SNRJ,SBTB,SNRJ,PA,Norte,PA,Norte,Intrarregional,Não,85.0,Curta (até 800 km),Não,Fora do top 25
+SBTB-SNTI,SBTB,SNTI,PA,Norte,PA,Norte,Intrarregional,Não,107.0,Curta (até 800 km),Não,Fora do top 25
+SBTB-STM,SBTB,STM,PA,Norte,PA,Norte,Intrarregional,Não,208.0,Curta (até 800 km),Não,Fora do top 25
+SBTB-SWPI,SBTB,SWPI,PA,Norte,AM,Norte,Intrarregional,Não,138.0,Curta (até 800 km),Não,Fora do top 25
+SBTC-SSA,SBTC,SSA,BA,Nordeste,BA,Nordeste,Intrarregional,Não,281.0,Curta (até 800 km),Não,Fora do top 25
+SBTF-SBTT,SBTF,SBTT,AM,Norte,AM,Norte,Intrarregional,Não,586.0,Curta (até 800 km),Não,Fora do top 25
+SBTF-SBUA,SBTF,SBUA,AM,Norte,AM,Norte,Intrarregional,Não,439.0,Curta (até 800 km),Não,Fora do top 25
+SBTF-SDCG,SBTF,SDCG,AM,Norte,AM,Norte,Intrarregional,Não,466.0,Curta (até 800 km),Não,Fora do top 25
+SBTF-STM,SBTF,STM,AM,Norte,PA,Norte,Intrarregional,Não,1109.0,Média (800 a 1.600 km),Não,Fora do top 25
+SBTF-SWBC,SBTF,SWBC,AM,Norte,AM,Norte,Intrarregional,Não,334.0,Curta (até 800 km),Não,Fora do top 25
+SBTF-SWCA,SBTF,SWCA,AM,Norte,AM,Norte,Intrarregional,Não,292.0,Curta (até 800 km),Não,Fora do top 25
+SBTF-SWEI,SBTF,SWEI,AM,Norte,AM,Norte,Intrarregional,Não,676.0,Curta (até 800 km),Não,Fora do top 25
+SBTF-SWKO,SBTF,SWKO,AM,Norte,AM,Norte,Intrarregional,Não,196.0,Curta (até 800 km),Não,Fora do top 25
+SBTF-SWLB,SBTF,SWLB,AM,Norte,AM,Norte,Intrarregional,Não,430.0,Curta (até 800 km),Não,Fora do top 25
+SBTF-SWPI,SBTF,SWPI,AM,Norte,AM,Norte,Intrarregional,Não,887.0,Média (800 a 1.600 km),Não,Fora do top 25
+SBTF-SWTP,SBTF,SWTP,AM,Norte,AM,Norte,Intrarregional,Não,331.0,Curta (até 800 km),Não,Fora do top 25
+SBTT-STM,SBTT,STM,AM,Norte,PA,Norte,Intrarregional,Não,1694.0,Longa (acima de 1.600 km),Não,Fora do top 25
+SBTT-SWEI,SBTT,SWEI,AM,Norte,AM,Norte,Intrarregional,Não,265.0,Curta (até 800 km),Não,Fora do top 25
+SBTT-SWKO,SBTT,SWKO,AM,Norte,AM,Norte,Intrarregional,Não,755.0,Curta (até 800 km),Não,Fora do top 25
+SBTU-SNEB,SBTU,SNEB,PA,Norte,PA,Norte,Intrarregional,Não,280.0,Curta (até 800 km),Não,Fora do top 25
+SBUA-STM,SBUA,STM,AM,Norte,PA,Norte,Intrarregional,Não,1380.0,Média (800 a 1.600 km),Não,Fora do top 25
+SBUF-SSA,SBUF,SSA,BA,Nordeste,BA,Nordeste,Intrarregional,Não,390.0,Curta (até 800 km),Não,Fora do top 25
+SBUY-SWCA,SBUY,SWCA,AM,Norte,AM,Norte,Intrarregional,Não,171.0,Curta (até 800 km),Não,Fora do top 25
+SBVG-SJP,SBVG,SJP,MG,Sudeste,SP,Sudeste,Intrarregional,Não,,,Não,Fora do top 25
+SBVG-SNZA,SBVG,SNZA,MG,Sudeste,MG,Sudeste,Intrarregional,Não,90.0,Curta (até 800 km),Não,Fora do top 25
+SBVH-SSOU,SBVH,SSOU,RO,Norte,MT,Centro-Oeste,Inter-regional,Não,287.0,Curta (até 800 km),Não,Fora do top 25
+SBVH-SWJN,SBVH,SWJN,RO,Norte,MT,Centro-Oeste,Inter-regional,Não,207.0,Curta (até 800 km),Não,Fora do top 25
+SBZM-SJP,SBZM,SJP,MG,Sudeste,SP,Sudeste,Intrarregional,Não,651.0,Curta (até 800 km),Não,Fora do top 25
+SDCG-SWKO,SDCG,SWKO,AM,Norte,AM,Norte,Intrarregional,Não,647.0,Curta (até 800 km),Não,Fora do top 25
+SDH2-SWFX,SDH2,SWFX,MT,Centro-Oeste,MT,Centro-Oeste,Intrarregional,Não,128.0,Curta (até 800 km),Não,Fora do top 25
+SDH2-SWGI,SDH2,SWGI,MT,Centro-Oeste,TO,Norte,Inter-regional,Não,285.0,Curta (até 800 km),Não,Fora do top 25
+SDH2-SWHP,SDH2,SWHP,MT,Centro-Oeste,MT,Centro-Oeste,Intrarregional,Não,350.0,Curta (até 800 km),Não,Fora do top 25
+SDH2-SWPH,SDH2,SWPH,MT,Centro-Oeste,MT,Centro-Oeste,Intrarregional,Não,482.0,Curta (até 800 km),Não,Fora do top 25
+SDIY-SSA,SDIY,SSA,BA,Nordeste,BA,Nordeste,Intrarregional,Não,101.0,Curta (até 800 km),Não,Fora do top 25
+SDLO-SIRI,SDLO,SIRI,BA,Nordeste,BA,Nordeste,Intrarregional,Não,38.0,Curta (até 800 km),Não,Fora do top 25
+SDLO-SNCL,SDLO,SNCL,BA,Nordeste,BA,Nordeste,Intrarregional,Não,20.0,Curta (até 800 km),Não,Fora do top 25
+SDLO-SSA,SDLO,SSA,BA,Nordeste,BA,Nordeste,Intrarregional,Não,99.0,Curta (até 800 km),Não,Fora do top 25
+SDNM-SILC,SDNM,SILC,MT,Centro-Oeste,MT,Centro-Oeste,Intrarregional,Não,87.0,Curta (até 800 km),Não,Fora do top 25
+SDNM-SWJN,SDNM,SWJN,MT,Centro-Oeste,MT,Centro-Oeste,Intrarregional,Não,393.0,Curta (até 800 km),Não,Fora do top 25
+SDWQ-SNMA,SDWQ,SNMA,PA,Norte,PA,Norte,Intrarregional,Não,73.0,Curta (até 800 km),Não,Fora do top 25
+SDWQ-SNOX,SDWQ,SNOX,PA,Norte,PA,Norte,Intrarregional,Não,,,Não,Fora do top 25
+SDWQ-SNRJ,SDWQ,SNRJ,PA,Norte,PA,Norte,Intrarregional,Não,,,Não,Fora do top 25
+SDWQ-SNTI,SDWQ,SNTI,PA,Norte,PA,Norte,Intrarregional,Não,88.0,Curta (até 800 km),Não,Fora do top 25
+SDWQ-STM,SDWQ,STM,PA,Norte,PA,Norte,Intrarregional,Não,,,Não,Fora do top 25
+SILC-SWJN,SILC,SWJN,MT,Centro-Oeste,MT,Centro-Oeste,Intrarregional,Não,350.0,Curta (até 800 km),Não,Fora do top 25
+SIMK-SNBA,SIMK,SNBA,SP,Sudeste,SP,Sudeste,Intrarregional,Não,126.0,Curta (até 800 km),Não,Fora do top 25
+SIRI-SNCL,SIRI,SNCL,BA,Nordeste,BA,Nordeste,Intrarregional,Não,58.0,Curta (até 800 km),Não,Fora do top 25
+SIRI-SSA,SIRI,SSA,BA,Nordeste,BA,Nordeste,Intrarregional,Não,129.0,Curta (até 800 km),Não,Fora do top 25
+SISO-SWFX,SISO,SWFX,PA,Norte,MT,Centro-Oeste,Inter-regional,Não,1289.0,Média (800 a 1.600 km),Não,Fora do top 25
+SISO-SWHP,SISO,SWHP,PA,Norte,MT,Centro-Oeste,Inter-regional,Não,1574.0,Média (800 a 1.600 km),Não,Fora do top 25
+SIUA-SIXE,SIUA,SIXE,RS,Sul,RS,Sul,Intrarregional,Não,57.0,Curta (até 800 km),Não,Fora do top 25
+SIXE-SSBN,SIXE,SSBN,RS,Sul,RS,Sul,Intrarregional,Não,29.0,Curta (até 800 km),Não,Fora do top 25
+SIXE-SSSC,SIXE,SSSC,RS,Sul,RS,Sul,Intrarregional,Não,102.0,Curta (até 800 km),Não,Fora do top 25
+SIZX-SWJN,SIZX,SWJN,MT,Centro-Oeste,MT,Centro-Oeste,Intrarregional,Não,128.0,Curta (até 800 km),Não,Fora do top 25
+SJHG-SWFX,SJHG,SWFX,MT,Centro-Oeste,MT,Centro-Oeste,Intrarregional,Não,147.0,Curta (até 800 km),Não,Fora do top 25
+SJHG-SWHP,SJHG,SWHP,MT,Centro-Oeste,MT,Centro-Oeste,Intrarregional,Não,382.0,Curta (até 800 km),Não,Fora do top 25
+SJP-SSA,SJP,SSA,SP,Sudeste,BA,Nordeste,Inter-regional,Não,1470.0,Média (800 a 1.600 km),Não,Fora do top 25
+SJP-SWLC,SJP,SWLC,SP,Sudeste,GO,Centro-Oeste,Inter-regional,Não,369.0,Curta (até 800 km),Não,Fora do top 25
+SJP-THE,SJP,THE,SP,Sudeste,PI,Nordeste,Inter-regional,Não,1891.0,Longa (acima de 1.600 km),Não,Fora do top 25
+SJP-UBA,SJP,UBA,SP,Sudeste,MG,Sudeste,Intrarregional,Não,190.0,Curta (até 800 km),Não,Fora do top 25
+SJP-UDI,SJP,UDI,SP,Sudeste,MG,Sudeste,Intrarregional,Não,248.0,Curta (até 800 km),Não,Fora do top 25
+SJP-VIX,SJP,VIX,SP,Sudeste,ES,Sudeste,Intrarregional,Não,951.0,Média (800 a 1.600 km),Não,Fora do top 25
+SJZA-SNTS,SJZA,SNTS,PB,Nordeste,PB,Nordeste,Intrarregional,Não,151.0,Curta (até 800 km),Não,Fora do top 25
+SLZ-SSA,SLZ,SSA,MA,Nordeste,BA,Nordeste,Intrarregional,Não,1319.0,Média (800 a 1.600 km),Não,Fora do top 25
+SLZ-SSRS,SLZ,SSRS,MA,Nordeste,MA,Nordeste,Intrarregional,Não,160.0,Curta (até 800 km),Não,Fora do top 25
+SLZ-STM,SLZ,STM,MA,Nordeste,PA,Norte,Inter-regional,Não,1172.0,Média (800 a 1.600 km),Não,Fora do top 25
+SLZ-THE,SLZ,THE,MA,Nordeste,PI,Nordeste,Intrarregional,Não,317.0,Curta (até 800 km),Não,Fora do top 25
+SLZ-VIX,SLZ,VIX,MA,Nordeste,ES,Sudeste,Inter-regional,Não,2011.0,Longa (acima de 1.600 km),Não,Fora do top 25
+SN6L-SWBE,SN6L,SWBE,CE,Nordeste,CE,Nordeste,Intrarregional,Não,87.0,Curta (até 800 km),Não,Fora do top 25
+SNAB-SNHS,SNAB,SNHS,PE,Nordeste,PE,Nordeste,Intrarregional,Não,249.0,Curta (até 800 km),Não,Fora do top 25
+SNAR-SNDT,SNAR,SNDT,MG,Sudeste,MG,Sudeste,Intrarregional,Não,390.0,Curta (até 800 km),Não,Fora do top 25
+SNAR-SNUI,SNAR,SNUI,MG,Sudeste,MG,Sudeste,Intrarregional,Não,165.0,Curta (até 800 km),Não,Fora do top 25
+SNBR-SSA,SNBR,SSA,BA,Nordeste,BA,Nordeste,Intrarregional,Não,732.0,Curta (até 800 km),Não,Fora do top 25
+SNBR-VDC,SNBR,VDC,BA,Nordeste,BA,Nordeste,Intrarregional,Não,,,Não,Fora do top 25
+SNCL-SSA,SNCL,SSA,BA,Nordeste,BA,Nordeste,Intrarregional,Não,83.0,Curta (até 800 km),Não,Fora do top 25
+SNCP-SSOE,SNCP,SSOE,SC,Sul,SC,Sul,Intrarregional,Não,325.0,Curta (até 800 km),Não,Fora do top 25
+SNCT-SNJM,SNCT,SNJM,MG,Sudeste,MG,Sudeste,Intrarregional,Não,60.0,Curta (até 800 km),Não,Fora do top 25
+SNCT-SNVC,SNCT,SNVC,MG,Sudeste,MG,Sudeste,Intrarregional,Não,137.0,Curta (até 800 km),Não,Fora do top 25
+SNCX-VIX,SNCX,VIX,ES,Sudeste,ES,Sudeste,Intrarregional,Não,91.0,Curta (até 800 km),Não,Fora do top 25
+SNDT-SNUI,SNDT,SNUI,MG,Sudeste,MG,Sudeste,Intrarregional,Não,229.0,Curta (até 800 km),Não,Fora do top 25
+SNEE-SSER,SNEE,SSER,RS,Sul,RS,Sul,Intrarregional,Não,150.0,Curta (até 800 km),Não,Fora do top 25
+SNGI-SSA,SNGI,SSA,BA,Nordeste,BA,Nordeste,Intrarregional,Não,500.0,Curta (até 800 km),Não,Fora do top 25
+SNGI-UBA,SNGI,UBA,BA,Nordeste,MG,Sudeste,Inter-regional,Não,830.0,Média (800 a 1.600 km),Não,Fora do top 25
+SNGI-VDC,SNGI,VDC,BA,Nordeste,BA,Nordeste,Intrarregional,Não,212.0,Curta (até 800 km),Não,Fora do top 25
+SNGN-SNRU,SNGN,SNRU,PE,Nordeste,PE,Nordeste,Intrarregional,Não,79.0,Curta (até 800 km),Não,Fora do top 25
+SNGX-SNOS,SNGX,SNOS,MG,Sudeste,MG,Sudeste,Intrarregional,Não,66.0,Curta (até 800 km),Não,Fora do top 25
+SNGX-SNUH,SNGX,SNUH,MG,Sudeste,MG,Sudeste,Intrarregional,Não,125.0,Curta (até 800 km),Não,Fora do top 25
+SNIG-SNWS,SNIG,SNWS,CE,Nordeste,CE,Nordeste,Intrarregional,Não,201.0,Curta (até 800 km),Não,Fora do top 25
+SNJM-SNVC,SNJM,SNVC,MG,Sudeste,MG,Sudeste,Intrarregional,Não,87.0,Curta (até 800 km),Não,Fora do top 25
+SNMA-SNOX,SNMA,SNOX,PA,Norte,PA,Norte,Intrarregional,Não,199.0,Curta (até 800 km),Não,Fora do top 25
+SNMA-SNRJ,SNMA,SNRJ,PA,Norte,PA,Norte,Intrarregional,Não,,,Não,Fora do top 25
+SNMA-SNTI,SNMA,SNTI,PA,Norte,PA,Norte,Intrarregional,Não,161.0,Curta (até 800 km),Não,Fora do top 25
+SNMA-STM,SNMA,STM,PA,Norte,PA,Norte,Intrarregional,Não,93.0,Curta (até 800 km),Não,Fora do top 25
+SNMZ-SNVS,SNMZ,SNVS,PA,Norte,PA,Norte,Intrarregional,Não,200.0,Curta (até 800 km),Não,Fora do top 25
+SNMZ-SNYA,SNMZ,SNYA,PA,Norte,PA,Norte,Intrarregional,Não,47.0,Curta (até 800 km),Não,Fora do top 25
+SNMZ-STM,SNMZ,STM,PA,Norte,PA,Norte,Intrarregional,Não,293.0,Curta (até 800 km),Não,Fora do top 25
+SNOS-UBA,SNOS,UBA,MG,Sudeste,MG,Sudeste,Intrarregional,Não,174.0,Curta (até 800 km),Não,Fora do top 25
+SNOX-SNRJ,SNOX,SNRJ,PA,Norte,PA,Norte,Intrarregional,Não,,,Não,Fora do top 25
+SNOX-SNTI,SNOX,SNTI,PA,Norte,PA,Norte,Intrarregional,Não,40.0,Curta (até 800 km),Não,Fora do top 25
+SNOX-STM,SNOX,STM,PA,Norte,PA,Norte,Intrarregional,Não,141.0,Curta (até 800 km),Não,Fora do top 25
+SNPD-SNPJ,SNPD,SNPJ,MG,Sudeste,MG,Sudeste,Intrarregional,Não,58.0,Curta (até 800 km),Não,Fora do top 25
+SNPD-UDI,SNPD,UDI,MG,Sudeste,MG,Sudeste,Intrarregional,Não,184.0,Curta (até 800 km),Não,Fora do top 25
+SNRJ-SNTI,SNRJ,SNTI,PA,Norte,PA,Norte,Intrarregional,Não,73.0,Curta (até 800 km),Não,Fora do top 25
+SNRJ-STM,SNRJ,STM,PA,Norte,PA,Norte,Intrarregional,Não,147.0,Curta (até 800 km),Não,Fora do top 25
+SNTF-SSA,SNTF,SSA,BA,Nordeste,BA,Nordeste,Intrarregional,Não,533.0,Curta (até 800 km),Não,Fora do top 25
+SNTI-STM,SNTI,STM,PA,Norte,PA,Norte,Intrarregional,Não,102.0,Curta (até 800 km),Não,Fora do top 25
+SNTO-SNUI,SNTO,SNUI,MG,Sudeste,MG,Sudeste,Intrarregional,Não,,,Não,Fora do top 25
+SNVS-SNYA,SNVS,SNYA,PA,Norte,PA,Norte,Intrarregional,Não,238.0,Curta (até 800 km),Não,Fora do top 25
+SNVS-STM,SNVS,STM,PA,Norte,PA,Norte,Intrarregional,Não,490.0,Curta (até 800 km),Não,Fora do top 25
+SSA-STM,SSA,STM,BA,Nordeste,PA,Norte,Inter-regional,Não,,,Não,Fora do top 25
+SSA-THE,SSA,THE,BA,Nordeste,PI,Nordeste,Intrarregional,Não,1003.0,Média (800 a 1.600 km),Não,Fora do top 25
+SSA-UDI,SSA,UDI,BA,Nordeste,MG,Sudeste,Inter-regional,Não,1250.0,Média (800 a 1.600 km),Não,Fora do top 25
+SSA-VDC,SSA,VDC,BA,Nordeste,BA,Nordeste,Intrarregional,Não,357.0,Curta (até 800 km),Não,Fora do top 25
+SSA-VIX,SSA,VIX,BA,Nordeste,ES,Sudeste,Inter-regional,Não,844.0,Média (800 a 1.600 km),Não,Fora do top 25
+SSA-XAP,SSA,XAP,BA,Nordeste,SC,Sul,Inter-regional,Não,2175.0,Longa (acima de 1.600 km),Não,Fora do top 25
+SSAP-SSCP,SSAP,SSCP,PR,Sul,PR,Sul,Intrarregional,Não,95.0,Curta (até 800 km),Não,Fora do top 25
+SSAP-SSOG,SSAP,SSOG,PR,Sul,PR,Sul,Intrarregional,Não,30.0,Curta (até 800 km),Não,Fora do top 25
+SSAP-SSVL,SSAP,SSVL,PR,Sul,PR,Sul,Intrarregional,Não,108.0,Curta (até 800 km),Não,Fora do top 25
+SSCN-SSSC,SSCN,SSSC,RS,Sul,RS,Sul,Intrarregional,Não,157.0,Curta (até 800 km),Não,Fora do top 25
+SSCP-SSOG,SSCP,SSOG,PR,Sul,PR,Sul,Intrarregional,Não,94.0,Curta (até 800 km),Não,Fora do top 25
+SSCP-SSVL,SSCP,SSVL,PR,Sul,PR,Sul,Intrarregional,Não,129.0,Curta (até 800 km),Não,Fora do top 25
+SSCT-SSKM,SSCT,SSKM,PR,Sul,PR,Sul,Intrarregional,Não,45.0,Curta (até 800 km),Não,Fora do top 25
+SSFB-SSUV,SSFB,SSUV,PR,Sul,PR,Sul,Intrarregional,Não,200.0,Curta (até 800 km),Não,Fora do top 25
+SSOU-SWJN,SSOU,SWJN,MT,Centro-Oeste,MT,Centro-Oeste,Intrarregional,Não,160.0,Curta (até 800 km),Não,Fora do top 25
+SSOU-SWTS,SSOU,SWTS,MT,Centro-Oeste,MT,Centro-Oeste,Intrarregional,Não,544.0,Curta (até 800 km),Não,Fora do top 25
+SSSB-SSZR,SSSB,SSZR,RS,Sul,RS,Sul,Intrarregional,Não,170.0,Curta (até 800 km),Não,Fora do top 25
+SSUM-SSVL,SSUM,SSVL,PR,Sul,PR,Sul,Intrarregional,Não,276.0,Curta (até 800 km),Não,Fora do top 25
+SSUV-SSVL,SSUV,SSVL,PR,Sul,PR,Sul,Intrarregional,Não,217.0,Curta (até 800 km),Não,Fora do top 25
+STM-SWPI,STM,SWPI,PA,Norte,AM,Norte,Intrarregional,Não,222.0,Curta (até 800 km),Não,Fora do top 25
+SWBG-SWTS,SWBG,SWTS,MT,Centro-Oeste,MT,Centro-Oeste,Intrarregional,Não,217.0,Curta (até 800 km),Não,Fora do top 25
+SWBR-SWMW,SWBR,SWMW,AM,Norte,AM,Norte,Intrarregional,Não,240.0,Curta (até 800 km),Não,Fora do top 25
+SWCA-SWKO,SWCA,SWKO,AM,Norte,AM,Norte,Intrarregional,Não,425.0,Curta (até 800 km),Não,Fora do top 25
+SWEK-SWHP,SWEK,SWHP,MT,Centro-Oeste,MT,Centro-Oeste,Intrarregional,Não,51.0,Curta (até 800 km),Não,Fora do top 25
+SWEK-SWPY,SWEK,SWPY,MT,Centro-Oeste,MT,Centro-Oeste,Intrarregional,Não,314.0,Curta (até 800 km),Não,Fora do top 25
+SWFX-SWGI,SWFX,SWGI,MT,Centro-Oeste,TO,Norte,Inter-regional,Não,170.0,Curta (até 800 km),Não,Fora do top 25
+SWFX-SWHP,SWFX,SWHP,MT,Centro-Oeste,MT,Centro-Oeste,Intrarregional,Não,309.0,Curta (até 800 km),Não,Fora do top 25
+SWFX-SWPH,SWFX,SWPH,MT,Centro-Oeste,MT,Centro-Oeste,Intrarregional,Não,429.0,Curta (até 800 km),Não,Fora do top 25
+SWHP-SWPY,SWHP,SWPY,MT,Centro-Oeste,MT,Centro-Oeste,Intrarregional,Não,291.0,Curta (até 800 km),Não,Fora do top 25
+SWJN-SWTS,SWJN,SWTS,MT,Centro-Oeste,MT,Centro-Oeste,Intrarregional,Não,386.0,Curta (até 800 km),Não,Fora do top 25
+SWKO-SWLB,SWKO,SWLB,AM,Norte,AM,Norte,Intrarregional,Não,392.0,Curta (até 800 km),Não,Fora do top 25
+SWKO-SWTP,SWKO,SWTP,AM,Norte,AM,Norte,Intrarregional,Não,464.0,Curta (até 800 km),Não,Fora do top 25
+SWLC-UDI,SWLC,UDI,GO,Centro-Oeste,MG,Sudeste,Inter-regional,Não,311.0,Curta (até 800 km),Não,Fora do top 25
+SWMW-SWPI,SWMW,SWPI,AM,Norte,AM,Norte,Intrarregional,Não,129.0,Curta (até 800 km),Não,Fora do top 25
+UBA-UDI,UBA,UDI,MG,Sudeste,MG,Sudeste,Intrarregional,Não,102.0,Curta (até 800 km),Não,Fora do top 25
+UDI-VDC,UDI,VDC,MG,Sudeste,BA,Nordeste,Inter-regional,Não,894.0,Média (800 a 1.600 km),Não,Fora do top 25
+UDI-VIX,UDI,VIX,MG,Sudeste,ES,Sudeste,Intrarregional,Não,846.0,Média (800 a 1.600 km),Não,Fora do top 25

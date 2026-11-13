@@ -1,0 +1,121 @@
+table dMercado
+	lineageTag: cdecabe0-a0fd-418e-8be5-92db5fc7726a
+
+	column Mercado
+		dataType: string
+		lineageTag: 2bd2aca4-1bc7-4c6b-b215-1947398c7b99
+		summarizeBy: none
+		sourceColumn: Mercado
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Cidade A'
+		dataType: string
+		lineageTag: 0d54816a-0775-4503-a558-65f65ba5e202
+		summarizeBy: none
+		sourceColumn: Cidade A
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Cidade B'
+		dataType: string
+		lineageTag: e0553b9b-4e24-4c31-8b2a-8eaf8d29db7f
+		summarizeBy: none
+		sourceColumn: Cidade B
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'UF A'
+		dataType: string
+		lineageTag: 75a1ed02-f7e7-450b-9e3a-4a008680c2f5
+		summarizeBy: none
+		sourceColumn: UF A
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Região A'
+		dataType: string
+		lineageTag: 844c7ddf-e5f2-4056-b440-a21abdc75fbb
+		summarizeBy: none
+		sourceColumn: Região A
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'UF B'
+		dataType: string
+		lineageTag: 0416d0ab-745b-47d8-942e-7b906bac6dd5
+		summarizeBy: none
+		sourceColumn: UF B
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Região B'
+		dataType: string
+		lineageTag: 763c1758-e656-4b13-99b3-1dffe40ca398
+		summarizeBy: none
+		sourceColumn: Região B
+
+		annotation SummarizationSetBy = Automatic
+
+	column Tipo
+		dataType: string
+		lineageTag: bd992e53-e8a8-463b-9d60-d6b9d2d67bf4
+		summarizeBy: none
+		sourceColumn: Tipo
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Conecta SAO'
+		dataType: string
+		lineageTag: bf502cdf-a9a0-45ac-9fad-f509df9e5dc1
+		summarizeBy: none
+		sourceColumn: Conecta SAO
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Distância média (km)'
+		dataType: double
+		isHidden
+		formatString: #,0
+		lineageTag: 1ae4a0a7-1b0d-4d49-a721-5c8bc6cb6b82
+		summarizeBy: none
+		sourceColumn: Distância média (km)
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Faixa de distância'
+		dataType: string
+		lineageTag: ced34b25-184f-4cbe-b8bc-d7e258e65d78
+		summarizeBy: none
+		sourceColumn: Faixa de distância
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Top 25 GOL'
+		dataType: string
+		lineageTag: b0bdc491-14ca-4d43-bd2b-62937808ffa9
+		summarizeBy: none
+		sourceColumn: Top 25 GOL
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Quadrante GOL (jan a set 26)'
+		dataType: string
+		lineageTag: 51798dfc-205b-4a85-ac24-6151228ba3f2
+		summarizeBy: none
+		sourceColumn: Quadrante GOL (jan a set 26)
+
+		annotation SummarizationSetBy = Automatic
+
+	partition dMercado = m
+		mode: import
+		source =
+				let
+				    Fonte = Csv.Document(File.Contents(PastaDados & "dMercado.csv"), [Delimiter = ",", Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+				    Cabecalho = Table.PromoteHeaders(Fonte, [PromoteAllScalars = true]),
+				    Tipos = Table.TransformColumnTypes(Cabecalho, {{"Mercado", type text}, {"Cidade A", type text}, {"Cidade B", type text}, {"UF A", type text}, {"Região A", type text}, {"UF B", type text}, {"Região B", type text}, {"Tipo", type text}, {"Conecta SAO", type text}, {"Distância média (km)", type number}, {"Faixa de distância", type text}, {"Top 25 GOL", type text}, {"Quadrante GOL (jan a set 26)", type text}}, "en-US")
+				in
+				    Tipos
+
+	annotation PBI_ResultType = Table
+

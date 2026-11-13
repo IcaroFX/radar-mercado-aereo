@@ -1,0 +1,30 @@
+model Model
+	culture: pt-BR
+	defaultPowerBIDataSourceVersion: powerBI_V3
+	sourceQueryCulture: pt-BR
+	dataAccessOptions
+		legacyRedirects
+		returnErrorValuesAsNull
+
+annotation __PBI_TimeIntelligenceEnabled = 0
+
+annotation PBI_QueryOrder = ["PastaDados", "_Medidas", "fVoos", "dCia", "dMercado", "dAeroporto", "fForecast", "fBacktest", "fCenarios", "fPremissas", "fTestLearn"]
+
+annotation PBI_ProTooling = ["DevMode"]
+
+ref table _Medidas
+ref table fVoos
+ref table dCalendario
+ref table dCia
+ref table dMercado
+ref table dAeroporto
+ref table fForecast
+ref table fBacktest
+ref table fCenarios
+ref table fPremissas
+ref table fTestLearn
+ref table 'Cenário crescimento'
+ref table 'Cenário share'
+
+ref cultureInfo pt-BR
+

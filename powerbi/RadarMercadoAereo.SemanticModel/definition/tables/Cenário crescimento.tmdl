@@ -1,0 +1,18 @@
+table 'Cenário crescimento'
+	lineageTag: 5b5f2f7b-e3e8-4acd-8c3b-026e3df260ae
+
+	column 'Crescimento 2027'
+		dataType: double
+		formatString: +0.0%;-0.0%;0.0%
+		lineageTag: 6b686285-4a88-4d13-bde8-d031cd626eac
+		summarizeBy: none
+		sourceColumn: [Crescimento 2027]
+
+		annotation SummarizationSetBy = Automatic
+
+	partition 'Cenário crescimento' = calculated
+		mode: import
+		source = SELECTCOLUMNS ( GENERATESERIES ( -0.02, 0.12, 0.005 ), "Crescimento 2027", ROUND ( [Value], 3 ) )
+
+	annotation PBI_Id = 5f3b7aaff2a84acf8e37c8115b4fdc57
+

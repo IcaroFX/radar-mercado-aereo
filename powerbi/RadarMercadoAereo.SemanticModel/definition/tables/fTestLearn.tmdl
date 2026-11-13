@@ -1,0 +1,71 @@
+table fTestLearn
+	lineageTag: 96c13f09-00e6-4670-9fdb-db11ffe2c961
+
+	column Teste
+		dataType: string
+		lineageTag: 8c80278e-3c98-422c-9fa2-ec49ec5541d3
+		summarizeBy: none
+		sourceColumn: Teste
+
+		annotation SummarizationSetBy = Automatic
+
+	column Controle
+		dataType: string
+		lineageTag: 1bbabd7b-2288-4a49-9ef9-56d721e5fad5
+		summarizeBy: none
+		sourceColumn: Controle
+
+		annotation SummarizationSetBy = Automatic
+
+	column Correlacao
+		dataType: double
+		isHidden
+		formatString: 0.00
+		lineageTag: f286967a-29ed-4706-acc7-8bc0681d3aa6
+		summarizeBy: none
+		sourceColumn: Correlacao
+
+		annotation SummarizationSetBy = Automatic
+
+	column GapOfertaPP
+		dataType: double
+		isHidden
+		formatString: +0.0;-0.0
+		lineageTag: 54fbbf18-3f92-40a2-b427-decabab173d9
+		summarizeBy: none
+		sourceColumn: GapOfertaPP
+
+		annotation SummarizationSetBy = Automatic
+
+	column LFGOLTeste
+		dataType: double
+		isHidden
+		formatString: 0.0%
+		lineageTag: 9e5e9eb8-82b6-4d13-873d-347802e5069f
+		summarizeBy: none
+		sourceColumn: LFGOLTeste
+
+		annotation SummarizationSetBy = Automatic
+
+	column LFMercadoTeste
+		dataType: double
+		isHidden
+		formatString: 0.0%
+		lineageTag: 42343894-eaec-4683-84c3-73723a8a4d9e
+		summarizeBy: none
+		sourceColumn: LFMercadoTeste
+
+		annotation SummarizationSetBy = Automatic
+
+	partition fTestLearn = m
+		mode: import
+		source =
+				let
+				    Fonte = Csv.Document(File.Contents(PastaDados & "fTestLearn.csv"), [Delimiter = ",", Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+				    Cabecalho = Table.PromoteHeaders(Fonte, [PromoteAllScalars = true]),
+				    Tipos = Table.TransformColumnTypes(Cabecalho, {{"Teste", type text}, {"Controle", type text}, {"Correlacao", type number}, {"GapOfertaPP", type number}, {"LFGOLTeste", type number}, {"LFMercadoTeste", type number}}, "en-US")
+				in
+				    Tipos
+
+	annotation PBI_ResultType = Table
+

@@ -1,0 +1,5 @@
+Modelo,MAPE,Vies,Escolhido
+Tendência log-linear (2023+),0.041038,-0.029835,Sim
+Tendência log-linear (24m),0.048827,0.002082,Não
+Ingênuo sazonal,0.076527,-0.075697,Não
+Ingênuo sazonal + crescimento 12m,0.058479,-0.008497,Não

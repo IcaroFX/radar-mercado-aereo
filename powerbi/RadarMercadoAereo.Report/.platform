@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "RadarMercadoAereo"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "85e2f628-2c5d-4abc-be38-d975b3ca35a9"
+  }
+}

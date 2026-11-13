@@ -1,0 +1,41 @@
+table dCia
+	lineageTag: b3699c35-ee63-402c-85f3-cee8eec82af1
+
+	column Cia
+		dataType: string
+		lineageTag: 23695abb-d5c8-4961-ad84-cfdd42738aeb
+		summarizeBy: none
+		sourceColumn: Cia
+
+		annotation SummarizationSetBy = Automatic
+
+	column Ordem
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: c6982695-44a2-4aab-8635-7a69a3392dd4
+		summarizeBy: none
+		sourceColumn: Ordem
+
+		annotation SummarizationSetBy = Automatic
+
+	column Cor
+		dataType: string
+		lineageTag: 7c0e9510-753f-4e99-a86d-c28fe3881f12
+		summarizeBy: none
+		sourceColumn: Cor
+
+		annotation SummarizationSetBy = Automatic
+
+	partition dCia = m
+		mode: import
+		source =
+				let
+				    Fonte = Csv.Document(File.Contents(PastaDados & "dCia.csv"), [Delimiter = ",", Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+				    Cabecalho = Table.PromoteHeaders(Fonte, [PromoteAllScalars = true]),
+				    Tipos = Table.TransformColumnTypes(Cabecalho, {{"Cia", type text}, {"Ordem", Int64.Type}, {"Cor", type text}}, "en-US")
+				in
+				    Tipos
+
+	annotation PBI_ResultType = Table
+

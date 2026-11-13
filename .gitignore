@@ -1,0 +1,7 @@
+# dados brutos da ANAC (361 MB): baixe pelo portal de dados abertos, veja o README
+data_raw/
+# caches intermediários
+out/_*.pkl
+__pycache__/
+# rascunho pessoal do post e da mensagem ao recrutador
+POST_LINKEDIN.md

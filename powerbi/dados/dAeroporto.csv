@@ -1,0 +1,256 @@
+Aeroporto,Nome,UF,Regiao,Cidade
+SBAX,Araxá,MG,Sudeste,SBAX
+PLU,Belo Horizonte,MG,Sudeste,BHZ
+GVR,Governador Valadares,MG,Sudeste,GVR
+SBIP,Santana Do Paraíso,MG,Sudeste,SBIP
+SBPC,Poços De Caldas,MG,Sudeste,SBPC
+SBVG,Varginha,MG,Sudeste,SBVG
+SNAR,Almenara,MG,Sudeste,SNAR
+SNCT,Ubaporanga,MG,Sudeste,SNCT
+SNDT,Diamantina,MG,Sudeste,SNDT
+SNJM,Manhuaçu,MG,Sudeste,SNJM
+SNOS,Passos,MG,Sudeste,SNOS
+SNPD,Patos De Minas,MG,Sudeste,SNPD
+SNPJ,Patrocínio,MG,Sudeste,SNPJ
+SNTO,Teófilo Otoni,MG,Sudeste,SNTO
+SNUH,Piumhi,MG,Sudeste,SNUH
+SNUI,Araçuaí,MG,Sudeste,SNUI
+SNVC,Viçosa,MG,Sudeste,SNVC
+SNZA,Pouso Alegre,MG,Sudeste,SNZA
+SNGX,Guaxupé,MG,Sudeste,SNGX
+BEL,Belém,PA,Norte,BEL
+CGB,Várzea Grande,MT,Centro-Oeste,CGB
+MAO,Manaus,AM,Norte,MAO
+SBMD,Almeirim,PA,Norte,SBMD
+UDI,Uberlândia,MG,Sudeste,UDI
+SNMZ,Porto De Moz,PA,Norte,SNMZ
+SNVS,Breves,PA,Norte,SNVS
+SNYA,Almeirim,PA,Norte,SNYA
+SWHP,Água Boa,MT,Centro-Oeste,SWHP
+SWJN,Juína,MT,Centro-Oeste,SWJN
+SWMW,Maués,AM,Norte,SWMW
+SWPI,Parintins,AM,Norte,SWPI
+SWTS,Tangará Da Serra,MT,Centro-Oeste,SWTS
+SBAU,Araçatuba,SP,Sudeste,SBAU
+SBDN,Presidente Prudente,SP,Sudeste,SBDN
+RAO,Ribeirão Preto,SP,Sudeste,RAO
+SJP,São José Do Rio Preto,SP,Sudeste,SJP
+SWFX,São Félix Do Araguaia,MT,Centro-Oeste,SWFX
+SSOU,Aripuanã,MT,Centro-Oeste,SSOU
+SBBG,Bagé,RS,Sul,SBBG
+POA,Porto Alegre,RS,Sul,POA
+SSZR,Santa Rosa,RS,Sul,SSZR
+CWB,São José Dos Pinhais,PR,Sul,CWB
+SBJR,Rio De Janeiro,RJ,Sudeste,SBJR
+LDB,Londrina,PR,Sul,LDB
+CGH,São Paulo,SP,Sudeste,SAO
+SIMK,Franca,SP,Sudeste,SIMK
+SNBA,Barretos,SP,Sudeste,SNBA
+SSCP,Cornélio Procópio,PR,Sul,SSCP
+SSCT,Cianorte,PR,Sul,SSCT
+SSFB,Francisco Beltrão,PR,Sul,SSFB
+SSGY,Guaíra,PR,Sul,SSGY
+SSKM,Campo Mourão,PR,Sul,SSKM
+SSOG,Arapongas,PR,Sul,SSOG
+SSPG,Paranaguá,PR,Sul,SSPG
+SSPI,Paranavaí,PR,Sul,SSPI
+SSUV,União Da Vitória,PR,Sul,SSUV
+SSVL,Telêmaco Borba,PR,Sul,SSVL
+SJRG,Rio Grande,RS,Sul,SJRG
+SSSB,São Borja,RS,Sul,SSSB
+QDV,Jundiaí,SP,Sudeste,QDV
+PFB,Passo Fundo,RS,Sul,PFB
+SDU,Rio De Janeiro,RJ,Sudeste,RIO
+SBAE,Arealva,SP,Sudeste,SBAE
+AJU,Aracaju,SE,Nordeste,AJU
+SBAT,Alta Floresta,MT,Centro-Oeste,SBAT
+BSB,Brasília,DF,Centro-Oeste,BSB
+BVB,Boa Vista,RR,Norte,BVB
+SBBW,Barra Do Garças,MT,Centro-Oeste,SBBW
+CAC,Cascavel,PR,Sul,CAC
+SBCB,Cabo Frio,RJ,Sudeste,SBCB
+CNF,Confins,MG,Sudeste,BHZ
+CGR,Campo Grande,MS,Centro-Oeste,CGR
+XAP,Chapecó,SC,Sul,XAP
+SBCJ,Parauapebas,PA,Norte,SBCJ
+SBCN,Caldas Novas,GO,Centro-Oeste,SBCN
+SBCP,Campos Dos Goytacazes,RJ,Sudeste,SBCP
+SBCR,Corumbá,MS,Centro-Oeste,SBCR
+CXJ,Caxias Do Sul,RS,Sul,CXJ
+SBDB,Bonito,MS,Centro-Oeste,SBDB
+SBDO,Dourados,MS,Centro-Oeste,SBDO
+IGU,Foz Do Iguaçu,PR,Sul,IGU
+FLN,Florianópolis,SC,Sul,FLN
+FEN,Fernando De Noronha,PE,Nordeste,FEN
+FOR,Fortaleza,CE,Nordeste,FOR
+GIG,Rio De Janeiro,RJ,Sudeste,RIO
+GYN,Goiânia,GO,Centro-Oeste,GYN
+GRU,Guarulhos,SP,Sudeste,SAO
+SBHT,Altamira,PA,Norte,SBHT
+IOS,Ilhéus,BA,Nordeste,IOS
+IMP,Imperatriz,MA,Nordeste,IMP
+JJG,Jaguaruna,SC,Sul,JJG
+SBJE,Cruz,CE,Nordeste,SBJE
+SBJI,Ji-Paraná,RO,Norte,SBJI
+JPA,Santa Rita,PB,Nordeste,JPA
+JDO,Juazeiro Do Norte,CE,Nordeste,JDO
+JOI,Joinville,SC,Sul,JOI
+CPV,Campina Grande,PB,Nordeste,CPV
+VCP,Campinas,SP,Sudeste,SAO
+SBLE,Lençóis,BA,Nordeste,SBLE
+SBLJ,Lages,SC,Sul,SBLJ
+MAB,Marabá,PA,Norte,MAB
+MGF,Maringá,PR,Sul,MGF
+MOC,Montes Claros,MG,Sudeste,MOC
+SBML,Marília,SP,Sudeste,SBML
+MCZ,Rio Largo,AL,Nordeste,MCZ
+MCP,Macapá,AP,Norte,MCP
+SBMS,Mossoró,RN,Nordeste,SBMS
+NVT,Navegantes,SC,Sul,NVT
+SBNM,Santo Ângelo,RS,Sul,SBNM
+SBPB,Parnaíba,PI,Nordeste,SBPB
+SBPG,Ponta Grossa,PR,Sul,SBPG
+PMW,Palmas,TO,Norte,PMW
+SBPK,Pelotas,RS,Sul,SBPK
+PNZ,Petrolina,PE,Nordeste,PNZ
+BPS,Porto Seguro,BA,Nordeste,BPS
+PVH,Porto Velho,RO,Norte,PVH
+SBQV,Vitória Da Conquista,BA,Nordeste,SBQV
+SBRD,Rondonópolis,MT,Centro-Oeste,SBRD
+REC,Recife,PE,Nordeste,REC
+NAT,São Gonçalo Do Amarante,RN,Nordeste,NAT
+OPS,Sinop,MT,Centro-Oeste,OPS
+SBSJ,São José Dos Campos,SP,Sudeste,SBSJ
+SLZ,São Luís,MA,Nordeste,SLZ
+SBSM,Santa Maria,RS,Sul,SBSM
+STM,Santarém,PA,Norte,STM
+SBSO,Sorriso,MT,Centro-Oeste,SBSO
+SSA,Salvador,BA,Nordeste,SSA
+THE,Teresina,PI,Nordeste,THE
+SBTF,Tefé,AM,Norte,SBTF
+SBTG,Três Lagoas,MS,Centro-Oeste,SBTG
+SBTT,Tabatinga,AM,Norte,SBTT
+SBUF,Paulo Afonso,BA,Nordeste,SBUF
+SBUG,Uruguaiana,RS,Sul,SBUG
+UBA,Uberaba,MG,Sudeste,UBA
+SBVH,Vilhena,RO,Norte,SBVH
+VIX,Vitória,ES,Sudeste,VIX
+SBZM,Goianá,MG,Sudeste,SBZM
+SDIY,Feira De Santana,BA,Nordeste,SDIY
+SNBR,Barreiras,BA,Nordeste,SNBR
+SNTF,Teixeira De Freitas,BA,Nordeste,SNTF
+SNVB,Valença,BA,Nordeste,SNVB
+SSKW,Cacoal,RO,Norte,SSKW
+SWLC,Rio Verde,GO,Centro-Oeste,SWLC
+SBPO,Pato Branco,PR,Sul,SBPO
+SBTD,Toledo,PR,Sul,SBTD
+SNAT,Aracati,CE,Nordeste,SNAT
+VDC,Vitória Da Conquista,BA,Nordeste,VDC
+SBAQ,Araraquara,SP,Sudeste,SBAQ
+SBME,Macaé,RJ,Sudeste,SBME
+SBCZ,Cruzeiro Do Sul,AC,Norte,SBCZ
+RBR,Rio Branco,AC,Norte,RBR
+SBIH,Itaituba,PA,Norte,SBIH
+SBTB,Oriximiná,PA,Norte,SBTB
+SBUA,São Gabriel Da Cachoeira,AM,Norte,SBUA
+SWBC,Barcelos,AM,Norte,SWBC
+SWCA,Carauari,AM,Norte,SWCA
+SWEI,Eirunepé,AM,Norte,SWEI
+SWKO,Coari,AM,Norte,SWKO
+SWLB,Lábrea,AM,Norte,SWLB
+SWGN,Araguaína,TO,Norte,SWGN
+SBTC,Una,BA,Nordeste,SBTC
+SBAC,Aracati,CE,Nordeste,SBAC
+SDZG,Tauá,CE,Nordeste,SDZG
+SNIG,Iguatu,CE,Nordeste,SNIG
+SNOB,Sobral,CE,Nordeste,SNOB
+SNWS,Crateús,CE,Nordeste,SNWS
+SWBE,São Benedito,CE,Nordeste,SWBE
+SBJC,Belém,PA,Norte,SBJC
+SDWQ,Alenquer,PA,Norte,SDWQ
+SJHG,Confresa,MT,Centro-Oeste,SJHG
+SNMA,Monte Alegre,PA,Norte,SNMA
+SNOX,Oriximiná,PA,Norte,SNOX
+SNRJ,Juruti,PA,Norte,SNRJ
+SNTI,Óbidos,PA,Norte,SNTI
+SNTS,Patos,PB,Nordeste,SNTS
+SBMT,São Paulo,SP,Sudeste,SBMT
+SDAG,Angra Dos Reis,RJ,Sudeste,SDAG
+SNHS,Serra Talhada,PE,Nordeste,SNHS
+SNRU,Caruaru,PE,Nordeste,SNRU
+SBTU,Tucuruí,PA,Norte,SBTU
+SDIM,Itanhaém,SP,Sudeste,SDIM
+SDTK,Paraty,RJ,Sudeste,SDTK
+SDUB,Ubatuba,SP,Sudeste,SDUB
+SNGA,Guarapari,ES,Sudeste,SNGA
+SSCN,Canela,RS,Sul,SSCN
+SSTE,Torres,RS,Sul,SSTE
+SSGG,Guarapuava,PR,Sul,SSGG
+SDSC,São Carlos,SP,Sudeste,SDSC
+SDNM,Nova Mutum,MT,Centro-Oeste,SDNM
+SIZX,Juara,MT,Centro-Oeste,SIZX
+SWBG,Pontes E Lacerda,MT,Centro-Oeste,SWBG
+SWEK,Canarana,MT,Centro-Oeste,SWEK
+SWPY,Primavera Do Leste,MT,Centro-Oeste,SWPY
+SILC,Lucas Do Rio Verde,MT,Centro-Oeste,SILC
+SIRI,Maraú,BA,Nordeste,SIRI
+SNCL,Cairu,BA,Nordeste,SNCL
+SDCO,Sorocaba,SP,Sudeste,SDCO
+SNEE,Vacaria,RS,Sul,SNEE
+SSER,Erechim,RS,Sul,SSER
+SSLT,Alegrete,RS,Sul,SSLT
+SSSC,Santa Cruz Do Sul,RS,Sul,SSSC
+SWPH,Barra Do Garças,MT,Centro-Oeste,SWPH
+SDH2,Porto Alegre Do Norte,MT,Centro-Oeste,SDH2
+SNEB,Paragominas,PA,Norte,SNEB
+SWGI,Gurupi,TO,Norte,SWGI
+SBCD,Caçador,SC,Sul,SBCD
+SSAP,Apucarana,PR,Sul,SSAP
+SSOE,São Miguel Do Oeste,SC,Sul,SSOE
+SNCP,Correia Pinto,SC,Sul,SNCP
+SNGI,Guanambi,BA,Nordeste,SNGI
+SBNT,Parnamirim,RN,Nordeste,SBNT
+SBUY,Coari,AM,Norte,SBUY
+SISO,Chaves,PA,Norte,SISO
+SSUM,Umuarama,PR,Sul,SSUM
+SNSM,Salinópolis,PA,Norte,SNSM
+SNGN,Garanhuns,PE,Nordeste,SNGN
+SSRS,Barreirinhas,MA,Nordeste,SSRS
+SIFC,Igarassu,PE,Nordeste,SIFC
+SNAB,Araripina,PE,Nordeste,SNAB
+SSBZ,Armação Dos Búzios,RJ,Sudeste,SSBZ
+SBBP,Bragança Paulista,SP,Sudeste,SBBP
+SBMY,Manicoré,AM,Norte,SBMY
+SNZR,Paracatu,MG,Sudeste,SNZR
+SWBR,Borba,AM,Norte,SWBR
+SWTP,Santa Isabel Do Rio Negro,AM,Norte,SWTP
+SWYN,Apuí,AM,Norte,SWYN
+SBPP,Ponta Porã,MS,Centro-Oeste,SBPP
+SWKQ,São Raimundo Nonato,PI,Nordeste,SWKQ
+SDLO,Cairu,BA,Nordeste,SDLO
+SJQV,Novo Aripuanã,AM,Norte,SJQV
+SWLV,Santo Antônio Do Leverger,MT,Centro-Oeste,SWLV
+SJZA,Cajazeiras,PB,Nordeste,SJZA
+SN6L,Sobral,CE,Nordeste,SN6L
+SDCG,São Paulo De Olivença,AM,Norte,SDCG
+SNLN,Linhares,ES,Sudeste,SNLN
+SNSS,Salinas,MG,Sudeste,SNSS
+SIUA,Viamão,RS,Sul,SIUA
+SIXE,Eldorado Do Sul,RS,Sul,SIXE
+SSBN,Porto Alegre,RS,Sul,SSBN
+SDOW,Ourilândia Do Norte,PA,Norte,SDOW
+SDJV,São João Da Boa Vista,SP,Sudeste,SDJV
+SBOI,Oiapoque,AP,Norte,SBOI
+SBMI,Maricá,RJ,Sudeste,SBMI
+SNDV,Divinópolis,MG,Sudeste,SNDV
+SBCO,Canoas,RS,Sul,SBCO
+SD12,Santana Do Araguaia,PA,Norte,SD12
+SNJR,São João Del Rei,MG,Sudeste,SNJR
+SBBU,Bauru,SP,Sudeste,SBBU
+SNCX,Colatina,ES,Sudeste,SNCX
+SWNS,Anápolis,GO,Centro-Oeste,SWNS
+SSOK,Londrina,PR,Sul,SSOK
+SSBL,Blumenau,SC,Sul,SSBL
+SSQO,Setubinha,MG,Sudeste,SSQO
+SDTF,Tatuí,SP,Sudeste,SDTF
+SBAA,Conceição Do Araguaia,PA,Norte,SBAA

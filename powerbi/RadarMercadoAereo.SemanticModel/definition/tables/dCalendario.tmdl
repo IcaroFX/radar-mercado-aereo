@@ -1,0 +1,88 @@
+table dCalendario
+	lineageTag: eed9b40a-9356-48d7-adfd-da9204b4c3d5
+	dataCategory: Time
+
+	column Data
+		dataType: dateTime
+		isKey
+		formatString: dd/mm/yyyy
+		lineageTag: 263cbbb6-4b0b-4c0d-a100-d1ecd7aa646d
+		summarizeBy: none
+		sourceColumn: [Data]
+
+		annotation SummarizationSetBy = Automatic
+
+	column Ano
+		dataType: int64
+		formatString: 0
+		lineageTag: 49598c5b-fd25-4f9f-9308-fe1dbbb1befc
+		summarizeBy: none
+		sourceColumn: [Ano]
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Mês Num'
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: 8e7ec483-deee-4a8f-9c9e-9823a31206a3
+		summarizeBy: none
+		sourceColumn: [Mês Num]
+
+		annotation SummarizationSetBy = Automatic
+
+	column Mês
+		dataType: string
+		lineageTag: 0a6ed99d-359a-414e-b46d-ebe1825e6686
+		summarizeBy: none
+		sourceColumn: [Mês]
+		sortByColumn: 'Mês Num'
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Início do mês'
+		dataType: dateTime
+		formatString: mmm/yy
+		lineageTag: 9673c2c4-e365-4275-b1da-8a28bb58db35
+		summarizeBy: none
+		sourceColumn: [Início do mês]
+
+		annotation SummarizationSetBy = Automatic
+
+	column AnoMes
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: 8e01375c-d8d1-4674-a69e-bbba929d6d57
+		summarizeBy: none
+		sourceColumn: [AnoMes]
+
+		annotation SummarizationSetBy = Automatic
+
+	column Mês/Ano
+		dataType: string
+		lineageTag: 630a16c5-b411-407b-8045-76080882b3dd
+		summarizeBy: none
+		sourceColumn: [Mês/Ano]
+		sortByColumn: AnoMes
+
+		annotation SummarizationSetBy = Automatic
+
+	partition dCalendario = calculated
+		mode: import
+		source =
+				VAR base = SELECTCOLUMNS ( CALENDAR ( DATE ( 2019, 1, 1 ), DATE ( 2027, 12, 31 ) ), "Data", [Date] )
+				VAR nomes = "janfevmarabrmaijunjulagosetoutnovdez"
+				RETURN
+				    ADDCOLUMNS (
+				        base,
+				        "Ano", YEAR ( [Data] ),
+				        "Mês Num", MONTH ( [Data] ),
+				        "Mês", MID ( nomes, ( MONTH ( [Data] ) - 1 ) * 3 + 1, 3 ),
+				        "Início do mês", DATE ( YEAR ( [Data] ), MONTH ( [Data] ), 1 ),
+				        "AnoMes", YEAR ( [Data] ) * 100 + MONTH ( [Data] ),
+				        "Mês/Ano", MID ( nomes, ( MONTH ( [Data] ) - 1 ) * 3 + 1, 3 ) & "/" & RIGHT ( YEAR ( [Data] ), 2 )
+				    )
+
+	annotation PBI_Id = 7e93f21591574f52a8fa470819e98342
+

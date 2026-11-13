@@ -1,0 +1,459 @@
+table _Medidas
+	lineageTag: 7f8a54ea-0810-42d5-82d2-f9b84d8da01c
+
+	measure Passageiros = SUM ( fVoos[Passageiros] )
+		formatString: #,0
+		displayFolder: 1. Volume
+		lineageTag: 8fe9b8a9-12e7-4854-b943-0770817ba33f
+
+	measure 'Passageiros (mi)' = DIVIDE ( [Passageiros], 1000000 )
+		formatString: 0.0" mi"
+		displayFolder: 1. Volume
+		lineageTag: ff1f95b3-0345-4cb0-8e8a-a8c23f07cf12
+
+	measure Assentos = SUM ( fVoos[Assentos] )
+		formatString: #,0
+		displayFolder: 1. Volume
+		lineageTag: 3eb1a8cd-77c8-41c9-8d9d-14b796356124
+
+	measure ASK = SUM ( fVoos[ASK] )
+		formatString: #,0
+		displayFolder: 1. Volume
+		lineageTag: b3f5f47b-0319-431d-9ef0-bc2d5f95294b
+
+	measure RPK = SUM ( fVoos[RPK] )
+		formatString: #,0
+		displayFolder: 1. Volume
+		lineageTag: 6878cfd2-835d-4736-9213-7f451c74db0d
+
+	measure Decolagens = SUM ( fVoos[Decolagens] )
+		formatString: #,0
+		displayFolder: 1. Volume
+		lineageTag: 779e3762-bbb2-4aa8-9758-fd0e7b44e39d
+
+	measure 'Último mês com dados' = CALCULATE ( MAX ( fVoos[Data] ), REMOVEFILTERS () )
+		formatString: mmm/yyyy
+		displayFolder: 1. Volume
+		lineageTag: b2c6cc4b-afb0-4aab-b1eb-8a368c15bf29
+
+	measure 'Passageiros AA' = CALCULATE ( [Passageiros], SAMEPERIODLASTYEAR ( dCalendario[Data] ) )
+		formatString: #,0
+		displayFolder: 2. Ano anterior
+		lineageTag: 907fdc8d-f064-4be6-a79f-3363256c90d2
+
+	measure 'Assentos AA' = CALCULATE ( [Assentos], SAMEPERIODLASTYEAR ( dCalendario[Data] ) )
+		formatString: #,0
+		displayFolder: 2. Ano anterior
+		lineageTag: fbacf876-aace-4828-8aa2-d56af18508e4
+
+	measure 'ASK AA' = CALCULATE ( [ASK], SAMEPERIODLASTYEAR ( dCalendario[Data] ) )
+		formatString: #,0
+		displayFolder: 2. Ano anterior
+		lineageTag: 21144abc-dff8-4332-b99e-8c71924c0d4b
+
+	measure 'RPK AA' = CALCULATE ( [RPK], SAMEPERIODLASTYEAR ( dCalendario[Data] ) )
+		formatString: #,0
+		displayFolder: 2. Ano anterior
+		lineageTag: ae3c0e02-0029-4105-85d3-c7b75a87ed50
+
+	measure 'Cresc. Passageiros' = DIVIDE ( [Passageiros] - [Passageiros AA], [Passageiros AA] )
+		formatString: +0.0%;-0.0%;0.0%
+		displayFolder: 2. Ano anterior
+		lineageTag: 372af7e7-abfb-4e00-b7f6-f88e19db60c2
+
+	measure 'Cresc. ASK' = DIVIDE ( [ASK] - [ASK AA], [ASK AA] )
+		formatString: +0.0%;-0.0%;0.0%
+		displayFolder: 2. Ano anterior
+		lineageTag: 434a0e68-bb55-43e7-808e-d67f97568168
+
+	measure 'Cresc. RPK' = DIVIDE ( [RPK] - [RPK AA], [RPK AA] )
+		formatString: +0.0%;-0.0%;0.0%
+		displayFolder: 2. Ano anterior
+		lineageTag: b481f7c4-d623-4fcc-9269-fe9d4b2e77ff
+
+	measure 'Load Factor' = DIVIDE ( [RPK], [ASK] )
+		formatString: 0.0%
+		displayFolder: 3. Ocupação
+		lineageTag: ea038286-d2e3-4c7b-9779-bc6089afd684
+
+	measure 'Load Factor AA' = DIVIDE ( [RPK AA], [ASK AA] )
+		formatString: 0.0%
+		displayFolder: 3. Ocupação
+		lineageTag: 1709d854-45cb-4b9d-b8a6-7121a6b6d2b7
+
+	measure 'Var. Load Factor (pp)' = IF ( NOT ISBLANK ( [Load Factor AA] ), ( [Load Factor] - [Load Factor AA] ) * 100 )
+		formatString: +0.0" pp";-0.0" pp";0.0" pp"
+		displayFolder: 3. Ocupação
+		lineageTag: 54a93cac-a220-4d60-9b3d-10253f66981c
+
+	measure 'Ocupação (pax/assento)' = DIVIDE ( [Passageiros], [Assentos] )
+		formatString: 0.0%
+		displayFolder: 3. Ocupação
+		lineageTag: 229677b4-ab5c-4006-8c1d-c6e6d0056ccf
+
+	measure 'Share RPK' = DIVIDE ( [RPK], CALCULATE ( [RPK], REMOVEFILTERS ( dCia ) ) )
+		formatString: 0.0%
+		displayFolder: 4. Share
+		lineageTag: d120b162-8bc6-4858-b5be-7e2af21a2c52
+
+	measure 'Share RPK AA' = DIVIDE ( [RPK AA], CALCULATE ( [RPK AA], REMOVEFILTERS ( dCia ) ) )
+		formatString: 0.0%
+		displayFolder: 4. Share
+		lineageTag: 8b164d15-d63f-4ba1-91bc-51b0bdfdaedd
+
+	measure 'Var. Share RPK (pp)' = IF ( NOT ISBLANK ( [Share RPK AA] ), ( [Share RPK] - [Share RPK AA] ) * 100 )
+		formatString: +0.0" pp";-0.0" pp";0.0" pp"
+		displayFolder: 4. Share
+		lineageTag: 2d557575-1ed3-4618-b8be-a121e15ec53d
+
+	measure 'Share RPK 12m' =
+			VAR fim = MAX ( dCalendario[Data] )
+			VAR periodo = DATESINPERIOD ( dCalendario[Data], fim, -12, MONTH )
+			RETURN
+			    IF (
+			        fim >= DATE ( 2019, 12, 1 ) && fim <= EOMONTH ( [Último mês com dados], 0 ),
+			        DIVIDE ( CALCULATE ( [RPK], periodo ), CALCULATE ( [RPK], periodo, REMOVEFILTERS ( dCia ) ) )
+			    )
+		formatString: 0.0%
+		displayFolder: 4. Share
+		lineageTag: bc43a2e4-ff6f-4210-ad88-46d81ef45823
+
+	measure 'Share Passageiros' = DIVIDE ( [Passageiros], CALCULATE ( [Passageiros], REMOVEFILTERS ( dCia ) ) )
+		formatString: 0.0%
+		displayFolder: 4. Share
+		lineageTag: 7f893a91-fb72-47f9-a79c-db301475f28f
+
+	measure 'Load Factor mensal' =
+			VAR fim = MAX ( dCalendario[Data] )
+			RETURN IF ( fim <= EOMONTH ( [Último mês com dados], 0 ), [Load Factor] )
+		formatString: 0.0%
+		displayFolder: 4. Share
+		lineageTag: 8d40f07f-9e64-4ea2-baa1-443b3034703a
+
+	measure 'Passageiros GOL' = CALCULATE ( [Passageiros], dCia[Cia] = "GOL" )
+		formatString: #,0
+		displayFolder: 5. GOL
+		lineageTag: 93a3c434-aae7-4653-9a94-c076c398a5fc
+
+	measure 'Share RPK GOL' = CALCULATE ( [Share RPK], dCia[Cia] = "GOL" )
+		formatString: 0.0%
+		displayFolder: 5. GOL
+		lineageTag: 32445d26-3530-4757-a64c-1e4eb78b4042
+
+	measure 'Var. Share RPK GOL (pp)' = CALCULATE ( [Var. Share RPK (pp)], dCia[Cia] = "GOL" )
+		formatString: +0.0" pp";-0.0" pp";0.0" pp"
+		displayFolder: 5. GOL
+		lineageTag: e9af700d-b34a-44b8-8c47-31dcb6fe00af
+
+	measure 'Cresc. ASK GOL' = CALCULATE ( [Cresc. ASK], dCia[Cia] = "GOL" )
+		formatString: +0.0%;-0.0%;0.0%
+		displayFolder: 5. GOL
+		lineageTag: 6cced50f-8c88-46ba-a562-a6dab8eeb5aa
+
+	measure 'Cresc. Passageiros GOL' = CALCULATE ( [Cresc. Passageiros], dCia[Cia] = "GOL" )
+		formatString: +0.0%;-0.0%;0.0%
+		displayFolder: 5. GOL
+		lineageTag: 35fb3627-3637-46ea-9190-8beed54192f1
+
+	measure 'Share GOL' = DIVIDE ( [Passageiros GOL], CALCULATE ( [Passageiros], REMOVEFILTERS ( dCia ) ) )
+		formatString: 0.0%
+		displayFolder: 5. GOL
+		lineageTag: 83bdd0d8-5c4d-4752-9103-003cc7d1a6d8
+
+	measure 'Share GOL AA' = DIVIDE ( CALCULATE ( [Passageiros AA], dCia[Cia] = "GOL" ), CALCULATE ( [Passageiros AA], REMOVEFILTERS ( dCia ) ) )
+		formatString: 0.0%
+		displayFolder: 5. GOL
+		lineageTag: c0d8308e-0bbc-4752-994b-20e068a2eeaa
+
+	measure 'Var. Share GOL (pp)' = IF ( NOT ISBLANK ( [Share GOL AA] ) && NOT ISBLANK ( [Share GOL] ), ( [Share GOL] - [Share GOL AA] ) * 100 )
+		formatString: +0.0" pp";-0.0" pp";0.0" pp"
+		displayFolder: 5. GOL
+		lineageTag: 60db982f-e85b-438a-8e17-ffa3ff587b9a
+
+	measure 'Share Assentos GOL' = DIVIDE ( CALCULATE ( [Assentos], dCia[Cia] = "GOL" ), CALCULATE ( [Assentos], REMOVEFILTERS ( dCia ) ) )
+		formatString: 0.0%
+		displayFolder: 5. GOL
+		lineageTag: 14c9052e-67ea-4317-8291-f6a368df13d4
+
+	measure 'Gap de Oferta GOL (pp)' = IF ( NOT ISBLANK ( [Passageiros GOL] ), ( [Share Assentos GOL] - [Share GOL] ) * 100 )
+		formatString: +0.0" pp";-0.0" pp";0.0" pp"
+		displayFolder: 5. GOL
+		lineageTag: ea9ac4ae-5431-4416-b9da-73b3e10e9a9c
+
+	measure 'LF GOL' = DIVIDE ( [Passageiros GOL], CALCULATE ( [Assentos], dCia[Cia] = "GOL" ) )
+		formatString: 0.0%
+		displayFolder: 5. GOL
+		lineageTag: c72f7e99-1b06-4bb2-840b-50ae325e1cdc
+
+	measure 'LF Mercado' = DIVIDE ( CALCULATE ( [Passageiros], REMOVEFILTERS ( dCia ) ), CALCULATE ( [Assentos], REMOVEFILTERS ( dCia ) ) )
+		formatString: 0.0%
+		displayFolder: 5. GOL
+		lineageTag: 61685ac4-34d0-4dd0-af4a-fe93de26dce4
+
+	measure 'LF GOL vs Mercado (pp)' = IF ( NOT ISBLANK ( [LF GOL] ), ( [LF GOL] - [LF Mercado] ) * 100 )
+		formatString: +0.0" pp";-0.0" pp";0.0" pp"
+		displayFolder: 5. GOL
+		lineageTag: 1324fca3-6dfa-4889-9c52-6837d24a4a90
+
+	measure 'Passageiros Mercado' = CALCULATE ( [Passageiros], REMOVEFILTERS ( dCia ) )
+		formatString: #,0
+		displayFolder: 6. Mercados
+		lineageTag: 52ffa844-93f3-4591-8a15-4c43da07e24f
+
+	measure 'Cresc. Mercado' = CALCULATE ( [Cresc. Passageiros], REMOVEFILTERS ( dCia ) )
+		formatString: +0.0%;-0.0%;0.0%
+		displayFolder: 6. Mercados
+		lineageTag: 71587541-5768-4ea7-a4bc-5557b85a0c6b
+
+	measure HHI =
+			VAR total = [Passageiros Mercado]
+			RETURN
+			    IF (
+			        total > 0,
+			        SUMX ( ALL ( dCia[Cia] ), VAR p = CALCULATE ( [Passageiros] ) RETURN DIVIDE ( p, total ) ^ 2 ) * 10000
+			    )
+		formatString: #,0
+		displayFolder: 6. Mercados
+		lineageTag: c849de6d-841e-4410-9eba-3d09f690fd94
+
+	measure Líder =
+			VAR t = ADDCOLUMNS ( ALL ( dCia[Cia] ), "@pax", CALCULATE ( [Passageiros] ) )
+			RETURN IF ( [Passageiros Mercado] > 0, MAXX ( TOPN ( 1, t, [@pax], DESC ), dCia[Cia] ) )
+		displayFolder: 6. Mercados
+		lineageTag: 4e9dbe2a-f875-4e0f-8ce0-06861f0282da
+
+	measure 'Quadrante GOL' =
+			VAR c = [Cresc. Mercado]
+			VAR d = [Var. Share GOL (pp)]
+			RETURN
+			    SWITCH (
+			        TRUE (),
+			        ISBLANK ( d ) || ISBLANK ( c ), BLANK (),
+			        c >= 0 && d >= 0, "Crescer junto",
+			        c >= 0, "Defender",
+			        d >= 0, "Consolidar",
+			        "Rever capacidade"
+			    )
+		displayFolder: 6. Mercados
+		lineageTag: 8d3b65d7-62b6-42a7-8afc-5ef0f9f31d17
+
+	measure 'Leitura do gap' =
+			VAR g = [Gap de Oferta GOL (pp)]
+			RETURN
+			    SWITCH (
+			        TRUE (),
+			        ISBLANK ( g ), BLANK (),
+			        g > 0.5, "Oferta acima da demanda: estimular venda ou ajustar capacidade",
+			        g < -0.5, "Ocupa acima do mercado: espaço para proteger tarifa",
+			        "Equilibrado"
+			    )
+		displayFolder: 6. Mercados
+		lineageTag: 1922768a-ba9d-4bd0-bcbe-138fcce16abe
+
+	measure 'Mercados a defender' = COUNTROWS ( FILTER ( VALUES ( dMercado[Mercado] ), [Quadrante GOL] = "Defender" ) )
+		formatString: #,0
+		displayFolder: 6. Mercados
+		lineageTag: 12849eff-5ba8-4d55-b974-a235542d2814
+
+	measure 'Cor Cia' = SWITCH ( SELECTEDVALUE ( dCia[Cia] ), "GOL", "#EB6834", "LATAM", "#1BAF7A", "Azul", "#2A78D6", "#A3A199" )
+		displayFolder: 9. Cores
+		lineageTag: 4e9d0377-b8a6-451d-ba80-a20399e8550c
+
+	measure 'Cor Gap' = IF ( [Gap de Oferta GOL (pp)] > 0, "#E34948", "#256ABF" )
+		displayFolder: 9. Cores
+		lineageTag: 5e287030-c792-4b42-8a3e-7fd02bffa70a
+
+	measure 'Cor Quadrante' = SWITCH ( [Quadrante GOL], "Crescer junto", "#1E8E5A", "Defender", "#E34948", "Consolidar", "#256ABF", "Rever capacidade", "#EDA100", "#898781" )
+		displayFolder: 9. Cores
+		lineageTag: 534c7d75-77ff-43ac-8e71-cd1e949de5f3
+
+	measure 'Cor Ano' = IF ( SELECTEDVALUE ( dCalendario[Ano] ) = YEAR ( [Último mês com dados] ), "#EB6834", "#C9C7BF" )
+		displayFolder: 9. Cores
+		lineageTag: 9e69716a-73c9-443d-b58d-e3d607b3d46f
+
+	measure 'Fundo Var. Share' =
+			VAR d = [Var. Share GOL (pp)]
+			RETURN SWITCH ( TRUE (), ISBLANK ( d ), BLANK (), d >= 1, "#CFEBDC", d > 0, "#EAF6EF", d <= -1, "#F9D3D2", "#FDECEC" )
+		displayFolder: 9. Cores
+		lineageTag: 21d7a75e-15b3-4b26-90fa-6f969bbbb0a1
+
+	measure 'Fundo Gap' =
+			VAR g = [Gap de Oferta GOL (pp)]
+			RETURN SWITCH ( TRUE (), ISBLANK ( g ), BLANK (), g > 0.5, "#F9D3D2", g < -0.5, "#D6E4F5", "#FFFFFF" )
+		displayFolder: 9. Cores
+		lineageTag: 5cd262f9-1356-4eb7-8027-8c074371db25
+
+	measure 'Insight Mercado' =
+			VAR cp = [Cresc. Passageiros]
+			VAR ca = [Cresc. ASK]
+			VAR dlf = [Var. Load Factor (pp)]
+			RETURN
+			    IF (
+			        ISBLANK ( cp ),
+			        "Selecione um ano com dados do ano anterior para ver a comparação.",
+			        FORMAT ( [Passageiros (mi)], "0.0" ) & " milhões de passageiros, " & FORMAT ( cp, "+0.0%;-0.0%" )
+			            & " sobre o mesmo período do ano anterior. A oferta (ASK) variou " & FORMAT ( ca, "+0.0%;-0.0%" )
+			            & IF (
+			                dlf < 0,
+			                ", acima da demanda, e a ocupação caiu " & FORMAT ( ABS ( dlf ), "0.0" ) & " pp.",
+			                " e a ocupação subiu " & FORMAT ( dlf, "0.0" ) & " pp."
+			            )
+			    )
+		displayFolder: 7. Insights
+		lineageTag: bf9cc73c-7776-4585-b0cf-c9f6d79b8274
+
+	measure 'Insight Share' =
+			VAR t = ADDCOLUMNS ( FILTER ( ALL ( dCia[Cia] ), dCia[Cia] <> "Outras" ), "@d", CALCULATE ( [Var. Share RPK (pp)] ) )
+			VAR ganhou = MAXX ( TOPN ( 1, t, [@d], DESC ), dCia[Cia] )
+			VAR perdeu = MAXX ( TOPN ( 1, t, [@d], ASC ), dCia[Cia] )
+			RETURN
+			    IF (
+			        ISBLANK ( [Var. Share RPK GOL (pp)] ),
+			        BLANK (),
+			        "A GOL tem " & FORMAT ( [Share RPK GOL], "0.0%" ) & " de share em RPK (" & FORMAT ( [Var. Share RPK GOL (pp)], "+0.0;-0.0" )
+			            & " pp). Quem mais ganhou espaço foi a " & ganhou & " (" & FORMAT ( MAXX ( t, [@d] ), "+0.0;-0.0" )
+			            & " pp) e quem mais perdeu foi a " & perdeu & " (" & FORMAT ( MINX ( t, [@d] ), "+0.0;-0.0" ) & " pp)."
+			    )
+		displayFolder: 7. Insights
+		lineageTag: 3cc51fba-ada0-4013-a79e-2ad222dc5aad
+
+	measure 'Insight GOL' =
+			VAR ca = [Cresc. ASK GOL]
+			VAR cp = [Cresc. Passageiros GOL]
+			RETURN
+			    IF (
+			        ISBLANK ( cp ),
+			        BLANK (),
+			        "A GOL aumentou a oferta em " & FORMAT ( ca, "+0.0%;-0.0%" ) & " e os passageiros em " & FORMAT ( cp, "+0.0%;-0.0%" ) & ". "
+			            & IF (
+			                ca > cp,
+			                "Parte dos assentos novos ainda não foi preenchida, então o foco passa a ser ocupação e preço por voo.",
+			                "A demanda acompanhou a oferta e a ocupação se manteve."
+			            )
+			    )
+		displayFolder: 7. Insights
+		lineageTag: 4cf0b2f2-3347-4f62-9e14-6196d22df500
+
+	measure 'Insight Mercados' =
+			VAR t =
+			    ADDCOLUMNS (
+			        FILTER ( VALUES ( dMercado[Mercado] ), NOT ISBLANK ( [Passageiros GOL] ) ),
+			        "@gap", [Gap de Oferta GOL (pp)],
+			        "@d", [Var. Share GOL (pp)],
+			        "@q", [Quadrante GOL]
+			    )
+			VAR n = COUNTROWS ( t )
+			VAR nDef = COUNTROWS ( FILTER ( t, [@q] = "Defender" ) )
+			VAR mGap = MAXX ( TOPN ( 1, t, [@gap], DESC ), dMercado[Mercado] )
+			VAR mOcupa = MAXX ( TOPN ( 1, t, [@gap], ASC ), dMercado[Mercado] )
+			VAR mGanho = MAXX ( TOPN ( 1, t, [@d], DESC ), dMercado[Mercado] )
+			RETURN
+			    IF (
+			        n = 0,
+			        BLANK (),
+			        "Em " & nDef & " de " & n & " mercados, o mercado cresce e a GOL perde share. O maior gap de oferta está em " & mGap
+			            & " (" & FORMAT ( MAXX ( t, [@gap] ), "+0.0;-0.0" ) & " pp). Em " & mOcupa
+			            & ", a GOL ocupa mais que o mercado. O maior ganho de share foi em " & mGanho & "."
+			    )
+		displayFolder: 7. Insights
+		lineageTag: d911e9d8-b6a0-4a7d-ab6f-3c079ede0eb1
+
+	measure Realizado = SUM ( fForecast[Realizado] )
+		formatString: #,0
+		displayFolder: 8. Forecast
+		lineageTag: 76255297-d566-4114-802f-7ab95580cb1b
+
+	measure Previsão = SUM ( fForecast[Previsao] )
+		formatString: #,0
+		displayFolder: 8. Forecast
+		lineageTag: 40218508-1fdf-4b59-954d-24de1b367c29
+
+	measure 'Previsão P10' = SUM ( fForecast[P10] )
+		formatString: #,0
+		displayFolder: 8. Forecast
+		lineageTag: 22be8759-0733-4960-8133-e17378dcb3c9
+
+	measure 'Previsão P90' = SUM ( fForecast[P90] )
+		formatString: #,0
+		displayFolder: 8. Forecast
+		lineageTag: ce7d9091-974a-442e-9864-7068f81ef57a
+
+	measure 'MAPE do modelo escolhido' = CALCULATE ( MAX ( fBacktest[MAPE] ), fBacktest[Escolhido] = "Sim" )
+		formatString: 0.0%
+		displayFolder: 8. Forecast
+		lineageTag: 34d72fce-2e02-4f31-9080-1d5b9a422868
+
+	measure 'Mercado previsto 2027' = CALCULATE ( SUM ( fForecast[Previsao] ), FILTER ( ALL ( fForecast ), YEAR ( fForecast[Data] ) = 2027 ) )
+		formatString: #,0
+		displayFolder: 8. Forecast
+		lineageTag: e4d547cc-fbb1-4343-bce6-1e032752c5de
+
+	measure 'Premissa crescimento' = SELECTEDVALUE ( 'Cenário crescimento'[Crescimento 2027], MAX ( fPremissas[CrescBase2027] ) )
+		formatString: +0.0%;-0.0%;0.0%
+		displayFolder: 8. Forecast
+		lineageTag: b32eb9d3-b3e3-45db-a72b-38c3f112ae6c
+
+	measure 'Premissa share GOL' = SELECTEDVALUE ( 'Cenário share'[Share GOL 2027], MAX ( fPremissas[Share12m] ) )
+		formatString: 0.0%
+		displayFolder: 8. Forecast
+		lineageTag: bd0d1da3-9fdb-403a-a504-5daf1530d8d2
+
+	measure 'Mercado 2027 (cenário)' = MAX ( fPremissas[Mercado2026Est] ) * ( 1 + [Premissa crescimento] ) / 1000000
+		formatString: 0.0" mi"
+		displayFolder: 8. Forecast
+		lineageTag: c5e421bf-797a-43aa-9929-000e8f7c81d2
+
+	measure 'GOL 2027 (cenário)' = [Mercado 2027 (cenário)] * [Premissa share GOL]
+		formatString: 0.0" mi"
+		displayFolder: 8. Forecast
+		lineageTag: b82b6fe0-896b-4f6b-8107-973dc6197314
+
+	measure 'GOL 2027 vs 2025' = DIVIDE ( [GOL 2027 (cenário)] * 1000000, MAX ( fPremissas[GOL2025] ) ) - 1
+		formatString: +0.0%;-0.0%;0.0%
+		displayFolder: 8. Forecast
+		lineageTag: 3a1e2435-2b79-44c4-b1ad-9a46d5cee2d3
+
+	measure 'GOL 2027 vs cenário base' =
+			VAR base = MAX ( fPremissas[Mercado2026Est] ) * ( 1 + MAX ( fPremissas[CrescBase2027] ) ) * MAX ( fPremissas[Share12m] ) / 1000000
+			RETURN [GOL 2027 (cenário)] - base
+		formatString: +0.0" mi";-0.0" mi";0.0" mi"
+		displayFolder: 8. Forecast
+		lineageTag: 05d289a1-1db5-43f1-943d-fffd1eabbeed
+
+	measure 'Insight Forecast' =
+			"O modelo escolhido errou em média " & FORMAT ( [MAPE do modelo escolhido], "0.0%" )
+			    & " no backtest (1 a 6 meses à frente). Para 2027, ele projeta " & FORMAT ( [Mercado previsto 2027] / 1000000, "0.0" )
+			    & " milhões de passageiros no doméstico. Mexa nas premissas abaixo para ver o efeito na GOL."
+		displayFolder: 7. Insights
+		lineageTag: 0dcc9563-5424-4d2f-8763-120173c704ab
+
+	measure 'Índice de passageiros' =
+			VAR media =
+			    DIVIDE (
+			        CALCULATE ( [Passageiros], ALLSELECTED ( dCalendario ) ),
+			        CALCULATE ( DISTINCTCOUNT ( fVoos[Data] ), ALLSELECTED ( dCalendario ) )
+			    )
+			RETURN DIVIDE ( [Passageiros], media ) * 100
+		formatString: 0
+		displayFolder: 8. Forecast
+		lineageTag: cfd46524-ab9f-466c-b735-a244e0c06ce3
+
+	column Coluna
+		dataType: string
+		isHidden
+		lineageTag: fb3365b4-72d8-4cd3-b967-7bcb6ddf4c72
+		summarizeBy: none
+		sourceColumn: Coluna
+
+		annotation SummarizationSetBy = Automatic
+
+	partition _Medidas = m
+		mode: import
+		source =
+				let
+				    Fonte = #table(type table [Coluna = text], {})
+				in
+				    Fonte
+
+	annotation PBI_ResultType = Table
+

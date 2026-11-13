@@ -1,0 +1,18 @@
+table 'Cenário share'
+	lineageTag: 43143ccf-79ec-4d98-beac-f09a08fc3548
+
+	column 'Share GOL 2027'
+		dataType: double
+		formatString: 0.0%
+		lineageTag: 46d1d2f9-2396-4753-a888-23c01bc375ab
+		summarizeBy: none
+		sourceColumn: [Share GOL 2027]
+
+		annotation SummarizationSetBy = Automatic
+
+	partition 'Cenário share' = calculated
+		mode: import
+		source = SELECTCOLUMNS ( GENERATESERIES ( 0.27, 0.37, 0.005 ), "Share GOL 2027", ROUND ( [Value], 3 ) )
+
+	annotation PBI_Id = 976124ea35884807ac89b9b67fe99518
+

@@ -1,0 +1,66 @@
+table fPremissas
+	isHidden
+	lineageTag: d0b0355c-15a2-418f-9d06-2a02b6917bd8
+
+	column Mercado2025
+		dataType: double
+		isHidden
+		formatString: #,0
+		lineageTag: 78e1114c-d8ff-4d5b-a7d0-1c8364c69846
+		summarizeBy: none
+		sourceColumn: Mercado2025
+
+		annotation SummarizationSetBy = Automatic
+
+	column Mercado2026Est
+		dataType: double
+		isHidden
+		formatString: #,0
+		lineageTag: e784e2f6-e43e-497c-93c7-004112f23608
+		summarizeBy: none
+		sourceColumn: Mercado2026Est
+
+		annotation SummarizationSetBy = Automatic
+
+	column GOL2025
+		dataType: double
+		isHidden
+		formatString: #,0
+		lineageTag: dc8ea885-61fb-4d1b-905e-37802e14c44d
+		summarizeBy: none
+		sourceColumn: GOL2025
+
+		annotation SummarizationSetBy = Automatic
+
+	column Share12m
+		dataType: double
+		isHidden
+		formatString: 0.0%
+		lineageTag: 17494ba0-66e3-4498-ab1a-cf72533d1ab6
+		summarizeBy: none
+		sourceColumn: Share12m
+
+		annotation SummarizationSetBy = Automatic
+
+	column CrescBase2027
+		dataType: double
+		isHidden
+		formatString: +0.0%;-0.0%;0.0%
+		lineageTag: 98cc489b-2d15-4ce5-8edf-08da1c2d15bc
+		summarizeBy: none
+		sourceColumn: CrescBase2027
+
+		annotation SummarizationSetBy = Automatic
+
+	partition fPremissas = m
+		mode: import
+		source =
+				let
+				    Fonte = Csv.Document(File.Contents(PastaDados & "fPremissas.csv"), [Delimiter = ",", Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+				    Cabecalho = Table.PromoteHeaders(Fonte, [PromoteAllScalars = true]),
+				    Tipos = Table.TransformColumnTypes(Cabecalho, {{"Mercado2025", type number}, {"Mercado2026Est", type number}, {"GOL2025", type number}, {"Share12m", type number}, {"CrescBase2027", type number}}, "en-US")
+				in
+				    Tipos
+
+	annotation PBI_ResultType = Table
+

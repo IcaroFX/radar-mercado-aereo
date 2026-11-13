@@ -1,0 +1,7 @@
+expression PastaDados = "C:\RadarMercadoAereo\powerbi\dados\" meta [IsParameterQuery = true, Type = "Text", IsParameterQueryRequired = true]
+	lineageTag: def722a8-05d8-4946-bcfb-3d4bf05d1315
+
+	annotation PBI_ResultType = Text
+
+	annotation PBI_NavigationStepName = Navigation
+
